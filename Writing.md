@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific Writing
+title: Scientific writing
 rank: 1
 ---
 

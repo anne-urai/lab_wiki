@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python Setup
+title: Python setup, computing and data analysis
 rank: 1
 ---
 
