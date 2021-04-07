@@ -1,8 +1,4 @@
----
-layout: page
-title: "Python Setup"
-permalink: /PythonSetup/
----
+# Python Setup
 
 * Understand what a virtual environment is, install Anaconda
 * Understand Git and GitHub
