@@ -13,7 +13,7 @@ This wiki and lab manual is inspired by similar documents from [Mariam Aly](http
 ### Have a question?
 Inspired by [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf).
 
-![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png)
+![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 
 ### Contributing to this wiki
 1. Fork the [repository](https://github.com/anne-urai/lab_wiki).
