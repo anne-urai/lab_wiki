@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: Data Collection and Management
+rank: 1
+---
+
 If you are going to collect data, either in person or online, there are lots of resources at Leiden University to help you.
 - [Ethical approval](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/commissie-ethiek?_ga=2.35655075.2008115849.1611051865-572952841.1580558528)
 - [Data management](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/wetenschapscommissie?_ga=2.39830048.2008115849.1611051865-572952841.1580558528)
