@@ -31,7 +31,7 @@
 
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
-          {% if item.path != "index.md" and item.title and item.rank %}
+          {% if item.title and item.rank %}
             <menu>
               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->

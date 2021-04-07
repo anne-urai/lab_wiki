@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data collection and management
-rank: 1
+rank: 4
 ---
 
 If you are going to collect data, either in person or online, there are lots of resources at Leiden University to help you.
