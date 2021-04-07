@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## Welcome!
 This is the lab wiki. For more info about our team, research, blog and publications see [anneurai.net](anneurai.net).
 
 ## Contributing to the wiki
