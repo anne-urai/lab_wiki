@@ -19,7 +19,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        % <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -32,10 +32,10 @@
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
-            <li>
+            <menu>
               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-            </li>
+            </menu>
           {% endif %}
         {% endfor %}
       </header>
