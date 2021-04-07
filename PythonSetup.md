@@ -1,4 +1,8 @@
-# Python Setup
+---
+layout: default
+title: Python Setup
+rank: 1
+---
 
 * Understand what a virtual environment is, install Anaconda
 * Understand Git and GitHub
