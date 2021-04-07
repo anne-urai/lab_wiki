@@ -23,6 +23,7 @@ rank: 2
    [Atom](https://atom.io/). If you're happy with a simpler solution, you can use a text editor like [Sublime](https
    ://www.sublimetext.com/) + the trusted Mac OS Terminal (not sure about Windows).
    *  You can also access [DataCamp learning resources](https://www.datacamp.com/groups/shared_links/a6bb93f6866b8ced468d96d1406e020a421592ea) with your Leiden Uni account.
+   * When setting up your project, make sure you're running it in the right virtual environment to access all your packages.
 * Think about the structure of data
     * [The structure of data, by Todd Gureckis](http://gureckislab.org/courses/spring21/labincp/chapters/05/00-data.html)
     * Learn to work with the [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) and

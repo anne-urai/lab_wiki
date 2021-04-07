@@ -4,10 +4,18 @@ title: Home
 rank: 1
 ---
 
-## Welcome!
+### Welcome!
 This is the lab wiki. For more info about our team, research, blog and publications see [anneurai.net](https://anneurai.net).
 
-## Contributing to this wiki
+This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf). It's a continuous work in progress.
+
+
+### Have a question?
+Inspired by [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf).
+
+![Decision tree](https://github.com/anne-urai/lab_wiki/lab_decision_tree.png)
+
+### Contributing to this wiki
 1. Fork the [repository](https://github.com/anne-urai/lab_wiki).
 2. Clone your own fork to local
 3. Edit existing `.md` files, or create a new one with the following header:
