@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practical things
-rank: 2
+rank: 3
 ---
 
 ### Meetings and colloquia

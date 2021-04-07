@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python setup, computing and data analysis
-rank: 2
+rank: 4
 ---
 
 ## Python and data analysis basics
