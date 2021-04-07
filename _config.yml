@@ -5,4 +5,9 @@ relative_links:
   collections: true
 include:
   - README.md
+  - DataCollection.md
+  - PythonSetup.md
+  - IBLdata.md
+  - Supervision.md
+  - Writing.md
 theme: jekyll-theme-minimal
