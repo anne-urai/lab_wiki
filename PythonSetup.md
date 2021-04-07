@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Python Setup"
 permalink: /PythonSetup/
+---
 
 * Understand what a virtual environment is, install Anaconda
 * Understand Git and GitHub
