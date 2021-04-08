@@ -7,17 +7,17 @@ rank: 5
 
 Many projects make use of the large dataset collected by the [International Brain Laboratory](https://www.internationalbrainlab.com/).
 
-#### General info
+### General info
 * [Preprint](https://doi.org/10.1101/2020.01.17.909838) describing the experiments and the data.
 * [Video description of the data by Eric deWitt](https://www.youtube.com/watch?v=NofrFH8FRZU), for NeuroMatchAcademy.
 * Explore the data through the [interactive DataJoint portal](https://data.internationalbrainlab.org/).
 
-#### Getting started with IBL data
+### Getting started with IBL data
 * See [data.internationalbrainlab.org](https://data.internationalbrainlab.org/) for a landing page and overview.
 * [Request access credentials](https://datajoint.io/events/nma-ibl-public) to the database.
 * Explore the collab notebooks created by DataJoint: [NMA-IBL on GitHub](https://github.com/int-brain-lab/nma-ibl).
 
-#### To set up your local configuration
+### To set up your local configuration
 _This assumes that you've worked through the general Python setup, and that you understand GitHub, conda and some basic command line tools._
 1. Create and activate your conda environment (e.g. called `iblenv`)
 2. Use `conda install` to install `seaborn` and `statsmodels`. 
@@ -28,7 +28,7 @@ _This assumes that you've worked through the general Python setup, and that you 
     * See more [here](https://docs.datajoint.io/python/setup/01-Install-and-Connect.html) and [here](https://int-brain-lab.github.io/iblenv/dj_docs/dj_credentials.html).
     * *Important:* make sure you add `dj_local_conf.json` to the `.gitignore` file in your repo, so that your credentials don't end up on your public-facing repository on GitHub. You can also copy [this .gitignore file](https://github.com/int-brain-lab/paper-behavior/blob/master/.gitignore).
 
-#### Play with the data
+### Play with the data
 Now create a script that will load and save some data. 
 
 Import things
@@ -71,3 +71,13 @@ Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simpl
 *Exercise 3*: get more detailed info not at the session level (overall accuracy on easy stimuli), but at the individual trial level. You can use `sessions * behavior.TrialSet.Trial` to get this, but be warned that this will become huge/slow quickly. Better to first restrict to a subset of sessions (e.g. from one mouse), or to use `.proj` to select only those attributes of the `TrialSet` that you really need. See [here](https://github.com/int-brain-lab/paper-behavior/blob/master/figure3ab_psychfuncs.py#L41) for an example.
 
 *Exercise 4*: recreate a figure from [the preprint](https://doi.org/10.1101/2020.01.17.909838), for instance figure 2a. Then compare your solution against the [code here](https://github.com/int-brain-lab/paper-behavior).
+
+### Extra: light cycles
+
+```python
+# for each lab, see if the ligth cycle is inverted (1) or non-inverted (0)
+housing = subject.Housing * subject.SubjectHousing * subject.SubjectLab
+housing = housing.proj('lab_name', 'light_cycle')
+hs = housing.fetch(format='frame').reset_index()
+hs.groupby(['lab_name'])['light_cycle'].unique()
+```

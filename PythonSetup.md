@@ -29,7 +29,7 @@ rank: 4
     * Learn to work with the [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) and
      [seaborn](https://seaborn.pydata.org/) packages for data handling and visualization.
 
-## Computing resources
+### Computing resources
 For most projects (especially those using behavioral data), your laptop will be more than sufficient to run Python
 . If you need more heavy lifting, there are a few options:
 - ALICE supercomputer @ Leiden Uni

@@ -4,24 +4,24 @@ title: Mission, vision, values
 rank: 2
 ---
 
-#### Values
+### Values
 
-#### Conduct
+### Conduct
 
 
-#### Wellbeing
+### Wellbeing
 Take care of yourself. 
 If you struggle with mental health, know that you're not alone and that resources are available. You can use xx
 
-####  Open science
+###  Open science
 
-#### Scientific ethics
+### Scientific ethics
 
-#### Best practices
+### Best practices
 - Version control
 - Code buddies
 
-#### Supervision
+### Supervision
 
 These are some of my expectations for students. Follow the principles of good scientific practice and open science. 
 Have fun. Admit mistakes.
@@ -44,6 +44,5 @@ Have fun. Admit mistakes.
 
 - Mentoring: make use of the Cognitive Psychology Unit's mentoring scheme (ask Sander Nieuwenhuis).
 
-
-#### Authorship
+### Authorship
 
