@@ -32,19 +32,19 @@ _This assumes that you've worked through the general Python setup, and that you 
 Now create a script that will load and save some data. 
 
 Import things
-```
+```python
 # datajoint-specific stuff
 import datajoint as dj
 from nma_ibl import reference, subject, acquisition, behavior, behavior_analyses
-
 ```
 Then, query some basic information about all sessions that were run.
 
 ```python
-
 # which subjects (i.e. mice) are in the database?
 subjects = (subject.Subject * subject.SubjectLab * reference.Lab)
-# this contains a lot of information that we don't really need (and will increase the size of the data we want to download). so let's get only the columns that we're interested in
+# this contains a lot of information that we don't really need 
+# (and will increase the size of the data we want to download). 
+# so let's get only the columns that we're interested in
 subjects = subjects.proj('subject_nickname', 'sex', 'subject_birth_date', 'time_zone')
 # note that this is not yet data - it's only a query to the database. fetch will actually get those data
 df_subjects = subjects.fetch(format='frame').sort_values(by=['lab_name', 'subject_nickname']).reset_index()
@@ -59,7 +59,10 @@ sessions = sessions.proj('n_trials', 'performance_easy', 'threshold', 'bias', 'l
                         'training_status', 'user_name', 
                         session_duration='TIMEDIFF(session_end_time,session_start_time)')
 df_sessions = sessions.fetch(format='frame').reset_index()
-# note: the two dataframes containing subject info and sessions info share the column subject_uuid, which is called the 'primary key' that uniquely identifies each mouse. use pandas' join to combine the two dataframes - but beware the size of the data you're working with.
+# note: the two dataframes containing subject info and sessions info share 
+# the column subject_uuid, which is called the 'primary key' that uniquely 
+# identifies each mouse. use pandas' join to combine the two dataframes - 
+# but beware the size of the data you're working with.
 ```
 
 Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line.
