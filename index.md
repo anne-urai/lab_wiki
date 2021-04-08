@@ -9,11 +9,9 @@ This is the lab wiki. For more info about our team, research, blog and publicati
 
 This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf). It's a continuous work in progress.
 
-
 ### Have a question?
-Inspired by [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf).
-
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
+_Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
 
 ### Contributing to this wiki
 1. Fork the [repository](https://github.com/anne-urai/lab_wiki).

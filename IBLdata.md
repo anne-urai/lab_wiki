@@ -30,15 +30,9 @@ _This assumes that you've worked through the general Python setup, and that you 
 
 #### Play with the data
 Now create a script that will load and save some data. 
+
 Import things
 ```
-# general module import
-import pandas as pd
-import numpy as np
-import os
-import seaborn as sns
-import matplotlib.pyplot as plt
-
 # datajoint-specific stuff
 import datajoint as dj
 from nma_ibl import reference, subject, acquisition, behavior, behavior_analyses
@@ -46,16 +40,26 @@ from nma_ibl import reference, subject, acquisition, behavior, behavior_analyses
 ```
 Then, query some basic information about all sessions that were run.
 
-```
+```python
+
+# which subjects (i.e. mice) are in the database?
 subjects = (subject.Subject * subject.SubjectLab * reference.Lab)
-sessions = acquisition.Session * behavior * behavior_analysis * subjects & 'task_protocol LIKE "%training%"' # only take training sessions here
+# this contains a lot of information that we don't really need (and will increase the size of the data we want to download). so let's get only the columns that we're interested in
+subjects = subjects.proj('subject_nickname', 'sex', 'subject_birth_date', 'time_zone')
+# note that this is not yet data - it's only a query to the database. fetch will actually get those data
+df_subjects = subjects.fetch(format='frame').sort_values(by=['lab_name', 'subject_nickname']).reset_index()
 
+# same for sessions - only take training sessions here
+sessions =  behavior.TrialSet * behavior_analyses.PsychResults * behavior_analyses.ReactionTime \
+            * behavior_analyses.SessionTrainingStatus \
+            * (acquisition.Session & 'task_protocol LIKE "%training%"') * acquisition.SessionUser \
+            & subjects # 
 # only save some fields that we really care about for now (otherwise, the dataframe will explode)
-sessions = sessions.proj('')
-
-# fetch as DataFrame
-df = sessions.fetch(format='frame').sort_values(by=['lab_name', 'user_name', 'subject_nickname']).reset_index()
-df # take a look at what we've got
+sessions = sessions.proj('n_trials', 'performance_easy', 'threshold', 'bias', 'lapse_low', 'lapse_high',
+                        'training_status', 'user_name', 
+                        session_duration='TIMEDIFF(session_end_time,session_start_time)')
+df_sessions = sessions.fetch(format='frame').reset_index()
+# note: the two dataframes containing subject info and sessions info share the column subject_uuid, which is called the 'primary key' that uniquely identifies each mouse. use pandas' join to combine the two dataframes - but beware the size of the data you're working with.
 ```
 
 Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line.
@@ -64,4 +68,6 @@ Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simpl
 
 *Exercise 2*: plot some basic information about all the sessions. When (at what time of day) where they collected? How many sessions were collected per lab, user, and animal? How does performance change as a function of each animal's progression in training?
 
-*Exercise 3*: recreate a figure from [the preprint](https://doi.org/10.1101/2020.01.17.909838), for instance figure 2a. Then compare your solution against the [code here](https://github.com/int-brain-lab/paper-behavior).
+*Exercise 3*: get more detailed info not at the session level (overall accuracy on easy stimuli), but at the individual trial level. You can use `sessions * behavior.TrialSet.Trial` to get this, but be warned that this will become huge/slow quickly. Better to first restrict to a subset of sessions (e.g. from one mouse), or to use `.proj` to select only those attributes of the `TrialSet` that you really need. See [here](https://github.com/int-brain-lab/paper-behavior/blob/master/figure3ab_psychfuncs.py#L41) for an example.
+
+*Exercise 4*: recreate a figure from [the preprint](https://doi.org/10.1101/2020.01.17.909838), for instance figure 2a. Then compare your solution against the [code here](https://github.com/int-brain-lab/paper-behavior).
