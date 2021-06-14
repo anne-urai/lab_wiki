@@ -18,6 +18,7 @@ rank: 4
    pandas and seaborn.
 * Learn the basics of Python
   * [Intro to Python, by Todd Gureckis](http://gureckislab.org/courses/fall20/labincp/chapters/03/00-python.html)
+  * Students at Leiden University can follow the [Introduction to Python course, offered by LIACS](https://stepik.org/course/73333/promo).
   * Download a Python IDE (Integrated Development Environments). I like [PyCharm](https://www.jetbrains.com/pycharm
   /) (you can create a free educational account), other great options are [VSCode](https://code.visualstudio.com/) or
    [Atom](https://atom.io/). If you're happy with a simpler solution, you can use a text editor like [Sublime](https

@@ -8,7 +8,7 @@ rank: 2
 Figuring out how the world works, [for the sake of knowledge itself](https://www.ias.edu/about/usefulness-useless-knowledge), is a vital human endeavor. Scientific research, both fundamental and applied, is absolutely necessary to the functioning of our societies and species. It can also be a wonderful occupation, with [the joys](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3630) of problem-solving, discovery, and collaboration with smart and enthusiastic people. While today's scientific enterprise has many problems (yesterday's probably even more so), I consider it a privilege to be paid to solve interesting puzzles about the brain.
 
 ### Ethics and open science
-With this privilege of doing science comes the responsibility of doing it well (or at least, in the best way we can). We're responsible to taxpayers for not wasting their hard-earned euros; to our academic communities for not mislead each other purposefully or waste time on dead-ends; and to ourselves for spending our time well.
+With this privilege of doing science comes the responsibility of doing it well (or at least, in the best way we can). We're responsible to taxpayers for getting the most out of their hard-earned euros; to our academic communities for not mislead each other purposefully or waste time on dead-ends; and to ourselves for spending our time well.
 
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work. Collaborate, don't compete.
 
