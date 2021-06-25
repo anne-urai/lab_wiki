@@ -7,7 +7,7 @@ rank: 1
 ### Welcome!
 This is the lab wiki. For more info about our team, research, blog and publications see [anneurai.net](https://anneurai.net).
 
-This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy). It's a continuous work in progress.
+This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy) and [Michael Beyer](https://docs.google.com/document/d/1Y1wzFVdp-FCoGM47okaW5eYdOOfpgXD5nM9Q7DpwAMo/edit). It's a continuous work in progress.
 
 ### Have a question?
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)

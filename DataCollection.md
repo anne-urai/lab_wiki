@@ -11,3 +11,4 @@ If you are going to collect data, either in person or online, there are lots of 
 
 
 ### Collecting online data
+- SOLO has a dedicated MS Teams channel for support in online data collection. 
