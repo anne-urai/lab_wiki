@@ -74,13 +74,3 @@ Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simpl
 *Exercise 3*: get more detailed info not at the session level (overall accuracy on easy stimuli), but at the individual trial level. You can use `sessions * behavior.TrialSet.Trial` to get this, but be warned that this will become huge/slow quickly. Better to first restrict to a subset of sessions (e.g. from one mouse), or to use `.proj` to select only those attributes of the `TrialSet` that you really need. See [here](https://github.com/int-brain-lab/paper-behavior/blob/master/figure3ab_psychfuncs.py#L41) for an example.
 
 *Exercise 4*: recreate a figure from [the preprint](https://doi.org/10.1101/2020.01.17.909838), for instance figure 2a. Then compare your solution against the [code here](https://github.com/int-brain-lab/paper-behavior).
-
-### Extra: light cycles
-
-```python
-# for each lab, see if the ligth cycle is inverted (1) or non-inverted (0)
-housing = subject.Housing * subject.SubjectHousing * subject.SubjectLab
-housing = housing.proj('lab_name', 'light_cycle')
-hs = housing.fetch(format='frame').reset_index()
-hs.groupby(['lab_name'])['light_cycle'].unique()
-```

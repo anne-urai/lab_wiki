@@ -13,6 +13,8 @@ This wiki and lab manual is inspired by similar documents from [Mariam Aly](http
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
 
+Check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).
+
 ### Contributing to this wiki
 1. Fork the [repository](https://github.com/anne-urai/lab_wiki).
 2. Clone your own fork to local
