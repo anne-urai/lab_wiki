@@ -15,6 +15,7 @@ rank: 4
   * Make a GitHub account, practice with a test repo.
   * Further practice: this wiki repo, add something in the [Markdown language](https://guides.github.com/features/mastering-markdown/), and submit a pull request (see Home for instructions on how to contribute to the wiki).
 * Learn the basics of Python
+  * [DataCamp](https://www.datacamp.com/groups/shared_links/bdca0f873fb4e2a3d00f489268470b8eef78a1eafcde11c025950376eed73c9c) has very good adaptive programming courses. Sign up with your _@umail.leidenuniv.nl_ address using the link for free access.
   * [Intro to Python, by Todd Gureckis](http://gureckislab.org/courses/fall20/labincp/chapters/03/00-python.html)
   * Students at Leiden University can follow the [Introduction to Python course, offered by LIACS](https://stepik.org/course/73333/promo).
   * Download a Python IDE (Integrated Development Environments). I like [PyCharm](https://www.jetbrains.com/pycharm/) (you can create a free educational account), other great options are [VSCode](https://code.visualstudio.com/) or

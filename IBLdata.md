@@ -8,7 +8,7 @@ rank: 5
 Many projects make use of the large dataset collected by the [International Brain Laboratory](https://www.internationalbrainlab.com/).
 
 ### General info
-* [Preprint](https://doi.org/10.1101/2020.01.17.909838) describing the experiments and the data.
+* [eLife paper](https://elifesciences.org/articles/63711) describing the experiments and the data.
 * [Video description of the data by Eric deWitt](https://www.youtube.com/watch?v=NofrFH8FRZU), for NeuroMatchAcademy.
 * Explore the data through the [interactive DataJoint portal](https://data.internationalbrainlab.org/).
 
@@ -65,7 +65,7 @@ df_sessions = sessions.fetch(format='frame').reset_index()
 # but beware the size of the data you're working with.
 ```
 
-Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line.
+Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line. To better understand what the columns mean, see [this list by Leon Hommerich](https://leonh.notion.site/Dataframe-Column-Explanations-13688128673c48559262653bc2ced3fc) as well as the official list of [IBL dataset types](https://docs.google.com/spreadsheets/d/1ieLXRPLLSgUKcLvFkrqizfZl5HjdfE6bQ2KLBCRmjQo/edit#gid=1097679410) (this doesn't match with the DataJoint names one-on-one).
 
 *Exercise 1*: write some code to save this newly created Pandas DataFrame as a csv file. Make sure to avoid that this (large) datafile gets pushed to GitHub, for instance by creating a `/data` folder that is listed in your `.gitignore`. Then, for any analysis you want to run, load in this local file - you'll now be able to get data without connecting to the DataJoint database. Of course, you may need different datafiles for different purposes (at the level of animals, sessions, or trials).
 
