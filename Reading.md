@@ -26,3 +26,9 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 #### Electrophysiology
 - Donoghue T, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B (2020) Parameterizing neural power spectra into periodic and aperiodic components. Nature Neuroscience 23:1655–1665.
 - Cohen MX (2014) Analyzing Neural Time Series Data: Theory and Practice. MIT Press.
+- Humphries M (2021) The spike: an epic journey through the brain in 2.1 seconds. Princeton: University Press.
+
+#### Scientific life & organizing your work
+- Gawande A (2010) The checklist manifesto: how to get things right, 1st ed. New York: Metropolitan Books.
+- Allen D (2003) Getting things done: the art of stress-free productivity. London: Penguin Books.
+- Schwartz MA (2008) The importance of stupidity in scientific research. Journal of Cell Science 121:1771–1771.
