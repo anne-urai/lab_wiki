@@ -18,6 +18,7 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 
 #### Theory and philosophy
 - Teller DY (1984) Linking propositions. Vision Res 24:1233–1246.
+- Glimcher PW (2005) Indeterminacy in Brain and Behavior. Annual Review of Psychology 56:25–56.
 
 #### History of science
 - Gleick J (1988) Chaos: Making a New Science. Penguin.

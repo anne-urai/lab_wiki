@@ -19,7 +19,7 @@ Many projects make use of the large dataset collected by the [International Brai
 
 ### To set up your local configuration
 _This assumes that you've worked through the general Python setup, and that you understand GitHub, conda and some basic command line tools._
-1. Create and activate your conda environment (e.g. called `iblenv`)
+1. Create and activate your conda environment (made using [these instructions](https://github.com/int-brain-lab/iblenv)).
 2. Use `conda install` to install `seaborn` and `statsmodels`. 
     - You can also install the useful pingouin package for basic stats: `conda install -c conda-forge pingouin`.
 3. Run `pip install nma-ibl` to get access to the IBL data via DataJoint.
