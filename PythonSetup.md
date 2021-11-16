@@ -4,6 +4,12 @@ title: Python setup, computing and data analysis
 rank: 4
 ---
 
+### Step-by-step instructions to getting started
+1. [Download and install Anaconda](https://www.anaconda.com/products/individual)
+2. [Download and install git](https://git-scm.com/downloads)
+3. [Download and install Spyder](https://www.spyder-ide.org/) from the standalone
+4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
+
 ## Python and data analysis references
 * Know your way around the command line
     * [Basic cheatsheet](https://github.com/moriahtaylor1/teaching-materials/blob/main/infographics/GIT%20GUIDE%20Part%201%20-%20INTRO.png)
@@ -21,12 +27,6 @@ rank: 4
     * [The structure of data, by Todd Gureckis](http://gureckislab.org/courses/spring21/labincp/chapters/05/00-data.html)
     * Learn to work with the [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) and
      [seaborn](https://seaborn.pydata.org/) packages for data handling and visualization.
-
-### Step-by-step instructions to getting started
-1. [Download and install Anaconda](https://www.anaconda.com/products/individual)
-2. [Download and install git](https://git-scm.com/downloads)
-3. [Download and install Spyder](https://www.spyder-ide.org/) from the standalone
-4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
 
 ### Computing resources
 For most projects (especially those using behavioral data), your laptop will be more than sufficient to run Python
