@@ -8,6 +8,7 @@ rank: 4
 1. [Download and install Anaconda](https://www.anaconda.com/products/individual)
 2. [Download and install git](https://git-scm.com/downloads)
 3. [Download and install Spyder](https://www.spyder-ide.org/) from the standalone
+    - [Follow this tutorial on scientific data analysis in Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter)
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
 
 ## Python and data analysis references
