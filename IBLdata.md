@@ -14,7 +14,7 @@ Many projects make use of the large dataset collected by the [International Brai
 
 ### Getting started with IBL data
 * See [data.internationalbrainlab.org](https://data.internationalbrainlab.org/) for a landing page and overview.
-* [Request access credentials](https://datajoint.io/events/nma-ibl-public) to the database.
+* [Request access credentials](https://surveys.datajoint.io/nma-ibl-public) to the database.
 * Explore the collab notebooks created by DataJoint: [NMA-IBL on GitHub](https://github.com/int-brain-lab/nma-ibl).
 
 ### To set up your local configuration

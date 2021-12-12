@@ -10,6 +10,7 @@ rank: 4
 3. [Download and install Spyder](https://www.spyder-ide.org/) from the standalone
     - [Follow this tutorial on scientific data analysis in Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter)
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
+    - Make sure to [link Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter#setting-up-the-working-directory) to your `iblenv` conda env: Settings / Python Interpreter / User the following Python interpreter / `anaconda3/envs/iblenvs/bin/python`
 
 ## Python and data analysis references
 * Know your way around the command line
