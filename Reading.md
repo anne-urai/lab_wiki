@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading
+title: Reading & learning
 rank: 6
 ---
 
@@ -33,3 +33,12 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 - Gawande A (2010) The checklist manifesto: how to get things right, 1st ed. New York: Metropolitan Books.
 - Allen D (2003) Getting things done: the art of stress-free productivity. London: Penguin Books.
 - Schwartz MA (2008) The importance of stupidity in scientific research. Journal of Cell Science 121:1771–1771.
+
+
+
+## Learning scientific skills
+As a scientists you'll develop many other skills. Via [Mark Humphries](https://www.humphries-lab.org/blank-page-6), see Dan Larremore's lab guides to:
+- [Data visualization](https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view)
+- [Giving a talk](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view)
+- [Clean code](https://drive.google.com/file/d/1TraVwRkbkCbHq-s_-NS69ZEbRNwH8XNh/view)
+- [Peer review](https://drive.google.com/file/d/1g7VSbUkF9wBszcjHCeZlGHoHqUqYfDC0/view)
