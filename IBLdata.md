@@ -65,7 +65,7 @@ df_sessions = sessions.fetch(format='frame').reset_index()
 # but beware the size of the data you're working with.
 ```
 
-Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line. To better understand what the columns mean, see [this list by Leon Hommerich](https://leonh.notion.site/Dataframe-Column-Explanations-13688128673c48559262653bc2ced3fc) as well as the official list of [IBL dataset types](https://docs.google.com/spreadsheets/d/1ieLXRPLLSgUKcLvFkrqizfZl5HjdfE6bQ2KLBCRmjQo/edit#gid=1097679410) (this doesn't match with the DataJoint names one-on-one).
+Now explore the DataFrame, for instance in 'scientific mode' in PyCharm or simply by printing different parts and groups to your command line. To better understand what the columns mean, see [this](https://leonh.notion.site/Master-Student-Knowledge-Base-88d54d9ca12a43f9aa01c4a05090e816) and [this list by Leon Hommerich](https://leonh.notion.site/Dataframe-Column-Explanations-13688128673c48559262653bc2ced3fc) as well as the official list of [IBL dataset types](https://docs.google.com/spreadsheets/d/1ieLXRPLLSgUKcLvFkrqizfZl5HjdfE6bQ2KLBCRmjQo/edit#gid=1097679410) (this doesn't match with the DataJoint names one-on-one).
 
 *Exercise 1*: write some code to save this newly created Pandas DataFrame as a csv file. Make sure to avoid that this (large) datafile gets pushed to GitHub, for instance by creating a `/data` folder that is listed in your `.gitignore`. Then, for any analysis you want to run, load in this local file - you'll now be able to get data without connecting to the DataJoint database. Of course, you may need different datafiles for different purposes (at the level of animals, sessions, or trials).
 

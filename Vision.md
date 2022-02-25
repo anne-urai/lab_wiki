@@ -31,13 +31,13 @@ To stay sane and grounded, remember you're [a whole person](https://blogs.scient
 
 If you struggle with mental health, know that you're not alone, and that resources are available. Leiden University has [counsellors](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/confidential-counsellors/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) and [student psychologist services](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/student-psychologist/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) that you can use freely and confidentially. [Frisse gedachten](https://www.frissegedachtes.nl/) provides low-threshold chats and buddy-systems in Dutch. You can always talk to me about any professional or personal circumstances, for advice, or to point out ways in which I should improve/change my ways.
 
-### Lab cultute, mentorship and supervision
+### Lab culture, mentorship and supervision
 
 ##### I expect you to:
 - Treat your colleagues, participants and lab equipment with respect. 
 - Be a team player and good academic citizen: help others, collaborate and share ideas.  
-    - Be physically present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours, and to be present for departmental events to benefit from the social and scientific interactions. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
-    - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; email is an asynchronous medium, so set your own boundaries (and other fantastic [PhD tips](https://www.rachelbedder.com/phdtips))!
+- Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours, and to be present for departmental events to benefit from the social and scientific interactions. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
+    - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; [email is an asynchronous medium](https://www.rachelbedder.com/phdtips), so set your own boundaries.
     
 - Take **ownership of your research project**. You will soon be the expert on the topic!
     - I'm here to guide and advise you, _not_ to be your teacher. In a course, your goal may be to get a good grade for an assignment and mine is to assess your work; a research project is a different game where we're both learning and I'm happy to be shown wrong.
@@ -46,8 +46,8 @@ If you struggle with mental health, know that you're not alone, and that resourc
 
 - Know the limits of your knowledge and **don't be afraid to ask questions**. Admit when you are wrong, or made a mistake; be honest with yourself, and with your peers and colleagues.
     - Examine your assumptions and expect to be wrong. A lot. Ask someone to be your 'code buddy' and replicate your figures, from the data, from scratch. 
-    - Knowing how long to keep trying something, and when to ask for help, is a tremendously useful skill. A useful guideline: if you know what next steps to take (keywords to Google, instructions to follow, control analyses to run) then take them first. If you can no longer identify how to move forward, don't waste time being stuck and ask for help or advice.
-       - Ask good questions; indicate what you've tried so far, what your current best answer is, and what specific guidance you need.
+- Knowing how long to keep trying something, and when to ask for help, is a tremendously useful skill. A useful guideline: if you know what next steps to take (keywords to Google, instructions to follow, control analyses to run) then take them first. If you can no longer identify how to move forward, don't waste time being stuck and ask for help or advice.
+       - To ask good questions (of me, or anyone else); indicate what you've tried so far, what your current best answer is, and what specific guidance you need.
   
 - Take a proactive role in your **career development**. 
     - Take the time to explore your interests, to try things out, and to look widely at careers that may suit you. [Ashley Juavinett's book](https://cup.columbia.edu/book/so-you-want-to-be-a-neuroscientist/9780231190893) is a great start. 
