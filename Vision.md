@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vision & values
-rank: 2
+rank: 3
 ---
 
 ## Vision & values

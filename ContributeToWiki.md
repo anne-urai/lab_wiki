@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributing to the wiki
-rank: 1
+rank: 2
 ---
 
 I'm always looking to improve these instructions. Please help me, and let me know which ones are unclear, if links don't work, or if you've found better resources/additional information that can help students in the future.

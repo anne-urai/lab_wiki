@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading & learning
-rank: 6
+rank: 5
 ---
 
 Read widely, deeply and regularly. Read weird things. Keep track of what you read, and make notes; I strongly recommend Zotero with the Zotfile plugin for managing both pdfs and references.
@@ -15,6 +15,10 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 
 #### Statistics
 - Aarts E, Verhage M, Veenvliet JV, Dolan CV, van der Sluis S (2014) A solution to dependency: using multilevel analysis to accommodate nested data. Nature Neuroscience 17:491–496.
+
+#### Behavioral analyses
+- Padoa-Schioppa C (2022) Logistic analysis of choice data: A primer. Neuron 
+
 
 #### Theory and philosophy
 - Teller DY (1984) Linking propositions. Vision Res 24:1233–1246.

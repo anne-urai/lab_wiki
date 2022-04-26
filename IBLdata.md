@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working with IBL data
-rank: 5
+rank: 9
 ---
 ## Working with IBL data
 
@@ -15,6 +15,7 @@ Many projects make use of the large dataset collected by the [International Brai
 ### Getting started with IBL data
 * See [data.internationalbrainlab.org](https://data.internationalbrainlab.org/) for a landing page and overview.
 * [Request access credentials](https://surveys.datajoint.io/nma-ibl-public) to the database.
+    * [More docs on IBL-DJ access](https://github.com/int-brain-lab/iblenv/tree/master/docs_gh_pages/dj_docs)
 * Explore the collab notebooks created by DataJoint: [NMA-IBL on GitHub](https://github.com/int-brain-lab/nma-ibl).
 
 ### To set up your local configuration
