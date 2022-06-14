@@ -26,6 +26,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - What type of messaging is most effective to mobilize people into climate actions?
 - How can we improve virtual conferences and meetings to  make them a better replacement for in-person events?
 - What is the carbon footprint of neuroscience data? Potential collaboration with [Charlotte Rae](https://profiles.sussex.ac.uk/p220408-charlotte-rae).
+- How can we best visualize uncertainty to communicate the urgency of the climate crisis?
 
 ### Random
 - Replicate [academic family tree clustering](http://www.nature.com/news/majority-of-mathematicians-hail-from-just-24-scientific-families-1.20491) using [Neurotree](https://twitter.com/AnneEUrai/status/769270998965321728).
