@@ -11,10 +11,17 @@ To add the associated calendar: in Outlook (doesn't work on the web version, unf
 
 ### Meetings and colloquia
 Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
+
+#### Booking a room
+- lecture hall somewhere in the university: email the [ServiceDesk](https://www.medewerkers.universiteitleiden.nl/gebouwen-faciliteiten/gebouwen/zaal-reserveren?cf=sociale-wetenschappen&cd=psychologie) of every faculty separately (there is no uni-wide system).
+- nice workshop space: [Lorentz Center](https://www.lorentzcenter.nl/calendar.html). When there are no workshops, Leiden Uni staff can make use of the space.
+- common room in PdlC building: in Outlook web calendar, simply create an event and select 'Psychology Common Room' as the location. 
+- Olthoff room (CogPsy) for up to 8 ppl: there is a paper calendar at the secretariat.
  
 ### Conferences
 I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending FENS, SfN, ECVP, ASSC, CCN.
 
+I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one.
 
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
@@ -34,6 +41,8 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [MCSA](https://marie-sklodowska-curie-actions.ec.europa.eu/) postdoc, for anyone who has not lived/worked in the Netherlands recently
 - [AXA](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D)
 - [Branco Weiss](https://brancoweissfellowship.org/) 
+- Marie Curie
+
 
 ### Funding - travel grants
 - eLife travel grants

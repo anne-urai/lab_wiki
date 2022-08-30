@@ -31,6 +31,9 @@ To stay sane and grounded, remember you're [a whole person](https://blogs.scient
 
 If you struggle with mental health, know that you're not alone, and that resources are available. Leiden University has [counsellors](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/confidential-counsellors/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) and [student psychologist services](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/student-psychologist/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) that you can use freely and confidentially. [Frisse gedachten](https://www.frissegedachtes.nl/) provides low-threshold chats and buddy-systems in Dutch. You can always talk to me about any professional or personal circumstances, for advice, or to point out ways in which I should improve/change my ways.
 
+#### Doing a PhD...
+Has many [positive aspects](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). Be realistic, and find what works for you.
+
 ### Lab culture, mentorship and supervision
 
 ##### I expect you to:

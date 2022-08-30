@@ -4,7 +4,8 @@ title: Scientific writing
 rank: 6
 ---
 
-See this useful [writing guide](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view) by Matteo Carandini.
+See this useful [writing guide](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view) by Matteo Carandini. 
+- [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 
 Practice version control; I like Google Docs, which works well with Zotero.
 

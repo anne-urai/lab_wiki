@@ -12,6 +12,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - How do decision-making strategies (such as perseverance) change with ageing? Fit behavioral models (e.g. [Ashwood et al. 2022](https://www.nature.com/articles/s41593-021-01007-z), [Findling et al. 2019](https://doi.org/10.1038/s41593-019-0518-9)) to decision-making data across the lifespan (both mice and humans).
 - Do learning and decision-making vary with the biological clock, and is it easier to learn when consistently practicing at the same time of day? Potential collaboration with [Christian Tudorache](https://www.universiteitleiden.nl/en/staffmembers/christian-tudorache#tab-1).
 - How can we disentangle choice updating from slow drifts in decision criterion? Apply method proposed by [Gupta and Brody](https://www.biorxiv.org/content/10.1101/2021.09.17.460767v1).
+- Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
@@ -23,10 +24,12 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - The role of posterior parietal cortex in history-dependent choice biases.
 
 ### Climate action
-- What type of messaging is most effective to mobilize people into climate actions?
-- How can we improve virtual conferences and meetings to  make them a better replacement for in-person events?
+- What type of messaging is most effective to mobilize people into climate actions? 
+- How can we improve virtual conferences and meetings to make them a better replacement for in-person events?
 - What is the carbon footprint of neuroscience data? Potential collaboration with [Charlotte Rae](https://profiles.sussex.ac.uk/p220408-charlotte-rae).
-- How can we best visualize uncertainty to communicate the urgency of the climate crisis?
+- How can we best visualize uncertainty and risk to communicate the urgency of the climate crisis? Data visualization and UX design.
+- Analyze flight/travel data from university employees to see where the biggest improvements can be made. What kind of behavioral interventions  (policy, messaging, transparency) may help reduce aviation-related CO2 emissions?
+- Visualize and describe the impacts of climate change on our city, university, faculty - and ways to adapt to sea-level rise, hotter summers, extreme weather.
 
 ### Random
 - Replicate [academic family tree clustering](http://www.nature.com/news/majority-of-mathematicians-hail-from-just-24-scientific-families-1.20491) using [Neurotree](https://twitter.com/AnneEUrai/status/769270998965321728).
