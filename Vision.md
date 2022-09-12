@@ -39,7 +39,7 @@ Has many [positive aspects](https://doi.org/10.7554/eLife.81075) but can also be
 ##### I expect you to:
 - Treat your colleagues, participants and lab equipment with respect. 
 - Be a team player and good academic citizen: help others, collaborate and share ideas.  
-- Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours, and to be present for departmental events to benefit from the social and scientific interactions. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
+- Be present in the lab during regular hours, at least a few days a week (for postdocs and PhD students). I generally encourage you to work during regular office hours, and to be present for departmental events to benefit from the social and scientific interactions. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
     - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; [email is an asynchronous medium](https://www.rachelbedder.com/phdtips), so set your own boundaries.
     
 - Take **ownership of your research project**. You will soon be the expert on the topic!
