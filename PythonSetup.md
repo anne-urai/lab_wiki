@@ -47,3 +47,6 @@ For most projects (especially those using behavioral data), your laptop will be 
 - LISA / Cartesius clusters @ SurfSara
   - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden doesn
   ’t have a contract with SurfSara you have to apply to extend your account every year.
+  
+#### Remote computing on Windows
+- MobaXTerm is your best bet for using ssh on Windows (for transferring data). For MobaXTerm to find your ssh keys, set the env variable in windows to be `C:\Users\username`, _not_ `P-drive`! Ask Anne.

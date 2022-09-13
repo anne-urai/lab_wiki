@@ -21,7 +21,7 @@ Once you've gone through those and have tried the exercises, let me know how thi
 When joining the lab, here are a few things to do in your first week:
 - Get added to the _CoCoSys lab MS teams group_ (ask Anne)
 - Get added to the _Cognitive Psychology MS teams group_ 
-- See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for more practical things in the department
+- See [here](https://anne-urai.github.io/lab_wiki/Practical.html) for more practical things in the department
 - [Computing setup](https://anne-urai.github.io/lab_wiki/PythonSetup.html)
     - Get a GitHub account
     - [IBL data](https://anne-urai.github.io/lab_wiki/IBLdata.html)
