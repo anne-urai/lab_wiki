@@ -19,6 +19,7 @@ rank: 8
 * Understand Git and GitHub
   * [GitLectures](http://git-lectures.github.io)
   * [Git primer by Brad Voytek](https://voyteklab.com/git/git-primer/)
+  * [Even better Git intro](link)
   * Further practice: pull this wiki repo, add something in the [Markdown language](https://guides.github.com/features/mastering-markdown/), and submit a pull request (see Home for instructions on how to contribute to the wiki).
 * Learn the basics of Python
   * [DataCamp](https://www.datacamp.com/groups/shared_links/bdca0f873fb4e2a3d00f489268470b8eef78a1eafcde11c025950376eed73c9c) has very good adaptive programming courses. Sign up with your _@umail.leidenuniv.nl_ address using the link for free access.
