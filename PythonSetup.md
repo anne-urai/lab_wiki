@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code, analysis and computing
-rank: 8
+rank: 5
 ---
 
 ### Step-by-step instructions to getting started

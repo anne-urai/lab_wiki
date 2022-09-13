@@ -22,4 +22,6 @@ Once you've gone through those and have tried the exercises, let me know how thi
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
 
-Check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).
+When you join the lab, please **[contribute to the wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**.
+
+Also, check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).

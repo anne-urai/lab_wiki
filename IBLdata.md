@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working with IBL data
-rank: 9
+rank: 6
 ---
 ## Working with IBL data
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practical things
-rank: 4
+rank: 9
 ---
 
 ### Getting started at the cognitive psychology unit
