@@ -12,7 +12,8 @@ To add the associated calendar: in Outlook (doesn't work on the web version, unf
 The _MS Teams_ group has a good wiki with a lot of department-related information. Make sure to check it out!
 
 ### Meetings and colloquia
-Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
+- Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
+- We meet once a month with a smaller group interested in computational modelling. Email [Selin Topel](https://www.universiteitleiden.nl/en/staffmembers/selin-topel#tab-1) to get on the mailing list.
 
 #### Booking a room
 - lecture hall somewhere in the university: email the [ServiceDesk](https://www.medewerkers.universiteitleiden.nl/gebouwen-faciliteiten/gebouwen/zaal-reserveren?cf=sociale-wetenschappen&cd=psychologie) of every faculty separately (there is no uni-wide system).
