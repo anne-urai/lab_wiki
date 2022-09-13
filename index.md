@@ -9,19 +9,27 @@ This is the lab wiki. For more info about our team, research, blog and publicati
 
 This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy) and [Michael Beyer](https://docs.google.com/document/d/1Y1wzFVdp-FCoGM47okaW5eYdOOfpgXD5nM9Q7DpwAMo/edit). It's a continuous work in progress.
 
-### Getting started
+### Interested in joining?
 
 If you're interested in doing a project with us, great! Check out the following before you begin:
-- [our values](https://anne-urai.github.io/lab_wiki/Vision.html), including some expectation management
-- [Python setup](https://anne-urai.github.io/lab_wiki/PythonSetup.html)
-- [IBL data](https://anne-urai.github.io/lab_wiki/IBLdata.html)
+- [our values](https://anne-urai.github.io/lab_wiki/Vision.html), including some expectation management.
+- [project ideas](https://anne-urai.github.io/lab_wiki/ProjectIdeas.html).
 
 Once you've gone through those and have tried the exercises, let me know how things went (and where/if you got stuck) and what research questions you'd like to pursue.
+
+### Onboarding
+When joining the lab, here are a few things to do in your first week:
+- Get added to the _CoCoSys lab MS teams group_ (ask Anne)
+- Get added to the _Cognitive Psychology MS teams group_ 
+- See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for more practical things in the department
+- [Computing setup](https://anne-urai.github.io/lab_wiki/PythonSetup.html)
+    - Get a GitHub account
+    - [IBL data](https://anne-urai.github.io/lab_wiki/IBLdata.html)
+- Get organized: my setup is Zotero for papers, Obsidian for notes/planning, Teams/Slack for quick communication.
+- Read, and then **[contribute to this wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**.
 
 ### Have a question?
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
-
-When you join the lab, please **[contribute to the wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**.
 
 Also, check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).

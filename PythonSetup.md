@@ -12,7 +12,7 @@ rank: 5
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
     - Make sure to [link Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter#setting-up-the-working-directory) to your `iblenv` conda env: Settings / Python Interpreter / User the following Python interpreter / `anaconda3/envs/iblenvs/bin/python`
 
-# Python and data analysis references
+### Python and data analysis references
 * Know your way around the command line
     * [Basic cheatsheet](https://github.com/moriahtaylor1/teaching-materials/blob/main/infographics/GIT%20GUIDE%20Part%201%20-%20INTRO.png)
 * Understand what a virtual environment is
