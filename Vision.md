@@ -39,6 +39,9 @@ Has many [positive aspects](https://doi.org/10.7554/eLife.81075) but can also be
 
 ## Lab culture, mentorship and supervision
 
+I'd like to implement several practices that [minimize errors](https://psyarxiv.com/rsn5y/): keeping a detailed log of decisions about each project; following checklists for data collection; a 'code buddy' who reruns all the analyses using the same data with a new pipeline before submission; being open about the errors we all make; following checklists for data collection. In addition, before we submit a preprint I should be able to reproduce your figures, with your publicly available data and code.
+
+
 ### I expect you to:
 - Treat your colleagues, participants and lab equipment with respect. 
 - Be a team player and good academic citizen: help others, collaborate and share ideas.  
