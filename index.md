@@ -20,7 +20,7 @@ Once you've gone through those and have tried the exercises, let me know how thi
 ### Onboarding
 When joining the lab, here are a few things to do in your first week:
 - Get added to the _CoCoSys lab MS teams group_ (ask Anne)
-- Get added to the _Cognitive Psychology MS teams group_ 
+- Get added to the _Cognitive Psychology_, _Open Science Community Leiden_ and  _Psychology Living Room_ MS teams groups.
 - See [here](https://anne-urai.github.io/lab_wiki/Practical.html) for more practical things in the department
 - [Computing setup](https://anne-urai.github.io/lab_wiki/PythonSetup.html)
     - Get a GitHub account
