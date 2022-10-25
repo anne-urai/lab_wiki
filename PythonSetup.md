@@ -12,6 +12,11 @@ rank: 5
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
     - Make sure to [link Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter#setting-up-the-working-directory) to your `iblenv` conda env: Settings / Python Interpreter / User the following Python interpreter / `anaconda3/envs/iblenvs/bin/python`
 
+#### SSH setup
+- Pin the Anaconda Prompt to the Start bar, right-click on Properties, and change `%HOMEPATH` to the path where your code lives (e.g. `C:\Users\username\Documents\code\`).
+- [Connect your GitHub repo with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh). **Note**: the university's Dell machines have a habit of looking for ssh keys in the P-Drive `/p//.ssh/`, whereas you probably want to keep your keys in `/c//Users//username//.ssh`. To change where SSH looks for keys, [add an environment variable](https://www.thewindowsclub.com/see-names-and-values-of-environment-variables-in-windows) called `HOME`, and set it to `C:\Users\username`. Running `ssh-keygen` as a test, it should then prompt you to save your keys on the C-drive. If you've already created your ssh keys and they are on the P-drive, simply move them.
+- MobaXTerm is your best bet for using ssh on Windows (for transferring data). 
+
 ### Python and data analysis references
 * Know your way around the command line
     * [Basic cheatsheet](https://github.com/moriahtaylor1/teaching-materials/blob/main/infographics/GIT%20GUIDE%20Part%201%20-%20INTRO.png)
@@ -45,9 +50,4 @@ For most projects (especially those using behavioral data), your laptop will be 
 - ALICE supercomputer @ Leiden Uni
   - [Get an account](https://wiki.alice.universiteitleiden.nl/index.php?title=ALICE_User_Documentation_Wiki)
 - LISA / Cartesius clusters @ SurfSara
-  - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden doesn
-  ’t have a contract with SurfSara you have to apply to extend your account every year.
-  
-#### Remote computing & SSH keys on Windows
-- MobaXTerm is your best bet for using ssh on Windows (for transferring data). 
-For MobaXTerm to find your ssh keys, set the env variable in windows to be `C:\Users\username`, _not_ `P-drive`! Ask Anne.
+  - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden does not have a contract with SurfSara you have to apply to extend your account every year.
