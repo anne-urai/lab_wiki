@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['PythonSetup.md', 'IBLdata_neural.md', 'IBLdata.md', 'Reading.md', 'index.md', 'Practical.md', 'Vision.md', 'Writing.md', 'IBLdata_behav.md']
+recent_files = ['..\\int-brain-lab\\mouse_aging\\aging\\README.md', '..\\int-brain-lab\\mouse_aging\\aging\\reproducible_ephys_functions.py', '..\\int-brain-lab\\mouse_aging\\aging\\insertions_to_align.py', '..\\int-brain-lab\\mouse_aging\\aging\\queries_one_aging.py', '..\\int-brain-lab\\mouse_aging\\aging\\reset_spikesorting_tasks.py', '..\\int-brain-lab\\mouse_aging\\other\\load_public_repro_ephys.py', '..\\int-brain-lab\\mouse_aging\\other\\test_datajoint_bnb.py', '..\\int-brain-lab\\mouse_aging\\aging\\utils.py']
 
 [main]
 version = 0.2.0

@@ -44,9 +44,9 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [MCSA](https://marie-sklodowska-curie-actions.ec.europa.eu/) postdoc, for anyone who has not lived/worked in the Netherlands recently
 - [AXA](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D)
 - [Branco Weiss](https://brancoweissfellowship.org/) 
-- Marie Curie
-
+- KNAW grants
+- Women in Science Fellowship (L’Oréal-UNESCO)  
+- Narsad Young investigator
 
 ### Funding - travel grants
-- eLife travel grants
 - IBRO
