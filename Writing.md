@@ -4,10 +4,10 @@ title: Scientific writing
 rank: 7
 ---
 
-See this useful [writing guide](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view) by Matteo Carandini. 
+See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 
-Practice version control; I like Google Docs, which works well with Zotero.
+Practice version control; I like Google Docs (name important versions), which works well with Zotero.
 
 I'm a sucker for *nice-looking figures* (and fonts). Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
 - Learn to use colors to your advantage
