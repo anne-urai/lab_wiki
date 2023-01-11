@@ -7,10 +7,8 @@ rank: 5
 ### Step-by-step instructions to getting started
 1. [Download and install Anaconda](https://www.anaconda.com/products/individual)
 2. [Download and install git](https://git-scm.com/downloads)
-3. [Download and install Spyder](https://www.spyder-ide.org/) from the standalone
-    - [Follow this tutorial on scientific data analysis in Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter)
-4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data
-    - Make sure to [link Spyder](https://docs.spyder-ide.org/current/workshops/scientific-computing.html?highlight=jupyter#setting-up-the-working-directory) to your `iblenv` conda env: Settings / Python Interpreter / User the following Python interpreter / `anaconda3/envs/iblenvs/bin/python`
+3. [Download and install VSCode](https://code.visualstudio.com/), including the AutoPilot and Remote extensions (the latter for working on the ALICE cluster)
+4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data (and select `iblenv` as your interpreter in VSCode)
 
 #### SSH setup
 - Pin the Anaconda Prompt to the Start bar, right-click on Properties, and change `%HOMEPATH` to the path where your code lives (e.g. `C:\Users\username\Documents\code\`).
@@ -49,5 +47,6 @@ For most projects (especially those using behavioral data), your laptop will be 
 . If you need more heavy lifting, there are a few options:
 - ALICE supercomputer @ Leiden Uni
   - [Get an account](https://wiki.alice.universiteitleiden.nl/index.php?title=ALICE_User_Documentation_Wiki)
+  - Ask Anne about getting access to shared project space, where ONE public data lives
 - LISA / Cartesius clusters @ SurfSara
   - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden does not have a contract with SurfSara you have to apply to extend your account every year.
