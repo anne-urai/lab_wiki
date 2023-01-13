@@ -4,10 +4,11 @@ title: Meeting template
 
 ---
 
-For our weekly supervision meetings, we'll use the template below. It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template).
+For our weekly supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template).
 
-Fill it in before our weekly meeting, and send it to Anne by email (just in the body of the text) with title 'Weekly summary [date]'.
-_Note: if you feel like skipping our meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons you could indicate this, but no need to let me know the details._
+Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title 'Weekly summary [date]'.
+
+_Note: if you feel like skipping the meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons you could indicate this, but no need to let me know the details._
 
 ### Current state of wellbeing
 Motivation is pretty good / I'm demotivated because... / I have fun working with ... / Still trying to get over the paper rejection... / I'm struggling with ...
@@ -21,6 +22,7 @@ Describe the progress of the past week. This can include longer descriptions of 
 - Something new came up that I addressed
 
 ### Next steps
+- These are the obvious next things I'll pursue
 - I have a fantastic new idea for a new analysis method that solves all our problems
 - Based on our conversations, I want to try what you suggested 4 weeks ago but I never tried it...
 
