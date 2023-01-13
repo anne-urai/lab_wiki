@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scientific writing
-rank: 7
+rank: 8
 ---
 
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 

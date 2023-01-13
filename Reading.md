@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading & learning
-rank: 4
+rank: 5
 ---
 
 Read widely, deeply and regularly. Read weird things. Keep track of what you read, and make notes; I strongly recommend Zotero with the Zotfile plugin for managing both pdfs and references.

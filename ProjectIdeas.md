@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project ideas
-rank: 3
+rank: 4
 ---
 
 Some ideas for project topics and research questions.
