@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision & values
+title: Working with me
 rank: 3
 ---
 
