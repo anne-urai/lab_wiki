@@ -13,6 +13,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Do learning and decision-making vary with the biological clock, and is it easier to learn when consistently practicing at the same time of day? Potential collaboration with [Christian Tudorache](https://www.universiteitleiden.nl/en/staffmembers/christian-tudorache#tab-1).
 - How can we disentangle choice updating from slow drifts in decision criterion? Apply method proposed by [Gupta and Brody](https://www.biorxiv.org/content/10.1101/2021.09.17.460767v1).
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
+- Do mice show 'handedness', i.e. a preference to respond with 'rightward' choices? Based on observation by Sebastian Bruijns, early on in the IBL task. Combine with literature review on handedness across decision-making tasks (especially in mice) with different response modalities.
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
