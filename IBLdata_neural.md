@@ -15,9 +15,10 @@ In our lab's shared ALICE project space (`data_pi-uraiae`) live IBL data which a
 ```python
 from one.api import ONE
 one = ONE()
-project = 'churchland_learninglifespan'
 
 # Load with ONE in local mode
-save_dir = os.path.join(os.path.expanduser('~'), 'data_pi-uraiae/ONE/alyx.internationalbrainlab.org/', project)
+save_dir = os.path.join(os.path.expanduser('~'), 'data_pi-uraiae/ONE/alyx.internationalbrainlab.org/')
 one = ONE(mode='local', cache_dir=save_dir)
 ```
+
+In the same folder, there is a file `subject_info.csv` with date of birth and sex for all animals to compute their age at the time of the ephys recording).
