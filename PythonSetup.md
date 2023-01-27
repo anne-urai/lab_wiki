@@ -17,7 +17,7 @@ rank: 6
 
 #### ALICE setup
 - See [here](https://pubappslu.atlassian.net/wiki/spaces/HPCWIKI/pages/37748811/Login+to+ALICE+or+SHARK+from+Windows) to connect using ssh.
-- _Warning_: your home directory only has 15GB of space. This fills up quickly if you install your conda environments there (just `iblenv` is !). So before you create your first conda env, run `mkdir ~/data1/.conda; ln -fs data1/.conda`. Keep only code in your home directory, and everything else (data, figures) in the lab's shared project space or your own data folder.
+- _Warning_: your home directory only has 15GB of space. This fills up quickly if you install your conda environments there (just `iblenv` is 2.5GB!). So before you create your first conda env, run `mkdir ~/data1/.conda; ln -fs data1/.conda`. Keep only code in your home directory, and everything else (data, figures) in the lab's shared project space or your own data folder.
 
 ### Python and data analysis references
 * Know your way around the command line
