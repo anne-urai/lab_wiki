@@ -10,10 +10,14 @@ rank: 6
 3. [Download and install VSCode](https://code.visualstudio.com/), including the AutoPilot and Remote extensions (the latter for working on the ALICE cluster)
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data (and select `iblenv` as your interpreter in VSCode)
 
-#### SSH setup
+#### SSH setup (locally)
 - Pin the Anaconda Prompt to the Start bar, right-click on Properties, and change `%HOMEPATH` to the path where your code lives (e.g. `C:\Users\username\Documents\code\`).
 - [Connect your GitHub repo with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh). **Note**: the university's Dell machines have a habit of looking for ssh keys in the P-Drive `/p//.ssh/`, whereas you probably want to keep your keys in `/c//Users//username//.ssh`. To change where SSH looks for keys, [add an environment variable](https://www.thewindowsclub.com/see-names-and-values-of-environment-variables-in-windows) called `HOME`, and set it to `C:\Users\username`. Running `ssh-keygen` as a test, it should then prompt you to save your keys on the C-drive. If you've already created your ssh keys and they are on the P-drive, simply move them.
 - MobaXTerm is your best bet for using ssh on Windows (for transferring data). 
+
+#### ALICE setup
+- See [here](https://pubappslu.atlassian.net/wiki/spaces/HPCWIKI/pages/37748811/Login+to+ALICE+or+SHARK+from+Windows) to connect using ssh.
+- _Warning_: your home directory only has 15GB of space. This fills up quickly if you install your conda environments there (just `iblenv` is !). So before you create your first conda env, run `mkdir ~/data1/.conda; ln -fs data1/.conda`. Keep only code in your home directory, and everything else (data, figures) in the lab's shared project space or your own data folder.
 
 ### Python and data analysis references
 * Know your way around the command line
@@ -46,7 +50,9 @@ rank: 6
 For most projects (especially those using behavioral data), your laptop will be more than sufficient to run Python
 . If you need more heavy lifting, there are a few options:
 - ALICE supercomputer @ Leiden Uni
-  - [Get an account](https://wiki.alice.universiteitleiden.nl/index.php?title=ALICE_User_Documentation_Wiki)
-  - Ask Anne about getting access to shared project space, where ONE public data lives
+  - [Get an account](https://wiki.alice.universiteitleiden.nl/index.php?title=ALICE_User_Documentation_Wiki), and include a request to be added to the `data_pi-uraiae` project space (for IBL data).
 - LISA / Cartesius clusters @ SurfSara
   - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden does not have a contract with SurfSara you have to apply to extend your account every year.
+
+
+  
