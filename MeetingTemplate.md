@@ -4,6 +4,8 @@ title: Meeting template
 
 ---
 
+## Weekly / regular meetings
+
 For our weekly supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
 
 Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_.
@@ -13,8 +15,8 @@ _Note: if you feel like skipping the meeting, that's totally fine. If it's for s
 ### Current state of wellbeing
 Motivation is pretty good / I'm demotivated because... / I have fun working on ... / Still trying to get over the paper rejection... / I'm struggling with ...
 
-### Last week's work
-Describe the progress of the past week, including longer descriptions (text, figures, code). Ideally, code + figures live in a shared GitHub repo where I can browse them before we meet.
+### Past work
+Describe the progress of the past week (or period since we last met), including longer descriptions (text, figures, code). Ideally, code + figures live in a shared GitHub repo or other document where I can browse them before we meet.
 
 - Done, as planned
 - Done, with some changes, due to ...
@@ -28,10 +30,24 @@ Describe the progress of the past week, including longer descriptions (text, fig
 - I'm stuck on ...
 
 ### What I need (from supervision) right now
-- Analysis ideas
+_Feel free to already send me some keywords or action points ahead of time, so I can prepare better for our meeting._
+- Analysis ideas / research / methods
 - Writing feedback
-- Reading suggestions
-- Peptalk
+- Reading suggestions, content knowledge
 - Administrative help
+- Academic language and culture
+- Peptalk / well-being
+- Career planning
 - Not much; the meeting is just to share an update
 - ...
+
+## Evaluation meetings
+Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't.
+
+For instance:
+- Are you happy with the way things are going - scientifically, personally, in the department and in the lab?
+- What have you accomplished? Does this match your original plans?
+- What did you struggle with?
+- What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
+- Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
+- What are your goals for the next few months or year? Where do you see yourself in a few years?
