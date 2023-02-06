@@ -49,4 +49,9 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - Narsad Young investigator
 
 ### Funding - travel grants
-- IBRO
+- [IBRO exchange grants](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships) for research visits to another lab (1-3 months).
+- [IBRO travel grants](https://ibro.org/travel-grants/) for conference visits
+- [Catharina van Tussenbroek](https://www.cvtfonds.nl/) travel grants, for women scientists
+- [KNAW van der Gaag grant](https://www.knaw.nl/en/funds-and-prizes/knaw-van-der-gaag-grant)
+- eLife used to have travel grants
+- [Simons Collaboration on the Global Brain](https://www.simonsfoundation.org/funding-opportunities/)
