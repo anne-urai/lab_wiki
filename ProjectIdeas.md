@@ -6,6 +6,8 @@ rank: 4
 
 Some ideas for project topics and research questions.
 
+[Here](https://neuromatch.social/@szorowi1@mastodon.online/109818403055317445) is a link to databases of behavioral datasets that are publicly available. My motto: if you can answer a question with existing data, why collect it anew?
+
 ### Decision-making: data analysis
 _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples on getting started with existing IBL data_.
 - Does choice history bias correlate with psychopathology? Reanalyse data from [Rouault et al. 2019](https://doi.org/10.1016/j.biopsych.2017.12.017) by fitting models of choice history bias (e.g. [logistic m odels](https://www.nature.com/articles/ncomms14637) or [drift diffusion models](http://dx.doi.org/10.7554/eLife.46331)).
