@@ -4,9 +4,9 @@ title: Meeting template
 
 ---
 
-## Weekly / regular meetings
+# Weekly / regular meetings
 
-For our weekly supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
+For our regular supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
 
 Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_.
 
@@ -41,7 +41,12 @@ _Feel free to already send me some keywords or action points ahead of time, so I
 - Not much; the meeting is just to share an update
 - ...
 
-## Evaluation meetings
+### Action points
+_During our meeting, write the action points that we discussed and make them the start of next meeting's template._
+
+---
+
+# Evaluation meetings
 Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't.
 
 For instance:
@@ -51,3 +56,5 @@ For instance:
 - What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
 - Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
+
+This [template from Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit) is a great start for a mentoring agreement - complementary to your own development plan.
