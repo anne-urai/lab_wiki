@@ -13,7 +13,7 @@ Fill it in before our meeting, and send it to Anne by email (just in the body of
 _Note: if you feel like skipping the meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons, you of course don't have to tell me the specifics._
 
 ### Current state of wellbeing
-Motivation is pretty good / I'm demotivated because... / I have fun working on ... / Still trying to get over the paper rejection... / I'm struggling with ...
+Motivation is pretty good / I'm demotivated because... / I have fun working on ... / Still trying to get over the paper rejection... / I'm struggling with ... / I'm bored / Insecure
 
 ### Past work
 Describe the progress of the past week (or period since we last met), including longer descriptions (text, figures, code). Ideally, code + figures live in a shared GitHub repo or other document where I can browse them before we meet.
@@ -42,7 +42,7 @@ _Feel free to already send me some keywords or action points ahead of time, so I
 - ...
 
 ### Action points
-_During our meeting, write the action points that we discussed and make them the start of next meeting's template._
+_During our meeting, write the action points that we discussed and make them the start of next meeting's template. Ideally, write those as we chat and send them as a reply email afterwards._
 
 ---
 

@@ -47,6 +47,7 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - KNAW grants
 - Women in Science Fellowship (L’Oréal-UNESCO)  
 - Narsad Young investigator
+- [Human Frontier Science Program](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 
 ### Funding - travel grants
 - [IBRO exchange grants](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships) for research visits to another lab (1-3 months).
@@ -55,3 +56,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [KNAW van der Gaag grant](https://www.knaw.nl/en/funds-and-prizes/knaw-van-der-gaag-grant)
 - eLife used to have travel grants
 - [Simons Collaboration on the Global Brain](https://www.simonsfoundation.org/funding-opportunities/)
+- [Stichting de Drie Lichten](https://www.stichtingdedrielichten.nl/#subsidie) for work visits, not conferences
