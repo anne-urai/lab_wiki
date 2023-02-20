@@ -4,17 +4,23 @@ title: Working with me
 rank: 3
 ---
 
+### Meetings
+Please join the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and weekly lab meeting (ask Anne for access to lab calendar), and feel free to suggest topics/papers.
+
+For Bachelor/Master student projects, I normally start with **meetings on demand**: when you either get stuck or have something to show me (one of these should happen every few weeks), book a meeting through Calendly and send me a short description beforehand. 
+For longer projects (PhD/postdoc), we'll start with regular meetings (e.g. once a week, once every two weeks). Talk to me and find out what works for you.
+
+Before our meetings, fill out this [template](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html) to help us structure our discussion. Afterwards, email the action points we agreed on. Most meetings shouldn't be longer than 45 minutes to an hour; but of course if we need more time/relaxed atmosphere, let me know.
+
+
 ## Lab culture, mentorship and supervision
 
-I'd like to implement several practices that [minimize errors](https://psyarxiv.com/rsn5y/): keeping a detailed log of decisions about each project; following checklists for data collection; a 'code buddy' who reruns all the analyses using the same data with a new pipeline before submission; being open about the errors we all make; following checklists for data collection. In addition, before we submit a preprint I should be able to reproduce your figures, with your publicly available data and code.
+I'd like to implement several practices that [minimize errors](https://psyarxiv.com/rsn5y/): keeping a detailed log of decisions about each project; following checklists for data collection; a 'code buddy' who reruns all the analyses using the same data with a new pipeline before submission; being open about the errors we all make; following checklists for data collection. 
+In addition, before we submit a preprint I should be able to reproduce your figures, with your publicly available data and code.
 
-### Meetings
-Please join the [weekly CogPsy meetin](https://anne-urai.github.io/lab_wiki/Practical.html) and weekly lab meeting, and feel free to suggest topics/papers.
+### Mentoring agreement
 
-For student projects, I normally start with **meetings on demand**: when you either get stuck or have something to show me (one of these should happen every few weeks), book a meeting through Calendly and send me a short description beforehand. 
-For longer projects (PhD/postdoc), we may start with regular meetings (e.g. once a week, once every two weeks). Talk to me and find out what works for you.
-
-Before our meetings, fill out this [template](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html) to help us structure our discussion. Most meetings shouldn't be longer than 45 minutes to an hour; but of course if we need more time/relaxed atmosphere, let me know.
+With each lab member who's here for more than a few months, we'll draft a [mentoring agreement](https://anne-urai.github.io/lab_wiki/Vision.html) that is evaluated at least every year.
 
 ### I expect you to:
 - Treat your colleagues, participants and lab equipment with respect. 

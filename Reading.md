@@ -8,6 +8,13 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
  
  Some of my favorite papers and books:
 
+#### Scientific life & organizing your work
+- Allen D (2003) Getting things done: the art of stress-free productivity. London: Penguin Books. _Staying organized, not overwhelmed._
+- Newport C (2016) Deep Work: Rules for Focused Success in a Distracted World. New York. _Read the first half with a grain of salt, but see how you can implement the second half's practices in your own life._
+- Gawande A (2010) The checklist manifesto: how to get things right, 1st ed. New York: Metropolitan Books. _Must-read for running experiments._
+- Schwartz MA (2008) The importance of stupidity in scientific research. Journal of Cell Science 121:1771–1771.
+
+
 #### Perceptual decision-making
 - Siegel M, Donner TH, Engel AK (2012) Spectral fingerprints of large-scale neuronal interactions. Nature Reviews Neuroscience 13:121–134.
 - Summerfield C, de Lange FP (2014) Expectation in perceptual decision making: neural and computational mechanisms. Nat Rev Neurosci 15:745–756.
@@ -18,7 +25,6 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 
 #### Behavioral analyses
 - Padoa-Schioppa C (2022) Logistic analysis of choice data: A primer. Neuron 
-
 
 #### Theory and philosophy
 - Teller DY (1984) Linking propositions. Vision Res 24:1233–1246.
@@ -32,12 +38,6 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 - Donoghue T, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B (2020) Parameterizing neural power spectra into periodic and aperiodic components. Nature Neuroscience 23:1655–1665.
 - Cohen MX (2014) Analyzing Neural Time Series Data: Theory and Practice. MIT Press.
 - Humphries M (2021) The spike: an epic journey through the brain in 2.1 seconds. Princeton: University Press.
-
-#### Scientific life & organizing your work
-- Gawande A (2010) The checklist manifesto: how to get things right, 1st ed. New York: Metropolitan Books.
-- Allen D (2003) Getting things done: the art of stress-free productivity. London: Penguin Books.
-- Schwartz MA (2008) The importance of stupidity in scientific research. Journal of Cell Science 121:1771–1771.
-
 
 
 ## Learning scientific skills
