@@ -47,7 +47,7 @@ _During our meeting, write the action points that we discussed and make them the
 ---
 
 # Evaluation meetings
-Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't.
+Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't. See also the [mentoring agreement](https://anne-urai.github.io/lab_wiki/Vision.html). 
 
 For instance:
 - Are you happy with the way things are going - scientifically, personally, in the department and in the lab?
@@ -57,4 +57,5 @@ For instance:
 - Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
 
-This [template from Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit) is a great start for a mentoring agreement - complementary to your own development plan.
+Feedback for me:
+- What is one thing I'm doing that I could do better? One thing I'm doing that's getting in my own way?
