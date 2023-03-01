@@ -43,7 +43,6 @@ Feel free to already send me some keywords or action points ahead of time, so I 
 - ...
 
 ## Template to fill out during meeting 
-_Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
 
 ### Check-in
 How are you doing? Anything happening to bring up?
@@ -55,6 +54,8 @@ How are you doing? Anything happening to bring up?
 ### Action points 
 Can be with or without estimated (self-imposed) deadlines or ETA.
 - ...
+
+_Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
 
 ---
 
