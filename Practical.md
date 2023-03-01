@@ -11,11 +11,16 @@ To add the associated calendar: in Outlook (doesn't work on the web version, unf
 
 The _MS Teams_ group has a good wiki with a lot of department-related information. Make sure to check it out!
 
+### Getting started in the lab
+Ask Anne to add you to
+1. lab Teams channel
+2. lab calendar (Google calendar)
+
 ### Meetings and colloquia
 - Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
 - We meet once a month with a smaller group interested in computational modelling. Email [Selin Topel](https://www.universiteitleiden.nl/en/staffmembers/selin-topel#tab-1) to get on the mailing list.
 
-#### Booking a room
+#### Booking a room at Leiden Uni.
 - lecture hall somewhere in the university: email the [ServiceDesk](https://www.medewerkers.universiteitleiden.nl/gebouwen-faciliteiten/gebouwen/zaal-reserveren?cf=sociale-wetenschappen&cd=psychologie) of every faculty separately (there is no uni-wide system).
 - nice workshop space: [Lorentz Center](https://www.lorentzcenter.nl/calendar.html). When there are no workshops, Leiden Uni staff can make use of the space.
 - common room in PdlC building: in Outlook web calendar, simply create an event and select 'Psychology Common Room' as the location. 
@@ -25,6 +30,8 @@ The _MS Teams_ group has a good wiki with a lot of department-related informatio
 I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending FENS, SfN, ECVP, ASSC, CCN.
 
 I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one.
+
+Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.

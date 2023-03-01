@@ -6,17 +6,18 @@ title: Meeting template
 
 # Weekly / regular meetings
 
+_Note: if you feel like skipping the meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons, you of course don't have to tell me the specifics._
+
+## Template to fill out before meeting
 For our regular supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
 
-Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_.
-
-_Note: if you feel like skipping the meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons, you of course don't have to tell me the specifics._
+Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_. If you have a better idea for keeping track (a shared living document? Teams channel?), I'm happy to explore!
 
 ### Current state of wellbeing
 Motivation is pretty good / I'm demotivated because... / I have fun working on ... / Still trying to get over the paper rejection... / I'm struggling with ... / I'm bored / Insecure
 
 ### Past work
-Describe the progress of the past week (or period since we last met), including longer descriptions (text, figures, code). Ideally, code + figures live in a shared GitHub repo or other document where I can browse them before we meet.
+Describe the progress of the past week (or period since we last met), including longer descriptions (text, figures, code). Ideally, code + figures live in a shared GitHub repo or other document where I can look at them before we meet.
 
 - Done, as planned
 - Done, with some changes, due to ...
@@ -30,7 +31,7 @@ Describe the progress of the past week (or period since we last met), including 
 - I'm stuck on ...
 
 ### What I need (from supervision) right now
-_Feel free to already send me some keywords or action points ahead of time, so I can prepare better for our meeting._
+Feel free to already send me some keywords or action points ahead of time, so I can prepare better for our meeting.
 - Analysis ideas / research / methods
 - Writing feedback
 - Reading suggestions, content knowledge
@@ -41,8 +42,19 @@ _Feel free to already send me some keywords or action points ahead of time, so I
 - Not much; the meeting is just to share an update
 - ...
 
-### Action points
-_During our meeting, write the action points that we discussed and make them the start of next meeting's template. Ideally, write those as we chat and send them as a reply email afterwards._
+## Template to fill out during meeting 
+_Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
+
+### Check-in
+How are you doing? Anything happening to bring up?
+
+### Evaluation
+1. Check if/which previous goals and deadlines were met, and which remain open (why?)
+2. Are things generally going to everyone's satisfaction? _[discuss explicitly every few months]_
+
+### Action points 
+Can be with or without estimated (self-imposed) deadlines or ETA.
+- ...
 
 ---
 
