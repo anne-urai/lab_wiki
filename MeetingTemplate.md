@@ -60,7 +60,7 @@ _Ideally, we'll both take notes during our meeting. Please send them to me (as a
 ---
 
 # Evaluation meetings
-Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't. See also the [mentoring agreement](https://anne-urai.github.io/lab_wiki/Vision.html). 
+Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't. 
 
 For instance:
 - Are you happy with the way things are going - scientifically, personally, in the department and in the lab?
@@ -72,3 +72,5 @@ For instance:
 
 Feedback for me:
 - What is one thing I'm doing that I could do better? One thing I'm doing that's getting in my own way?
+
+During these meetings, we will update and revise our [mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html). 

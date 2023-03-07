@@ -39,8 +39,10 @@ save_dir = os.path.join(os.path.expanduser('~'), 'data_pi-uraiae/ONE/alyx.intern
 
 # THIS IS THE OFFICIAL WAY - FIND THE RELEVANT SESSIONS FROM THE LOCAL CACHE
 # If you want to use this cache without re-downloading data (i.e. keep the download cache the same as the main IBL Alyx), you can use the tags system.
-one = ONE(mode='local')
-one.load_cache(cache_dir=save_dir)
+one = ONE(mode='local', cache_dir = save_dir)
+one.load_cache()
+# one = ONE(mode='local')
+# one.load_cache(cache_dir=save_dir)
 print('Datasets location: %s;\nCache table location: %s' % (one.cache_dir, save_dir))
 eids = one.search(lab='churchlandlab', query_type='local', dataset='spikes.times')
 print(len(eids)) # should be 51...
