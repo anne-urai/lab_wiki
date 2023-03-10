@@ -16,9 +16,16 @@ Ask Anne to add you to
 1. lab Teams channel
 2. lab calendar (Google calendar)
 
-### Meetings and colloquia
+### Templates and documents
+- [Weekly meeting notes](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html)
+- [Mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html)
+- [Collaboration agreement](https://anne-urai.github.io/lab_wiki/CollaborationAgreement.html)
+
+### Meetings
 - Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
 - We meet once a month with a smaller group interested in computational modelling. Email [Selin Topel](https://www.universiteitleiden.nl/en/staffmembers/selin-topel#tab-1) to get on the mailing list.
+- The lab meets weekly; see lab calendar for times.
+- I intend to have weekly meetings with PhD students and postdocs; for Master students, see the guidelines on BrightSpace.
 
 #### Booking a room at Leiden Uni.
 - lecture hall somewhere in the university: email the [ServiceDesk](https://www.medewerkers.universiteitleiden.nl/gebouwen-faciliteiten/gebouwen/zaal-reserveren?cf=sociale-wetenschappen&cd=psychologie) of every faculty separately (there is no uni-wide system).
