@@ -71,3 +71,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - eLife used to have travel grants
 - [Simons Collaboration on the Global Brain](https://www.simonsfoundation.org/funding-opportunities/)
 - [Stichting de Drie Lichten](https://www.stichtingdedrielichten.nl/#subsidie) for work visits, not conferences
+- [FENS/IBRO exchange visits](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships)
