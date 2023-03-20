@@ -4,7 +4,7 @@ title: Mentoring agreement
 
 ---
 
-This mentoring agreement has been adapted from [Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit).
+This mentoring agreement has been adapted from [Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit). 
 
 ## Mentoring agreement template
 
@@ -29,4 +29,3 @@ The purpose of this agreement is to assist in documenting mutually agreed upon g
 9. **Plan for evaluating relationship effectiveness.** _(e.g., bi-annual review of mentorship meeting minutes, goals, and outcomes/accomplishments)_
   
 10. **Any additional areas/issues you want to discuss?** _Any sensitive issues that we discuss will be held in the strictest of confidence. Issues that are off limits for discussion?_
-

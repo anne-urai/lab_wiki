@@ -57,3 +57,7 @@ With each lab member who's here for more than a few months, we'll draft a [mento
 - Create a fun and supportive learning environment.
     - Peer review can be tough and unpredictable, so we will celebrate papers when they are submitted and posted as a preprint.
     
+### Mentoring up - resources
+- Zerzan JT, Hess R, Schur E, Phillips RS, Rigotti N (2009) Making the Most of Mentors: A Guide for Mentees. Academic Medicine 84:140. [link](https://journals.lww.com/academicmedicine/Fulltext/2009/01000/Making_the_Most_of_Mentors__A_Guide_for_Mentees.37.aspx )
+- [Handout from Niv & Murray's mentoring course](https://docs.google.com/document/d/19lL7N_7svzsUmA8_wQul_CQ1d3Jk7G676HXy8yK0GMY/edit)
+- Hour-long _Growing Up in Science_ session about mentoring up ([link](https://www.cns.nyu.edu/events/growingupinscience/), search for 'mentoring up').
