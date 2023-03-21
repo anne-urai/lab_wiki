@@ -52,7 +52,7 @@ How are you doing? Anything happening to bring up?
 2. Are things generally going to everyone's satisfaction? _[discuss explicitly every few months]_
 
 ### Action points 
-Can be with or without estimated (self-imposed) deadlines or ETA.
+Can be with or without estimated (self-imposed) deadlines or ETA. Separate by priority.
 - ...
 
 _Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
