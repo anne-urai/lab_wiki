@@ -38,6 +38,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - How can we best visualize uncertainty and risk to communicate the urgency of the climate crisis? Data visualization and UX design.
 - Analyze flight/travel data from university employees to see where the biggest improvements can be made. What kind of behavioral interventions  (policy, messaging, transparency) may help reduce aviation-related CO2 emissions?
 - Visualize and describe the impacts of climate change on our city, university, faculty - and ways to adapt to sea-level rise, hotter summers, extreme weather.
+- What is the effect of CO2 levels on cognitive function? Collaboration with Francesco Walker, using driving simulator. See https://doi.org/10.1038/s41370-018-0055-8, https://doi.org/10.1029/2019GH000237 
 
 ### Random
 - Replicate [academic family tree clustering](http://www.nature.com/news/majority-of-mathematicians-hail-from-just-24-scientific-families-1.20491) using [Neurotree](https://twitter.com/AnneEUrai/status/769270998965321728).
