@@ -12,9 +12,13 @@ With this [privilege of doing science](https://www.codykommers.com/post/57-nancy
 
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work. Collaborate, don't compete. 
 
-**Make your work accessible**. Publish your paper as a preprint (on bioRxiv, arXiv, psyArXiv or OSF); choose open-access journals; [avoid Elsevier](https://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/) when possible; get on Twitter and write accessible summaries of your findings: [it'll even help your career.](http://dx.doi.org/10.7554/eLife.16800.001)
+**Make your work accessible**. Publish your paper as a preprint (on bioRxiv, arXiv, psyArXiv or OSF); choose open-access journals; [avoid Elsevier](https://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/) when possible; get on Twitter/Mastodon and write accessible summaries of your findings: [it'll even help your career.](http://dx.doi.org/10.7554/eLife.16800.001)
 
 **Choose open-source.** Some of the best investments I've made were to switch from Mendeley to Zotero, from Matlab to Python, and from [Evernote to Obsidian](https://anneurai.net/2021/03/16/note-taking-101-from-evernote-to-obsidian/). Don't waste your time learning the ins and outs of expensive, proprietary software (please, no SPSS) when free and open alternatives are available. _Note:_ I'm a hypocrite on this point when it comes to Illustrator, which I must one day replace.
+
+**Accept that error will occur, and be open about them.** 
+Errors are an integral part of science, and we will implement [best practices to minimize them](http://doi.apa.org/getdoi.cfm?doi=10.1037/met0000547): keeping a detailed log of decisions about each project; using checklists for data collection; a 'code buddy' who reruns all the analyses using the same data with a new pipeline before submission. Most importantly: _"When mistakes happen (or nearly happen) in the lab, it’s a great opportunity for us to figure out how to make our systems work better. Tell Anne about it right away and we’ll use what you found to improve the work we do."_ (Strand, 2023) 
+- Before we submit a preprint, I should be able to reproduce your figures and results using your (publicly available) data and code.
 
 Since I've started my career, best practices have changed immensely - and I'm not even _that_ old. See [here](https://tobiasdonner.net/our-labs-take-on-open-science/) for a take on open science practices from my time as a PhD student. Keep up with the latest developments, and think about ways to improve the work we do. I'm committed to keep learning and improving, and I enourage my students to tell me about the latest developments (and let me know when I'm becoming hopelessly old-fashioned).
 
