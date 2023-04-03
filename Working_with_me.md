@@ -14,6 +14,7 @@ rank: 3
 - Be present in the lab during regular hours, at least a few days a week (for postdocs and PhD students). I generally encourage you to work during regular office hours, and to be present for departmental events to benefit from the social and scientific interactions. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
     - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; [email is an asynchronous medium](https://www.rachelbedder.com/phdtips), so set your own boundaries.
     - Inform Anne about longer absences (sickness, vacation, conferences, etc).
+    
 - Take **ownership of your research project**. You will soon be the expert on the topic!
     - I'm here to guide and advise you, _not_ to be your teacher. In a course, your goal may be to get a good grade for an assignment and mine is to assess your work; a research project is a different game where we're both learning and I'm happy to be shown wrong.
 
