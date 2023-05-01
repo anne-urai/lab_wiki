@@ -18,9 +18,19 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - How do decision-making strategies (such as perseverance) change with ageing? Fit behavioral models (e.g. [Ashwood et al. 2022](https://www.nature.com/articles/s41593-021-01007-z), [Findling et al. 2019](https://doi.org/10.1038/s41593-019-0518-9)) to decision-making data across the lifespan (both mice and humans).
 - Do learning and decision-making vary with the biological clock, and is it easier to learn when consistently practicing at the same time of day? Potential collaboration with [Christian Tudorache](https://www.universiteitleiden.nl/en/staffmembers/christian-tudorache#tab-1).
 - How can we disentangle choice updating from slow drifts in decision criterion? Apply method proposed by [Gupta and Brody](https://www.biorxiv.org/content/10.1101/2021.09.17.460767v1).
+
+### Neuroscience
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
 - Do mice show 'handedness', i.e. a preference to respond with 'rightward' choices? Based on observation by Sebastian Bruijns, early on in the IBL task. Combine with literature review on handedness across decision-making tasks (especially in mice) with different response modalities.
 - Using data from [Ni et al](https://www.pnas.org/doi/10.1073/pnas.2120529119), link changes in motivation under methylphenidate (Ritalin) to the Expected Value of Control theory. With Bryant Jongkees. Apply a DDM to go beyond simple P(correct).
+- [Murray et al. 2014](https://www.nature.com/articles/nn.3862) found that cortical neurons display intrinsic timescales which become longer along the cortical hierarchy, and probably play an important role in longer-timescale functions like information maintenance. Has this finding been replicated in mice (beyond visual areas, see [Siegle et al.](https://www.nature.com/articles/s41586-020-03171-x)), and extended to subcortical areas (using the IBL dataset)? Does longer-timescale prior encoding (tracking of the block) mostly depend on neurons with long timescales in the IBL dataset? See also [Imani et al. 2023](https://www.biorxiv.org/content/10.1101/2023.01.01.522410v1).
+    - Related: Cortical neurons display different degrees of intrinsic timescales, with longer timescales towards anterior cortical regions in primates (https://www.nature.com/articles/nn.3862). How do these timescales arise, and what are their roles in computation? One hypothesis is that these gradients arise from the genetic profile of different areas. As we're collecting the first brain-wide map of mouse neural activity during rest, this idea proposes to decompose the intrinsic timescale structure throughout the brain to different profiles of gene expression (from the Allen Atlas). See also [here](https://www.jneurosci.org/content/38/34/7476.long), [here](https://elifesciences.org/articles/61277).
+
+Resources
+
+the abstract of Richard Gao at COSYNE 2019: III-89 http://cosyne.org/cosyne19/Cosyne2019_program_book.pdf
+in humans, the spatial structure of intrinsic fluctuations correlates with the spatial distribution of catecholaminergic receptors 
+
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
