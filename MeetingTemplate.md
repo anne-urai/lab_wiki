@@ -8,7 +8,7 @@ title: Meeting template
 
 _Note: if you feel like skipping the meeting, that's totally fine. If it's for scientific reasons (just discovered a bug in my code, model is still running on the cluster) let me know. If it's for personal reasons, you of course don't have to tell me the specifics._
 
-## Template to fill out before meeting
+## Template to fill out _before_ meeting
 For our regular supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
 
 Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_. If you have a better idea for keeping track (a shared living document? Teams channel?), I'm happy to explore!
@@ -42,17 +42,17 @@ Feel free to already send me some keywords or action points ahead of time, so I 
 - Not much; the meeting is just to share an update
 - ...
 
-## Template to fill out during meeting 
+## Template to fill out _during_ meeting 
 
 ### Check-in
-How are you doing? Anything happening to bring up?
+How are you doing? What's going on?
 
 ### Evaluation
 1. Check if/which previous goals and deadlines were met, and which remain open (why?)
 2. Are things generally going to everyone's satisfaction? _[discuss explicitly every few months]_
 
 ### Action points 
-Can be with or without estimated (self-imposed) deadlines or ETA. Separate by priority.
+Can be with or without estimated (self-imposed) deadlines or ETA. Separate by priority. Clarify: idea or request?
 - ...
 
 _Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
@@ -63,7 +63,7 @@ _Ideally, we'll both take notes during our meeting. Please send them to me (as a
 Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't. 
 
 For instance:
-- Are you happy with the way things are going - scientifically, personally, in the department and in the lab?
+- Are you happy with the way things are going - scientifically, personally (work-life harmony), in the department and in the lab?
 - What have you accomplished? Does this match your original plans?
 - What did you struggle with?
 - What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
