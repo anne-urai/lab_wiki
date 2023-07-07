@@ -46,6 +46,7 @@ Once you get a university laptop (talk to Anne before ordering it, to make sure 
 ### Funding - PhD
 These are some funding opportunities to check out:
 - [CAPES](https://www.iie.org/Programs/CAPES), PhD funding for students from Brazil
+- [ANID](https://anid.cl/), PhD funding for students from Chile
 - [CSC](https://www.universiteitleiden.nl/en/scholarships/sea/csc-leiden-university-scholarship), PhD funding for students from China
 - [Tata trusts](https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants), funding for students from India
 - [FCT](https://www.fct.pt/apoios/bolsas/concursos/individuais2021.phtml.en), PhD funding for students from Portugal with a stay abroad
