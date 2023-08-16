@@ -40,6 +40,12 @@ I strongly encourage students and postdocs to attend at least one summer school.
 
 Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
+### Summer schools
+- Rauischolzhausen, vision science
+- CSHL, vision science
+- Neuromatch Academy
+- Barcelona behavioral modelling
+
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
 
