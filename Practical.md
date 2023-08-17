@@ -82,3 +82,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [Stichting de Drie Lichten](https://www.stichtingdedrielichten.nl/#subsidie) for work visits, not conferences
 - [FENS/IBRO exchange visits](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships)
 - [Travelling fellowships](https://www.biologists.com/travelling-fellowships/), Company of Biologists
+- [LNVH Distinguished Women Scientist Fund](https://www.lnvh.nl/dws-fund) travel funding for women postdocs in NL less than 3 years from PhD
