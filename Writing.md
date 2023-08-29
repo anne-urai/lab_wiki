@@ -17,6 +17,12 @@ I'm a sucker for *nice-looking figures* (and fonts). Learn how to make your figu
 - Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biology 13:e1002128.
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
+### Before submitting a preprint/paper with me
+- Start with this [not-blank-paper draft from the Voytek lab](https://docs.google.com/document/d/1FSnPuniOpfscQxV5z012j4akxmKhzP3r70HvKBtB5FE/edit).
+- To write well, read your writing out loud. Every first sentence of a paragraph should summarize it (see the guidelines by Matteo Carandini)
+- I must be able to reproduce all figures from your public data and code
+    - Make your figures look good immediately in Python! See some great examples in e.g. Robbe Goris' papers
+
 ### Authorship
 It is unfortunate that [we don't talk about authorship](https://medium.com/@ashleyjthinks/no-one-wants-to-talk-about-authorship-d0156307aa50) [(early) enough](https://www.degruyter.com/document/doi/10.7312/juav19088-015/html).  While I have [some opinions](https://tobiasdonner.net/our-labs-take-on-authorship/), we should discuss authorship for each project.
 - Scientific autorship is a tricky business (see [here](https://tobiasdonner.net/our-labs-take-on-authorship/) for discussion in my PhD lab). I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.
