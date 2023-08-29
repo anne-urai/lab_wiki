@@ -6,6 +6,7 @@ rank: 8
 
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
+- [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
 
 Practice version control; I like Google Docs (name important versions), which works well with Zotero.
 
