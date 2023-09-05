@@ -6,6 +6,7 @@ rank: 8
 
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
+- [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
 
 Practice version control; I like Google Docs (name important versions), which works well with Zotero.
 
@@ -15,6 +16,12 @@ I'm a sucker for *nice-looking figures* (and fonts). Learn how to make your figu
 - Tufte ER (2001) The Visual Display of Quantitative Information. Graphics Press.
 - Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biology 13:e1002128.
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+### Before submitting a preprint/paper with me
+- Start with this [not-blank-paper draft from the Voytek lab](https://docs.google.com/document/d/1FSnPuniOpfscQxV5z012j4akxmKhzP3r70HvKBtB5FE/edit).
+- To write well, read your writing out loud. Every first sentence of a paragraph should summarize it (see the guidelines by Matteo Carandini)
+- I must be able to reproduce all figures from your public data and code
+    - Make your figures look good immediately in Python! See some great examples in e.g. Robbe Goris' papers
 
 ### Authorship
 It is unfortunate that [we don't talk about authorship](https://medium.com/@ashleyjthinks/no-one-wants-to-talk-about-authorship-d0156307aa50) [(early) enough](https://www.degruyter.com/document/doi/10.7312/juav19088-015/html).  While I have [some opinions](https://tobiasdonner.net/our-labs-take-on-authorship/), we should discuss authorship for each project.
