@@ -28,6 +28,9 @@ When joining the lab, here are a few things to do in your first week:
 - Get organized: my setup is Zotero for papers, Obsidian for notes/planning, Teams/Slack for quick communication.
 - Read, and then **[contribute to this wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**.
 
+#### Choosing a scientific project
+Read [Alon (2009)](http://linkinghub.elsevier.com/retrieve/pii/S1097276509006418) and consider taking 3 months to scope the project, before starting!
+
 ### Have a question?
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
