@@ -45,6 +45,8 @@ Feel free to explore meetings and conferences, and discuss where you'd like to g
 - CSHL, vision science
 - Neuromatch Academy
 - Barcelona behavioral modelling
+- Nencki School of Ideas, Poland
+- Mathematical Methods in Computational Neurosciences, Norway
 
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
@@ -82,3 +84,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [Stichting de Drie Lichten](https://www.stichtingdedrielichten.nl/#subsidie) for work visits, not conferences
 - [FENS/IBRO exchange visits](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships)
 - [Travelling fellowships](https://www.biologists.com/travelling-fellowships/), Company of Biologists
+- [LNVH Distinguished Women Scientist Fund](https://www.lnvh.nl/dws-fund) travel funding for women postdocs in NL less than 3 years from PhD
