@@ -4,17 +4,20 @@ title: Practical things
 rank: 10
 ---
 
+### Getting started in the lab
+- Get added to the _CoCoSys lab MS teams group_ (ask Anne)
+- Get added to the _Cognitive Psychology_, _Open Science Community Leiden_ and _Psychology Living Room_ MS teams groups. The _MS Teams_ group has a good wiki with a lot of department-related information. Make sure to check it out!
+- Get added to the Google lab calendar
+- Get organized: my setup is Zotero for papers, Obsidian for notes/planning, Teams for quick communication
+- Read, and then **[contribute to this wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**
+
 ### Getting started at the cognitive psychology unit
 Ask secretary [Eva Potters](https://www.universiteitleiden.nl/en/staffmembers/eva-potters#tab-1) to be added to the _FSW - Cogpsy_ mailing list. 
 
 To add the associated calendar: in Outlook (doesn't work on the web version, unfortunately), click 'add shared calendar' and search for _FSW - Cogpsy_. Avoid the 'FSW - Cognitive psychology lab 2020', it's not in use. If you only see events as 'busy' or 'free' (without content), you can request access via [this link](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=6b7c11114bbb43128ee08b9de64eddc8&openedFromService=true) after logging in with your UCLN account. _Update_: I haven't gotten this to work so far, let me know if you manage.
 
-The _MS Teams_ group has a good wiki with a lot of department-related information. Make sure to check it out!
-
-### Getting started in the lab
-Ask Anne to add you to
-1. lab Teams channel
-2. lab calendar (Google calendar)
+#### Project logs and management
+Inspired by the [Voytek lab](https://github.com/voytekresearch), make a core GitHub repository (pick a useful, descriptive name) for your project and add `anne-urai` as a collaborator (feel free to keep it private). Then, add a [GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) where we can start to list all ideas and plans as issues. At each meeting, we'll review the project status and make plans.
 
 ### Templates and documents
 - [Weekly meeting notes](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html)
@@ -27,7 +30,7 @@ Ask Anne to add you to
 - The lab meets weekly; see lab calendar for times.
 - I intend to have weekly meetings with PhD students and postdocs; for Master students, see the guidelines on BrightSpace.
 
-#### Booking a room at Leiden Uni.
+#### Booking a room at Leiden Uni
 - lecture hall somewhere in the university: email the [ServiceDesk](https://www.medewerkers.universiteitleiden.nl/gebouwen-faciliteiten/gebouwen/zaal-reserveren?cf=sociale-wetenschappen&cd=psychologie) of every faculty separately (there is no uni-wide system).
 - nice workshop space: [Lorentz Center](https://www.lorentzcenter.nl/calendar.html). When there are no workshops, Leiden Uni staff can make use of the space.
 - common room in PdlC building: in Outlook web calendar, simply create an event and select 'Psychology Common Room' as the location. 

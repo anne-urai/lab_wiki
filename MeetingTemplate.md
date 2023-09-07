@@ -48,7 +48,8 @@ Feel free to already send me some keywords or action points ahead of time, so I 
 How are you doing? What's going on?
 
 ### Evaluation
-1. Check if/which previous goals and deadlines were met, and which remain open (why?)
+1. Check if/which previous goals and deadlines were met, and which remain open (why?) 
+    - Go over GitHub project and Project log
 2. Are things generally going to everyone's satisfaction? _[discuss explicitly every few months]_
 
 ### Action points 
