@@ -51,3 +51,4 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 
 ### Random
 - Replicate [academic family tree clustering](http://www.nature.com/news/majority-of-mathematicians-hail-from-just-24-scientific-families-1.20491) using [Neurotree](https://twitter.com/AnneEUrai/status/769270998965321728).
+- Add graphical contribution table to [Tenzing](https://github.com/marton-balazs-kovacs/tenzing/issues/71) for tracking authorship in large teams
