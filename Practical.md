@@ -73,6 +73,7 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - KNAW grants
 - Women in Science Fellowship (L’Oréal-UNESCO)  
 - Narsad Young investigator
+- [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) biology
 - [Human Frontier Science Program](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 - [LUF Praesidium Libertatis](https://www.luf.nl/en/apply-for-grants/researchers/praesidium-libertatis) for a postdoc already working in Leiden
 - other [LUF grants](https://www.luf.nl/en/apply-for-grants/researchers/academic-project)
