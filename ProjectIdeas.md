@@ -48,6 +48,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Analyze flight/travel data from university employees to see where the biggest improvements can be made. What kind of behavioral interventions  (policy, messaging, transparency) may help reduce aviation-related CO2 emissions?
 - Visualize and describe the impacts of climate change on our city, university, faculty - and ways to adapt to sea-level rise, hotter summers, extreme weather.
 - What is the effect of CO2 levels on cognitive function? Collaboration with Francesco Walker, using driving simulator. See https://doi.org/10.1038/s41370-018-0055-8, https://doi.org/10.1029/2019GH000237, 10.1289/ehp.1510037 
+- see more ideas for climate psychology projects at [1in5](https://onedrive.live.com/redir?resid=A673B09CD3ADE8F9%2170595&authkey=%21AJAze9l8HYmInCI&page=View&wd=target%28Psychology.one%7C0f801ffb-c9dc-49b4-8f6b-94ea415b7ac3%2FCognitive%20Psychology%7Cf56caf88-c63c-4f71-b2bc-03fff9835dcc%2F%29&wdorigin=NavigationUrl). The 1in5 project: https://www.1in5project.info/
 
 ### Random
 - Replicate [academic family tree clustering](http://www.nature.com/news/majority-of-mathematicians-hail-from-just-24-scientific-families-1.20491) using [Neurotree](https://twitter.com/AnneEUrai/status/769270998965321728).
