@@ -76,6 +76,7 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) biology
 - [Human Frontier Science Program](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 - [LUF Praesidium Libertatis](https://www.luf.nl/en/apply-for-grants/researchers/praesidium-libertatis) for a postdoc already working in Leiden
+- [NWO Veni](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022) or [NWO ENW-M](https://www.nwo.nl/en/researchprogrammes/open-competition-enw)
 - other [LUF grants](https://www.luf.nl/en/apply-for-grants/researchers/academic-project)
 
 ### Funding - travel grants
