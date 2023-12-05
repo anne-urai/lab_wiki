@@ -71,7 +71,8 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [AXA](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D)
 - [Branco Weiss](https://brancoweissfellowship.org/) 
 - KNAW grants
-- Women in Science Fellowship (L’Oréal-UNESCO)  
+- [Women in Science Fellowship (L’Oréal-UNESCO)](https://www.forwomeninscience.com/authority/international-awards)
+- [Graduate Women in Science Fellowship](https://www.gwis.org/page/fellowship_program)
 - Narsad Young investigator
 - [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) biology
 - [Human Frontier Science Program](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
