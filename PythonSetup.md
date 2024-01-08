@@ -30,7 +30,7 @@ rank: 6
   * Further practice: pull this wiki repo, add something in the [Markdown language](https://guides.github.com/features/mastering-markdown/), and submit a pull request (see Home for instructions on how to contribute to the wiki).
 * Learn the basics of Python
   * [DataCamp](https://www.datacamp.com/groups/shared_links/bdca0f873fb4e2a3d00f489268470b8eef78a1eafcde11c025950376eed73c9c) has very good adaptive programming courses. Sign up with your _@umail.leidenuniv.nl_ address using the link for free access.
-  * [Intro to Python](http://gureckislab.org/courses/fall20/labincp/chapters/03/00-python.html) & [lab in cognition & perception](http://gureckislab.org/courses/fall19/labincp/intro.html), both by Todd Gureckis.
+  * [Lab in cognition & perception](https://teaching.gureckislab.org/fall22/labincp/course-content/syllabus.html), both by Todd Gureckis.
   * Students at Leiden University can follow the [Introduction to Python course, offered by LIACS](https://stepik.org/course/73333/promo).
    *  You can also access [DataCamp learning resources](https://www.datacamp.com/groups/shared_links/a6bb93f6866b8ced468d96d1406e020a421592ea) with your Leiden Uni account.
 * Think about the **structure of data**
