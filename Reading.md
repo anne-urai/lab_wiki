@@ -19,6 +19,7 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 - Siegel M, Donner TH, Engel AK (2012) Spectral fingerprints of large-scale neuronal interactions. Nature Reviews Neuroscience 13:121–134.
 - Summerfield C, de Lange FP (2014) Expectation in perceptual decision making: neural and computational mechanisms. Nat Rev Neurosci 15:745–756.
 - O’Connell RG, Kelly SP (2021) Neurophysiology of Human Perceptual Decision-Making. Annual Review of Neuroscience 44:null.
+- Carandini M (2024) Sensory choices as logisitic classification. [bioRXiv](https://www.biorxiv.org/content/10.1101/2024.01.17.576029v1)
 
 #### Statistics
 - Aarts E, Verhage M, Veenvliet JV, Dolan CV, van der Sluis S (2014) A solution to dependency: using multilevel analysis to accommodate nested data. Nature Neuroscience 17:491–496.
