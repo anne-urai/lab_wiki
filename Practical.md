@@ -37,13 +37,16 @@ Inspired by the [Voytek lab](https://github.com/voytekresearch), make a core Git
 - Olthoff room (CogPsy) for up to 8 ppl: there is a paper calendar at the secretariat.
  
 ### Conferences
-I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending FENS, SfN, ECVP, ASSC, CCN.
+I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending [FENS](https://fensforum.org/), [SfN](https://www.sfn.org/), [ECVP](https://ecvp.eu/), [ASSC](https://theassc.org/), CCN, [Cosyne](https://www.cosyne.org/), [CogSci](https://cognitivesciencesociety.org/).
 
-- [Society for the Biology of Decision Making](https://sbdm2023.sciencesconf.org/), small meeting in Paris
+#### Smaller meetings
+- [Society for the Biology of Decision Making](https://sbdm2023.sciencesconf.org/)
+- [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/bernstein-conference-2024/)
 
-I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one. Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
 ### Summer schools
+I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one. Feel free to explore meetings and conferences, and discuss where you'd like to go!
+
 - Rauischolzhausen, vision science
 - CSHL, vision science
 - Neuromatch Academy
