@@ -39,9 +39,9 @@ Inspired by the [Voytek lab](https://github.com/voytekresearch), make a core Git
 ### Conferences
 I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending FENS, SfN, ECVP, ASSC, CCN.
 
-I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one.
+- [Society for the Biology of Decision Making](https://sbdm2023.sciencesconf.org/), small meeting in Paris
 
-Feel free to explore meetings and conferences, and discuss where you'd like to go!
+I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one. Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
 ### Summer schools
 - Rauischolzhausen, vision science
