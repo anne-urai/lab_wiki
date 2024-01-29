@@ -47,6 +47,7 @@ I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (m
 ### Summer schools
 I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one. Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
+- [overview of summer schools by Natalie Schaworonkow](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 - Rauischolzhausen, vision science
 - CSHL, vision science
 - Neuromatch Academy
