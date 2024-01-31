@@ -12,10 +12,10 @@ With this [privilege of doing science](https://www.codykommers.com/post/57-nancy
 
 See also the [European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/#toggle-id-2), which lists the following principles as guidelines: 
 
-> - _Reliability_ in ensuring the quality of research, reflected in the design, methodology, analysis, and use of resources.
-> - _Honesty_ in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way.
-> - _Respect_ for colleagues, research, participants, research subjects, society, ecosystems, cultural heritage, and the environment.
-> - _Accountability_ for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.
+> - Reliability in ensuring the quality of research, reflected in the design, methodology, analysis, and use of resources.
+> - Honesty in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way.
+> - Respect for colleagues, research, participants, research subjects, society, ecosystems, cultural heritage, and the environment.
+> - Accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.
 > From: [ALLEA](https://allea.org/code-of-conduct/)
 
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work. Collaborate, don't compete. 
