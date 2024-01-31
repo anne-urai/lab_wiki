@@ -37,16 +37,16 @@ Inspired by the [Voytek lab](https://github.com/voytekresearch), make a core Git
 - Olthoff room (CogPsy) for up to 8 ppl: there is a paper calendar at the secretariat.
  
 ### Conferences
+Feel free to explore meetings and conferences, and discuss where you'd like to go!
+
 I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending [FENS](https://fensforum.org/), [SfN](https://www.sfn.org/), [ECVP](https://ecvp.eu/), [ASSC](https://theassc.org/), CCN, [Cosyne](https://www.cosyne.org/), [CogSci](https://cognitivesciencesociety.org/).
 
 #### Smaller meetings
 - [Society for the Biology of Decision Making](https://sbdm2023.sciencesconf.org/)
 - [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/bernstein-conference-2024/)
 
-
 ### Summer schools
-I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one. Feel free to explore meetings and conferences, and discuss where you'd like to go!
-
+I strongly encourage students and postdocs to attend at least one summer school.  
 - [overview of summer schools by Natalie Schaworonkow](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 - Rauischolzhausen, vision science
 - CSHL, vision science
@@ -54,6 +54,7 @@ I strongly encourage students and postdocs to attend at least one summer school.
 - Barcelona behavioral modelling
 - Nencki School of Ideas, Poland
 - Mathematical Methods in Computational Neurosciences, Norway
+- [Cajal course in computational neuroscience](https://cajal-training.org/on-site/computational-neuroscience-2024/)
 
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
