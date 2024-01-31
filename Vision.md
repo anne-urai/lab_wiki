@@ -10,6 +10,14 @@ Figuring out how the world works, [for the sake of knowledge itself](https://www
 ### [Ethics](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/documents/Verstynen_PES.pdf) and open science
 With this [privilege of doing science](https://www.codykommers.com/post/57-nancy-kanwisher) comes the responsibility of doing it well (or at least, in the best way we can). We're responsible to taxpayers for getting the most out of their hard-earned euros; to our academic communities for not mislead each other purposefully or waste time on dead-ends; and to ourselves for spending our time well.
 
+See also the [European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/#toggle-id-2), which lists the following principles as guidelines: 
+
+> - _Reliability_ in ensuring the quality of research, reflected in the design, methodology, analysis, and use of resources.
+> - _Honesty_ in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way.
+> - _Respect_ for colleagues, research, participants, research subjects, society, ecosystems, cultural heritage, and the environment.
+> - _Accountability_ for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.
+> From: [ALLEA](https://allea.org/code-of-conduct/)
+
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work. Collaborate, don't compete. 
 
 **Make your work accessible**. Publish your paper as a preprint (on bioRxiv, arXiv, psyArXiv or OSF); choose open-access journals; [avoid Elsevier](https://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/) when possible; get on Twitter/Mastodon and write accessible summaries of your findings: [it'll even help your career.](http://dx.doi.org/10.7554/eLife.16800.001)
