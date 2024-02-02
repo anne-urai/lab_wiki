@@ -26,7 +26,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Do mice show the same history-dependent choice history bias as humans? Implement [this work](https://2023.ccneuro.org/proceedings/0000544.pdf) in the new [HSSM package](https://github.com/lnccbrown/HSSM) and be a beta-tester. Together with Alex Fengler, Brown University.
 - How are fatigue reports related to reaction times in a task with physically effortful responses? Using data from [Mathews et al., 2023](https://www.sciencedirect.com/science/article/pii/S0010027723002378).
 - Do implicit and explicit priors differentially change biases in evidence accumulation? Fit a DDM to [these data](https://www.biorxiv.org/content/10.1101/2023.08.18.553834v1).
-
+- Do Hidden Markov Models of disengagement during decision-making (e.g. [here](https://www.nature.com/articles/s41593-021-01007-z)) capture the same disengaged states that participants report using _mind-wandering probes_? Collaboration with [Marieke van Vugt](https://mkvanvugt.wordpress.com/). 
 
 ### Neuroscience
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
