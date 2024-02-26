@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific writing
+title: Writing & Figures
 rank: 8
 ---
 
@@ -8,9 +8,14 @@ See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 - [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
 
-Practice version control; I like Google Docs (name important versions), which works well with Zotero.
+Practice version control; I like Google Docs to avoid conflicts and unclarity about versioning, and it works well with Zotero. Make sure to name important versions of the manuscript like 'preprint_v1'. However, if you prefer another system, I'm happy to be convinced.
 
-I'm a sucker for *nice-looking figures* (and fonts). Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
+### I'm a sucker for *nice-looking figures* (and fonts). 
+Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
+
+**[Here](https://docs.google.com/presentation/d/10fEmdswbj4zGy01kwoDrOmCLhbA0MqdFu4oynzw473Y/edit#slide=id.p)** are slides of a _figure workshop_ we did in lab meeting on 26 February 2024. Watch back the recording when you're starting to make your own figures!
+
+Some other resources
 - Learn to use colors to your advantage
     - Borland D, Taylor II RM (2007) Rainbow color map (still) considered harmful. IEEE computer graphics and applications 27:14–17.
 - Tufte ER (2001) The Visual Display of Quantitative Information. Graphics Press.
