@@ -7,7 +7,7 @@ title: IBL behavioral data
 * See [docs.internationalbrainlab.org/](https://int-brain-lab.github.io/iblenv/public_docs/public_introduction.html) for a landing page and overview.
 * You can find some example data and check out analyses [here](https://int-brain-lab.github.io/iblenv/notebooks_external/data_release_repro_ephys.html).
 * Browse the data in this [interactive visualization app](https://viz.internationalbrainlab.org/app).
-- See [here](https://docs.google.com/presentation/d/1hH-iv7721-5mnPSmqlSuZRyMTOVWQizjC0mymWX1z5U/edit#slide=id.g2b37c37de99_0_61) for a tutorial given at COSYNE 2024.
+- See [here](https://docs.google.com/presentation/d/1hH-iv7721-5mnPSmqlSuZRyMTOVWQizjC0mymWX1z5U/edit#slide=id.g2b37c37de99_0_61) for a tutorial given at COSYNE 2024 (recording [here](https://drive.google.com/file/d/15uvU6A8eDyjVEhw_JOEzbqEbtt9U4-MX/view?usp=drive_link), accessible with an IBL account).
 
 ### Working with unpublished IBL data on ALICE
 
