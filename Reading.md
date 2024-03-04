@@ -5,6 +5,7 @@ rank: 5
 ---
 
 Read widely, deeply and regularly. Read weird things. Keep track of what you read, and make notes; I strongly recommend Zotero with the Zotfile plugin for managing both pdfs and references.
+[Here](https://www.cameronbrick.com/literature-search) is a useful overview by Cameron Brick on how to stay on top of the literature.
  
  Some of my favorite papers and books:
 
