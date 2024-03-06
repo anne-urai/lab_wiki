@@ -60,7 +60,7 @@ I strongly encourage students and postdocs to attend at least one summer school.
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
 
 ### Funding - PhD
-These are some funding opportunities to check out:
+These are some funding opportunities to check out for coming to Leiden:
 - [CAPES](https://www.iie.org/Programs/CAPES), PhD funding for students from Brazil
 - [ANID](https://anid.cl/), PhD funding for students from Chile
 - [CSC](https://www.universiteitleiden.nl/en/scholarships/sea/csc-leiden-university-scholarship), PhD funding for students from China
@@ -84,7 +84,7 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [LUF Praesidium Libertatis](https://www.luf.nl/en/apply-for-grants/researchers/praesidium-libertatis) for a postdoc already working in Leiden
 - [NWO Veni](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022) or [NWO ENW-M](https://www.nwo.nl/en/researchprogrammes/open-competition-enw)
 - other [LUF grants](https://www.luf.nl/en/apply-for-grants/researchers/academic-project)
-
+- after doing a PhD in NL, for going abroad: Rubicon or [Ammodo Science Award](https://ammodo-science-award.org/fellowship/?mc_cid=d63084b857)
 ### Funding - travel grants
 - [IBRO exchange grants](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships) for research visits to another lab (1-3 months).
 - [IBRO travel grants](https://ibro.org/travel-grants/) for conference visits
