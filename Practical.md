@@ -84,7 +84,9 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [LUF Praesidium Libertatis](https://www.luf.nl/en/apply-for-grants/researchers/praesidium-libertatis) for a postdoc already working in Leiden
 - [NWO Veni](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022) or [NWO ENW-M](https://www.nwo.nl/en/researchprogrammes/open-competition-enw)
 - other [LUF grants](https://www.luf.nl/en/apply-for-grants/researchers/academic-project)
-- after doing a PhD in NL, for going abroad: Rubicon or [Ammodo Science Award](https://ammodo-science-award.org/fellowship/?mc_cid=d63084b857)
+- after doing a PhD in NL, for going abroad: NWO Rubicon 
+- postdoc abroad (after PhD in NL) or postdoc in NL (after PhD abroad): [Ammodo Science Award](https://ammodo-science-award.org/en/fellowship/regulations/)
+
 ### Funding - travel grants
 - [IBRO exchange grants](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships) for research visits to another lab (1-3 months).
 - [IBRO travel grants](https://ibro.org/travel-grants/) for conference visits
