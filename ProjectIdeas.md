@@ -37,6 +37,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
     - Related: Cortical neurons display different degrees of intrinsic timescales, with longer timescales towards anterior cortical regions in primates (https://www.nature.com/articles/nn.3862). How do these timescales arise, and what are their roles in computation? One hypothesis is that these gradients arise from the genetic profile of different areas. As we're collecting the first brain-wide map of mouse neural activity during rest, this idea proposes to decompose the intrinsic timescale structure throughout the brain to different profiles of gene expression (from the Allen Atlas). See also [here](https://www.jneurosci.org/content/38/34/7476.long), [here](https://elifesciences.org/articles/61277).
 - Use platform like The Virtual Brain or the Human Neocortical Solver to make EEG predictions when we change low-level Fano Factors/noise correlations.
 - Can we use DeepLabCut to extract measures of heart rate and breathing from IBL video data?
+- Do neural waveform features change with age? Compare IBL ephys atlas with aging neural recordings.
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
