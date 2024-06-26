@@ -39,6 +39,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Use platform like The Virtual Brain or the Human Neocortical Solver to make EEG predictions when we change low-level Fano Factors/noise correlations.
 - Can we use DeepLabCut to extract measures of heart rate and breathing from IBL video data?
 - Do neural waveform features change with age? Compare IBL ephys atlas with aging neural recordings.
+- Test ideas about [control-limited decision-making](https://doi.org/10.1101/2022.06.24.497481) in our DM data (perhaps applied to ageing and/or arousal). Potential collab with Alfonso Renart and/or Tobias Donner.
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
