@@ -28,6 +28,7 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Do implicit and explicit priors differentially change biases in evidence accumulation? Fit a DDM to [these data](https://www.biorxiv.org/content/10.1101/2023.08.18.553834v1).
 - Do Hidden Markov Models of disengagement during decision-making (e.g. [here](https://www.nature.com/articles/s41593-021-01007-z)) capture the same disengaged states that participants report using _mind-wandering probes_? Collaboration with [Marieke van Vugt](https://mkvanvugt.wordpress.com/). 
 - With Steven Miletic: why do some find that history biases the starting point of evidence accumulation, and others the drift? Potential Averserial Collaboration.
+- With data from [Eisenberg et al](https://www.nature.com/articles/s41467-019-10301-1), quantify test-retest reliability of choice history bias within and across tasks.
 
 ### Neuroscience
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
