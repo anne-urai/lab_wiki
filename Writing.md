@@ -21,6 +21,8 @@ Learn how to make your figures look good straight out of Python/Matlab/Julia/R, 
 
 **[Here](https://docs.google.com/presentation/d/10fEmdswbj4zGy01kwoDrOmCLhbA0MqdFu4oynzw473Y/edit#slide=id.p)** are slides of a _figure workshop_ we did in lab meeting on 26 February 2024. Watch back the [recording](https://video.leidenuniv.nl/media/t/1_j5544njq) when you're starting to make your own figures!
 
+Ideally, follow this [IBL styleguide](https://github.com/int-brain-lab/ibl-style) for consistent and good-looking figures.
+
 Some other resources:
 - Learn to use colors to your advantage: Borland D, Taylor II RM (2007) Rainbow color map (still) considered harmful. IEEE computer graphics and applications 27:14–17.
 - Tufte ER (2001) The Visual Display of Quantitative Information. Graphics Press.
