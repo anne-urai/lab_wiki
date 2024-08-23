@@ -24,8 +24,11 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Fit data from [Gupta et al](https://doi.org/10.1101/2023.01.18.524599) with a history-dependent DDM, does the pattern found in [humans and mice](https://2023.ccneuro.org/view_paper.php?PaperNum=1119) also hold in rats? 
 - Can we detect cognitive strategies using constrained RNNs? Fit new models (e.g. [here](https://www.biorxiv.org/content/10.1101/2023.04.12.536629v2), [here](https://www.biorxiv.org/content/10.1101/2023.05.17.541226v1), [here](https://www.biorxiv.org/content/10.1101/2023.06.23.546250v1), [tutorial](https://github.com/kstach01/CogModelingRNNsTutorial)) to perceptual decision-making data.
 - Do mice show the same history-dependent choice history bias as humans? Implement [this work](https://2023.ccneuro.org/proceedings/0000544.pdf) in the new [HSSM package](https://github.com/lnccbrown/HSSM) and be a beta-tester. Together with Alex Fengler, Brown University.
-
-
+- How are fatigue reports related to reaction times in a task with physically effortful responses? Using data from [Mathews et al., 2023](https://www.sciencedirect.com/science/article/pii/S0010027723002378).
+- Do implicit and explicit priors differentially change biases in evidence accumulation? Fit a DDM to [these data](https://www.biorxiv.org/content/10.1101/2023.08.18.553834v1).
+- Do Hidden Markov Models of disengagement during decision-making (e.g. [here](https://www.nature.com/articles/s41593-021-01007-z)) capture the same disengaged states that participants report using _mind-wandering probes_? Collaboration with [Marieke van Vugt](https://mkvanvugt.wordpress.com/). 
+- With Steven Miletic: why do some find that history biases the starting point of evidence accumulation, and others the drift? Potential Averserial Collaboration.
+- With data from [Eisenberg et al](https://www.nature.com/articles/s41467-019-10301-1), quantify test-retest reliability of choice history bias within and across tasks.
 
 ### Neuroscience
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
@@ -33,6 +36,10 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Using data from [Ni et al](https://www.pnas.org/doi/10.1073/pnas.2120529119), link changes in motivation under methylphenidate (Ritalin) to the Expected Value of Control theory. With Bryant Jongkees. Apply a DDM to go beyond simple P(correct).
 - [Murray et al. 2014](https://www.nature.com/articles/nn.3862) found that cortical neurons display intrinsic timescales which become longer along the cortical hierarchy, and probably play an important role in longer-timescale functions like information maintenance. Has this finding been replicated in mice (beyond visual areas, see [Siegle et al.](https://www.nature.com/articles/s41586-020-03171-x)), and extended to subcortical areas (using the IBL dataset)? Does longer-timescale prior encoding (tracking of the block) mostly depend on neurons with long timescales in the IBL dataset? See also [Imani et al. 2023](https://www.biorxiv.org/content/10.1101/2023.01.01.522410v1).
     - Related: Cortical neurons display different degrees of intrinsic timescales, with longer timescales towards anterior cortical regions in primates (https://www.nature.com/articles/nn.3862). How do these timescales arise, and what are their roles in computation? One hypothesis is that these gradients arise from the genetic profile of different areas. As we're collecting the first brain-wide map of mouse neural activity during rest, this idea proposes to decompose the intrinsic timescale structure throughout the brain to different profiles of gene expression (from the Allen Atlas). See also [here](https://www.jneurosci.org/content/38/34/7476.long), [here](https://elifesciences.org/articles/61277).
+- Use platform like The Virtual Brain or the Human Neocortical Solver to make EEG predictions when we change low-level Fano Factors/noise correlations.
+- Can we use DeepLabCut to extract measures of heart rate and breathing from IBL video data?
+- Do neural waveform features change with age? Compare IBL ephys atlas with aging neural recordings.
+- Test ideas about [control-limited decision-making](https://doi.org/10.1101/2022.06.24.497481) in our DM data (perhaps applied to ageing and/or arousal). Potential collab with Alfonso Renart and/or Tobias Donner.
 
 ### Decision-making: data collection
 - How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 

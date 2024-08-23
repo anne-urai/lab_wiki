@@ -5,6 +5,7 @@ rank: 10
 ---
 
 ### Getting started in the lab
+- See [this page](https://www.medewerkers.universiteitleiden.nl/po/international-staff?cf=sociale-wetenschappen&cd=psychologie) for lots of resources for international staff at the university.
 - Get added to the _CoCoSys lab MS teams group_ (ask Anne)
 - Get added to the _Cognitive Psychology_, _Open Science Community Leiden_ and _Psychology Living Room_ MS teams groups. The _MS Teams_ group has a good wiki with a lot of department-related information. Make sure to check it out!
 - Get added to the Google lab calendar
@@ -37,27 +38,33 @@ Inspired by the [Voytek lab](https://github.com/voytekresearch), make a core Git
 - Olthoff room (CogPsy) for up to 8 ppl: there is a paper calendar at the secretariat.
  
 ### Conferences
-I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending FENS, SfN, ECVP, ASSC, CCN.
-
-I strongly encourage students and postdocs to attend at least one summer school. Neuromatch Academy is fantastic, as is the in-person [Rauischolzhausen vision science](http://www.allpsych.uni-giessen.de/rauisch/) one.
-
 Feel free to explore meetings and conferences, and discuss where you'd like to go!
 
+I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending [FENS](https://fensforum.org/), [SfN](https://www.sfn.org/), [ECVP](https://ecvp.eu/), [ASSC](https://theassc.org/), CCN, [Cosyne](https://www.cosyne.org/), [CogSci](https://cognitivesciencesociety.org/).
+
+#### Smaller meetings
+- [Society for the Biology of Decision Making](https://sbdm2023.sciencesconf.org/)
+- [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/bernstein-conference-2024/)
+
 ### Summer schools
+I strongly encourage students and postdocs to attend at least one summer school.  
+- [overview of summer schools by Natalie Schaworonkow](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 - Rauischolzhausen, vision science
 - CSHL, vision science
 - Neuromatch Academy
 - Barcelona behavioral modelling
 - Nencki School of Ideas, Poland
 - Mathematical Methods in Computational Neurosciences, Norway
+- [Cajal course in computational neuroscience](https://cajal-training.org/on-site/computational-neuroscience-2024/)
 
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
 
 ### Funding - PhD
-These are some funding opportunities to check out:
+These are some funding opportunities to check out for coming to Leiden:
 - [CAPES](https://www.iie.org/Programs/CAPES), PhD funding for students from Brazil
 - [ANID](https://anid.cl/), PhD funding for students from Chile
+- [LPDP](https://www.universiteitleiden.nl/leiden-indonesia/education/scholarships) for students from Indonesia
 - [CSC](https://www.universiteitleiden.nl/en/scholarships/sea/csc-leiden-university-scholarship), PhD funding for students from China
 - [Tata trusts](https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants), funding for students from India
 - [FCT](https://www.fct.pt/apoios/bolsas/concursos/individuais2021.phtml.en), PhD funding for students from Portugal with a stay abroad
@@ -71,13 +78,16 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [AXA](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D)
 - [Branco Weiss](https://brancoweissfellowship.org/) 
 - KNAW grants
-- Women in Science Fellowship (L’Oréal-UNESCO)  
+- [Women in Science Fellowship (L’Oréal-UNESCO)](https://www.forwomeninscience.com/authority/international-awards)
+- [Graduate Women in Science Fellowship](https://www.gwis.org/page/fellowship_program)
 - Narsad Young investigator
 - [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) biology
 - [Human Frontier Science Program](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 - [LUF Praesidium Libertatis](https://www.luf.nl/en/apply-for-grants/researchers/praesidium-libertatis) for a postdoc already working in Leiden
 - [NWO Veni](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022) or [NWO ENW-M](https://www.nwo.nl/en/researchprogrammes/open-competition-enw)
 - other [LUF grants](https://www.luf.nl/en/apply-for-grants/researchers/academic-project)
+- after doing a PhD in NL, for going abroad: NWO Rubicon 
+- postdoc abroad (after PhD in NL) or postdoc in NL (after PhD abroad): [Ammodo Science Award](https://ammodo-science-award.org/en/fellowship/regulations/)
 
 ### Funding - travel grants
 - [IBRO exchange grants](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships) for research visits to another lab (1-3 months).
@@ -90,3 +100,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [FENS/IBRO exchange visits](https://www.fens.org/careers/grants-and-stipends/grant/fens-ibro-perc-exchange-fellowships)
 - [Travelling fellowships](https://www.biologists.com/travelling-fellowships/), Company of Biologists
 - [LNVH Distinguished Women Scientist Fund](https://www.lnvh.nl/dws-fund) travel funding for women postdocs in NL less than 3 years from PhD
+- [EMBO Scientific Exchange grant](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/) for research visits 1 week - 3 months in another European country
