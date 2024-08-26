@@ -64,4 +64,4 @@ Before our weekly supervision meetings, fill out this [template](https://anne-ur
 
 #### Mentoring agreement
 
-With each lab member who's here for more than a few months, we'll draft a [mentoring agreement](https://anne-urai.github.io/lab_wiki/Vision.html) that is evaluated at least every year.
+With each lab member who's here for more than a few months, we'll draft a [mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html) that is evaluated at least every year.
