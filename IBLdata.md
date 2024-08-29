@@ -16,10 +16,13 @@ Many projects make use of the large dataset collected by the [International Brai
 See [here](https://medium.com/@nogamudrik_96888/how-to-access-dandis-dandisets-for-your-neural-data-project-64a643760d2b)
 
 ### Behavioral data
-[Working with IBL behavioral data](https://anne-urai.github.io/lab_wiki/IBLdata_behav.html)
+[Working with IBL behavioral data](https://int-brain-lab.github.io/iblenv/notebooks_external/loading_trials_data.html)
 
 ### Neural data
-[Working with IBL neural data](https://anne-urai.github.io/lab_wiki/IBLdata_neural.html)
+* See [docs.internationalbrainlab.org/](https://int-brain-lab.github.io/iblenv/public_docs/public_introduction.html) for a landing page and overview.
+* You can find some example data and check out analyses [here](https://int-brain-lab.github.io/iblenv/notebooks_external/data_release_repro_ephys.html).
+* Browse the data in this [interactive visualization app](https://viz.internationalbrainlab.org/app).
+- See [here](https://docs.google.com/presentation/d/1hH-iv7721-5mnPSmqlSuZRyMTOVWQizjC0mymWX1z5U/edit#slide=id.g2b37c37de99_0_61) for a tutorial given at COSYNE 2024 (recording [here](https://drive.google.com/file/d/15uvU6A8eDyjVEhw_JOEzbqEbtt9U4-MX/view?usp=drive_link), accessible with an IBL account).
 
 ### Accessing data on ALICE
 Email the ALICE helpdesk to get access to the shared data folder: `data_pi-uraiae`. 
