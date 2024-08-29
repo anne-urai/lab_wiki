@@ -10,7 +10,7 @@ Many projects make use of the large dataset collected by the [International Brai
 ### General info
 * [eLife paper](https://elifesciences.org/articles/63711) describing the experiments and the behavioral data.
 * [Video description of the data by Eric deWitt](https://www.youtube.com/watch?v=NofrFH8FRZU), for NeuroMatchAcademy.
-* Explore the data through the [old interactive portal](https://data-sciviz.internationalbrainlab.org/home) and the newer [interactive data explorer](https://viz.internationalbrainlab.org/).
+* Explore the data through the [interactive data explorer](https://viz.internationalbrainlab.org/).
 
 ### ToDo: Colab for IBL data analysis without local Python install
 See [here](https://medium.com/@nogamudrik_96888/how-to-access-dandis-dandisets-for-your-neural-data-project-64a643760d2b)
