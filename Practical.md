@@ -73,7 +73,7 @@ These are some funding opportunities to check out for coming to Leiden:
 ### Funding - Postdoc
 See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-programmes/) and the programmes below:
 - [Fondation Fyssen](http://www.fondationfyssen.fr/en/study-grants/aim-award/), postdoc funding after a PhD in France
-- [Leopoldina](http://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/) and [DFG](https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html), postdoc funding after a PhD in Germany
+- [Leopoldina](http://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/); [DFG](https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html); [DFG Walter Benjamin](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin), postdoc funding after a PhD in Germany
 - [MCSA](https://marie-sklodowska-curie-actions.ec.europa.eu/) postdoc, for anyone who has not lived/worked in the Netherlands recently
 - [AXA](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D)
 - [Branco Weiss](https://brancoweissfellowship.org/) 
