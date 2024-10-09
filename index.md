@@ -17,20 +17,6 @@ If you're interested in doing a project with us, great! Check out the following 
 
 Once you've gone through those and have tried the exercises, let me know how things went (and where/if you got stuck) and what research questions you'd like to pursue.
 
-### Onboarding
-When joining the lab, here are a few things to do in your first week:
-- Get added to the _CoCoSys lab MS teams group_ (ask Anne)
-- Get added to the _Cognitive Psychology_, _Open Science Community Leiden_ and  _Psychology Living Room_ MS teams groups.
-- See [here](https://anne-urai.github.io/lab_wiki/Practical.html) for more practical things in the department
-- [Computing setup](https://anne-urai.github.io/lab_wiki/PythonSetup.html)
-    - Get a GitHub account
-    - [IBL data](https://anne-urai.github.io/lab_wiki/IBLdata.html)
-- Get organized: my setup is Zotero for papers, Obsidian for notes/planning, Teams/Slack for quick communication.
-- Read, and then **[contribute to this wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**.
-
-#### Choosing a scientific project
-Read [Alon (2009)](http://linkinghub.elsevier.com/retrieve/pii/S1097276509006418) and consider taking 3 months to scope the project, before starting!
-
 ### Have a question?
 ![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
