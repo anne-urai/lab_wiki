@@ -1,3 +1,10 @@
+---
+layout: default
+title: Onboarding
+rank: 10
+---
+
+
 ### Getting started in the lab
 - See [this page](https://www.medewerkers.universiteitleiden.nl/po/international-staff?cf=sociale-wetenschappen&cd=psychologie) for lots of resources for international staff at the university.
 - Get added to the Google lab calendar (ask Anne)
