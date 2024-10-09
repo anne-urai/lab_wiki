@@ -8,13 +8,19 @@ rank: 8
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 - [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
+- To write well, read your writing out loud. Every first sentence of a paragraph should summarize it (see the guidelines by Matteo Carandini)
 
 Practice version control; I like Google Docs to avoid conflicts and unclarity about versioning, and it works well with Zotero. Make sure to name important versions of the manuscript like 'preprint_v1'. However, if you prefer another system, I'm happy to be convinced.
 
 ### Before submitting a preprint/paper with me
-- Start with this [not-blank-paper draft from the Voytek lab](https://docs.google.com/document/d/1FSnPuniOpfscQxV5z012j4akxmKhzP3r70HvKBtB5FE/edit).
-- To write well, read your writing out loud. Every first sentence of a paragraph should summarize it (see the guidelines by Matteo Carandini)
-- I must be able to _reproduce all figures_ from your public data and code
+Send all co-authors an email with the following:
+- Final paper draft that has been approved by all co-authors
+- Journal & preprint server this will be submitted to
+- Reviewers to suggest
+- Link to public data:
+- Link to public code: 
+
+Note: **I must be able to _reproduce all figures_ from your public data and code before submission.**
 
 ### I'm a sucker for *nice-looking figures* (and fonts). 
 Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
