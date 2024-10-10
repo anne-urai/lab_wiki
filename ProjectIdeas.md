@@ -12,23 +12,23 @@ My motto: if you can answer a question with existing data, why collect it anew?
 - [Here](https://www.nature.com/articles/s41562-019-0813-1) is a paper describing a [database](https://osf.io/s46pr/) of >145 confidence datasets.
 - [This paper](https://www.sciencedirect.com/science/article/pii/S0006322318300295#sec1) describes a perceptual decision making task with psychopathology questionnaires, dataset [here](https://github.com/metacoglab/RouaultSeowGillanFleming).
 
+### Ongoing
+- How much are human perceptual decisions affected by distinct states/epochs in behavior? Apply GLM-HMM method from [Ashwood et al](https://www.nature.com/articles/s41593-021-01007-z) (code [here](https://github.com/int-brain-lab/GLM-HMM/tree/main)) to open data from [the confidence database](https://www.nature.com/articles/s41562-019-0813-1) or [this longitudinal dataset](https://github.com/roeysc/dynamic_computational_phenotyping) with many different tasks. By: Lorenzo van Hoorde
+   Can we detect cognitive strategies using constrained RNNs? Fit new models (e.g. [here](https://www.biorxiv.org/content/10.1101/2023.04.12.536629v2), [here](https://www.biorxiv.org/content/10.1101/2023.05.17.541226v1), [here](https://www.biorxiv.org/content/10.1101/2023.06.23.546250v1), [tutorial](https://github.com/kstach01/CogModelingRNNsTutorial)) to perceptual decision-making data. By: Isabelle Hoxha
+- With Steven Miletic: why do some find that history biases the starting point of evidence accumulation, and others the drift? By: Greta Sandow.
+- How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. By: Camilla Enwereuzor
+ 
 ### Decision-making: data analysis
 _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples on getting started with existing IBL data_.
 - Does choice history bias correlate with psychopathology, e.g. impulsivity? Reanalyse data from [Rouault et al. 2019](https://doi.org/10.1016/j.biopsych.2017.12.017) by fitting models of choice history bias (e.g. [logistic models](https://www.nature.com/articles/ncomms14637) or [drift diffusion models](http://dx.doi.org/10.7554/eLife.46331)). Can also collaborate with Tobias Donner to analyze personality questionnaires from [these data](https://www.nature.com/articles/s41467-022-33237-5) (see also [my PhD thesis](https://anneurai.files.wordpress.com/2020/12/urai.pdf), p.99).
 - Individuals have different levels of choice history bias. Can we predict these from each person's initial sequence of stimuli/choices when they first encountered the task?
-- Do choice history biases transfer across tasks (i.e. do observers have an meta-prior estimate of the environment's stability, and apply it in different modalities/contexts)? Find dataset with large number of subjects who did multiple tasks, and correlate estimates of repetition/alternation behavior.
+- Are individual differences in choice history bias related to [across-trial fluctuations in decision criterion](https://github.com/robinvloeberghs/hMFC)? With Robin Vloeberghs.
+- Do choice history biases transfer across tasks (i.e. do observers have an meta-prior estimate of the environment's stability, and apply it in different modalities/contexts)? Find dataset with large number of subjects who did multiple tasks, and correlate estimates of repetition/alternation behavior. Also: with data from [Eisenberg et al](https://www.nature.com/articles/s41467-019-10301-1), quantify test-retest reliability of choice history bias within and across tasks.
 - How do decision-making strategies (such as perseverance) change with ageing? Fit behavioral models (e.g. [Ashwood et al. 2022](https://www.nature.com/articles/s41593-021-01007-z), [Findling et al. 2019](https://doi.org/10.1038/s41593-019-0518-9)) to decision-making data across the lifespan (both mice and humans). Potential collaboration with Peter Murphy, Dublin.
-- Do learning and decision-making vary with the biological clock, and is it easier to learn when consistently practicing at the same time of day? Potential collaboration with [Christian Tudorache](https://www.universiteitleiden.nl/en/staffmembers/christian-tudorache#tab-1).
-- How can we disentangle choice updating from slow drifts in decision criterion? Apply method proposed by [Gupta and Brody](https://www.biorxiv.org/content/10.1101/2021.09.17.460767v1), with Robin Vloeberghs.
-- How much are human perceptual decisions affected by distinct states/epochs in behavior? Apply GLM-HMM method from [Ashwood et al](https://www.nature.com/articles/s41593-021-01007-z) (code [here](https://github.com/int-brain-lab/GLM-HMM/tree/main)) to open data from [the confidence database](https://www.nature.com/articles/s41562-019-0813-1) or [this longitudinal dataset](https://github.com/roeysc/dynamic_computational_phenotyping) with many different tasks.
-- Fit data from [Gupta et al](https://doi.org/10.1101/2023.01.18.524599) with a history-dependent DDM, does the pattern found in [humans and mice](https://2023.ccneuro.org/view_paper.php?PaperNum=1119) also hold in rats? 
-- Can we detect cognitive strategies using constrained RNNs? Fit new models (e.g. [here](https://www.biorxiv.org/content/10.1101/2023.04.12.536629v2), [here](https://www.biorxiv.org/content/10.1101/2023.05.17.541226v1), [here](https://www.biorxiv.org/content/10.1101/2023.06.23.546250v1), [tutorial](https://github.com/kstach01/CogModelingRNNsTutorial)) to perceptual decision-making data.
 - Do mice show the same history-dependent choice history bias as humans? Implement [this work](https://2023.ccneuro.org/proceedings/0000544.pdf) in the new [HSSM package](https://github.com/lnccbrown/HSSM) and be a beta-tester. Together with Alex Fengler, Brown University.
 - How are fatigue reports related to reaction times in a task with physically effortful responses? Using data from [Mathews et al., 2023](https://www.sciencedirect.com/science/article/pii/S0010027723002378).
 - Do implicit and explicit priors differentially change biases in evidence accumulation? Fit a DDM to [these data](https://www.biorxiv.org/content/10.1101/2023.08.18.553834v1).
 - Do Hidden Markov Models of disengagement during decision-making (e.g. [here](https://www.nature.com/articles/s41593-021-01007-z)) capture the same disengaged states that participants report using _mind-wandering probes_? Collaboration with [Marieke van Vugt](https://mkvanvugt.wordpress.com/). 
-- With Steven Miletic: why do some find that history biases the starting point of evidence accumulation, and others the drift? Potential Averserial Collaboration.
-- With data from [Eisenberg et al](https://www.nature.com/articles/s41467-019-10301-1), quantify test-retest reliability of choice history bias within and across tasks.
 
 ### Neuroscience
 - Test prediction: does inactivation of PPC (LIP inactivation in monkeys or TMS to IPS0/1 or IPS 2/3 in humans) during the ITI reduce choice history bias? Find data or run a TMS experiment.
@@ -41,22 +41,13 @@ _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples
 - Do neural waveform features change with age? Compare IBL ephys atlas with aging neural recordings.
 - Test ideas about [control-limited decision-making](https://doi.org/10.1101/2022.06.24.497481) in our DM data (perhaps applied to ageing and/or arousal). Potential collab with Alfonso Renart and/or Tobias Donner.
 
-### Decision-making: data collection
-- How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. 
-- Are choice history biases consistent across different decision-making tasks, and over time?
-- Can zebrafish learn the same decision-making tasks as mice and humans? Collaboration with [Christian Tudorache](https://www.universiteitleiden.nl/en/staffmembers/christian-tudorache#tab-1).
-
 ### Literature review
 - How do different types of neural noise (measured with fMRI, EEG or cellular recordings) change with ageing? [notes and ideas](https://docs.google.com/document/d/1kLLwiOk3SCED-7TA_UJPe9wBCbTj4oFidi4L-bBUIkI/edit)
 - The role of posterior parietal cortex in history-dependent choice biases. [first draft of mini-review](https://docs.google.com/document/d/147XMu9f7TnVrkyyEA8ord2bXruwk_jEJuaUvx5zBS1Y/edit)
 
 ### Climate action
+- How do social tipping points arise in groups? Can we predict these using early warning signals in a lab setting, or using data from the real world? Collaboration with Jan-Willem Bolderdijk.
 - What type of messaging is most effective to mobilize people into climate actions? 
-- How can we improve virtual conferences and meetings to make them a better replacement for in-person events?
-- What is the carbon footprint of neuroscience data? Potential collaboration with [Charlotte Rae](https://profiles.sussex.ac.uk/p220408-charlotte-rae).
-- How can we best visualize uncertainty and risk to communicate the urgency of the climate crisis? Data visualization and UX design.
-- Analyze flight/travel data from university employees to see where the biggest improvements can be made. What kind of behavioral interventions  (policy, messaging, transparency) may help reduce aviation-related CO2 emissions?
-- Visualize and describe the impacts of climate change on our city, university, faculty - and ways to adapt to sea-level rise, hotter summers, extreme weather.
 - What is the effect of CO2 levels on cognitive function? Collaboration with Francesco Walker, using driving simulator. See https://doi.org/10.1038/s41370-018-0055-8, https://doi.org/10.1029/2019GH000237, 10.1289/ehp.1510037 
 - see more ideas for climate psychology projects at [1in5](https://onedrive.live.com/redir?resid=A673B09CD3ADE8F9%2170595&authkey=%21AJAze9l8HYmInCI&page=View&wd=target%28Psychology.one%7C0f801ffb-c9dc-49b4-8f6b-94ea415b7ac3%2FCognitive%20Psychology%7Cf56caf88-c63c-4f71-b2bc-03fff9835dcc%2F%29&wdorigin=NavigationUrl). The 1in5 project: https://www.1in5project.info/
 
