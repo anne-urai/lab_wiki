@@ -23,7 +23,7 @@ SOLO is the main source of support at the university. Here are their main channe
 ### Storing and loading internal data
 * Data from experiments run in the lab should be stored on the J-drive: WORKGROUPS/FSW/PROJECT-NAME. This can be accessed from the lab computers.
 * To access data from your computer, use [Cyberduck](https://cyberduck.io/download/) - instructions [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) for using Cyberduck with ALICE.
-* For use with the J-drive, set up an SSH File Transfer Protocol on Cyberduck with the following details:
+* For use with the J-drive, set up an SSH File Transfer Protocol on Cyberduck with the following details (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive)
   * Server: sftpgw.leidenuniv.nl
   * Username: your Leiden username
   * Password: your Leiden password
