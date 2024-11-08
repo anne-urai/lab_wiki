@@ -16,8 +16,9 @@ SOLO is the main source of support at the university. Here are their main channe
 
 ### Collecting in-person data
 - Get access to the Sylvius labs via SOLO (Maureen Meekel). This includes access to the room booking system.
-- Get access to the project J-drive (ask Anne)
-- Get access to SONA for participant recruitment.
+- Get access to the project J-drive (ask Anne) - see below for accessing with Cyberduck.
+- Make a [SONA](https://ul.sona-systems.com/all_exp.aspx?personal=1) account for participant recruitment.
+- Login to the [ethics application portal](https://researchsupport-fsw.universiteitleiden.nl/) to help edit (if applicable).
 - See [here](https://docs.google.com/document/d/1C6Kt_tYg0wLJQ1GE0N0mQVeitvk-i0vjs0vuYjYIJsQ/edit) for a guide to collecting behavioral data, written by Annika Frach and Camilla Enwereuzor.
 
 ### Storing and loading internal data
