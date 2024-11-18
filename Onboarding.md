@@ -14,7 +14,7 @@ rank: 10
 - Read, and then **[contribute to this wiki](https://github.com/anne-urai/lab_wiki/ContributeToWiki.html)**
 
 #### Project logs and management
-Inspired by the [Voytek lab]([https://github.com/voytekresearch](https://voyteklab.com/management/git/publications/lab-management/)), make a core GitHub repository (pick a useful, descriptive name) for your project and add `anne-urai` as a collaborator (feel free to keep it private). Then, add a [GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) where we can start to list all ideas and plans as issues. At each meeting, we'll review the project status and make plans.
+Inspired by the [Voytek lab](https://voyteklab.com/management/git/publications/lab-management/), make a core GitHub repository (pick a useful, descriptive name) for your project and add `anne-urai` as a collaborator (feel free to keep it private). Then, add a [GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) where we can start to list all ideas and plans as issues. At each meeting, we'll review the project status and make plans.
 
 #### Getting started at the cognitive psychology unit
 - ask secretary [Eva Potters](https://www.universiteitleiden.nl/en/staffmembers/eva-potters#tab-1) to be added to the _FSW - Cogpsy_ mailing list. 
