@@ -22,9 +22,9 @@ SOLO is the main source of support at the university. Here are their main channe
 - See [here](https://docs.google.com/document/d/1C6Kt_tYg0wLJQ1GE0N0mQVeitvk-i0vjs0vuYjYIJsQ/edit) for a guide to collecting behavioral data, written by Annika Frach and Camilla Enwereuzor.
 
 ### Storing and loading internal data
-* Data from experiments run in the lab should be stored on the J-drive: WORKGROUPS/FSW/PROJECT-NAME. This can be accessed from the lab computers.
-* To access data from your computer, use [Cyberduck](https://cyberduck.io/download/) - instructions [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) for using Cyberduck with ALICE.
-* For use with the J-drive, set up an SSH File Transfer Protocol on Cyberduck with the following details (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive)
+* Data from experiments run in the lab should be stored on the J-drive: WORKGROUPS/FSW/PROJECT-NAME. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives.
+* To access data from your owncomputer, download the [Cyberduck](https://cyberduck.io/download/) software (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) and [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive) for more setup instructions.
+* After you have downloaded Cyberduck, start a new connection, and choose sFTP. Fill out the following details, and you should now be able to connect to get access to the folder. 
   * Server: sftpgw.leidenuniv.nl
   * Username: your Leiden username
   * Password: your Leiden password
@@ -32,3 +32,6 @@ SOLO is the main source of support at the university. Here are their main channe
   * Path: /winshare/Public/Workgroups/FSW/PROJECT-NAME
   * Transfer files: Default
   * Encoding: UTF-8
+* Note: if you'd like to avoid copying these data to your local drive for analysis, you can download the MountainDuck software and mount the J-drive as if it were a regular network drive. This should give you a direct path to the data (see [here](https://github.com/anne-urai/human_ibl_snapshots/blob/main/snapshot_all.py#L33) for an example, ask Anne or Philippa for more info). 
+ 
+ 
