@@ -17,8 +17,8 @@ Send all co-authors an email with the following:
 - Final paper draft that has been approved by all co-authors
 - Journal & preprint server this will be submitted to
 - Reviewers to suggest
-- Link to public data:
-- Link to public code: 
+- Link to public data
+- Link to public code. Has the code been [reviewed](https://github.com/int-brain-lab/iblgovernance/blob/main/IBL%20Code%20Reproducibility%20Policy.pdf)? 
 
 Note: **I must be able to _reproduce all figures_ from your public data and code before submission.**
 
