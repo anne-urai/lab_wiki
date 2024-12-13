@@ -8,6 +8,7 @@ rank: 8
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 - [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
+- [Writing in an accessible manner](https://www.the100.ci/2024/12/01/writing-about-technical-topics-in-an-accessible-manner/).
 - To write well, read your writing out loud. Every first sentence of a paragraph should summarize it (see the guidelines by Matteo Carandini)
 
 Practice version control; I like Google Docs to avoid conflicts and unclarity about versioning, and it works well with Zotero. Make sure to name important versions of the manuscript like 'preprint_v1'. However, if you prefer another system, I'm happy to be convinced.
