@@ -61,7 +61,7 @@ _Ideally, we'll both take notes during our meeting. Please send them to me (as a
 ---
 
 # Evaluation meetings
-Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't. 
+Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't: accomplishments and challenges in the past 6 months, plans for the next 6 months, personal goals and training needs, feedback on lab culture, mentorship, supervision and conduct.
 
 For instance:
 - Are you happy with the way things are going - scientifically, personally (work-life harmony), in the department and in the lab?
