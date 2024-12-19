@@ -27,7 +27,6 @@ I aspire to have each person in the lab working on the most exciting thing they 
     - When we meet, take notes and especially write down the specific _action items_ we've agreed on. Not only does this help structure your work, it can also serve as a great reminder for when I inevitably contradict my past self.
     - _Must-read_: Allen D (2001) Getting Things Done: The Art of Stress-Free Productivity. Penguin.
     - Stick to a consistent and clear organisation scheme for your data (e.g. [this one](https://int-brain-lab.github.io/iblenv/one_docs/one_reference.html)); keep your code version controlled on GitHub; comment your analysis workflows; organize code reviews; learn about best practices in software development. Your future self will thank you.
-- Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
 
 ### Expectations for PhD students and postdocs:
 - Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
@@ -38,6 +37,9 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Meet with me approximately weekly to discuss your project and progress. During our first months of working together, we will establish a workflow for these (see below for a template); the more easily we can check off previous plans, and the more you can show me figures and results, the more we can discuss interesting science. Of course, I'm happy to discuss confusing/exciting results anytime in between these. Send me an overview of what we agreed on _afterwards_, so we are both on the same page on what to do.
 - Help each other, and help students/RAs with their projects. I aim to ensure that it's always clear which students work on what project, and what I expect of you in terms of supervision.
 - Finish what you started: as your project matures, you will increasingly be in charge of your own goals and the steps necessary to meet them. Find a project-management tool that works for you, so that I do not have to chase loose ends that we previously discussed.
+- Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
+
+For postdocs, I also expect you to actively look out for grants that you may to apply for; to help shape lab culture; and to mentor students in the lab.
 
 ### Expectations for MSc and BSc students:
 - Be aware of the guidelines around your thesis/internship (see BrightSpace), and keep track of the timing of the project and your plan. I see my role primarily as your scientific advisor, and the more you prepare the administrative parts of the project, the more we can talk science together.
