@@ -27,6 +27,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
     - When we meet, take notes and especially write down the specific _action items_ we've agreed on. Not only does this help structure your work, it can also serve as a great reminder for when I inevitably contradict my past self.
     - _Must-read_: Allen D (2001) Getting Things Done: The Art of Stress-Free Productivity. Penguin.
     - Stick to a consistent and clear organisation scheme for your data (e.g. [this one](https://int-brain-lab.github.io/iblenv/one_docs/one_reference.html)); keep your code version controlled on GitHub; comment your analysis workflows; organize code reviews; learn about best practices in software development. Your future self will thank you.
+- Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
 
 ### Expectations for PhD students and postdocs:
 - Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
