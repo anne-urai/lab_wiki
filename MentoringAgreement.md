@@ -10,9 +10,9 @@ This mentoring agreement has been adapted from [Yael Niv](https://docs.google.co
 
 The purpose of this agreement is to assist in documenting mutually agreed upon goals and parameters that will serve as the foundation for our mentoring relationship. This agreement is expected to be a living document that is altered as needed throughout your time in the lab. 
 
-1.  **Goals** _(what you hope to achieve as a result of this relationship, e.g., gain perspective relative to skills necessary for success in academia, explore new career opportunities/ alternatives, obtain knowledge of organizational culture, networking, leadership skill development)_
+1. **Goals** _(what you hope to achieve as a result of this relationship, e.g., gain perspective relative to skills necessary for success in academia, explore new career opportunities/ alternatives, obtain knowledge of organizational culture, networking, leadership skill development)_
 
-2.  **Steps to achieving goals as stated above** _(e.g., meeting regularly, manuscripts/grants, collaborating on research projects, steps to achieving independence). What assistance (specific/general) do you need with this?_
+2. **Steps to achieving goals as stated above** _(e.g., meeting regularly, manuscripts/grants, collaborating on research projects, steps to achieving independence). What assistance (specific/general) do you need with this?_
 
 3. **What expectations does the mentee have of the mentor?**
 
