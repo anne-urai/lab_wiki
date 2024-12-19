@@ -38,6 +38,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Help each other, and help students/RAs with their projects. I aim to ensure that it's always clear which students work on what project, and what I expect of you in terms of supervision.
 - Finish what you started: as your project matures, you will increasingly be in charge of your own goals and the steps necessary to meet them. Find a project-management tool that works for you, so that I do not have to chase loose ends that we previously discussed.
 - Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
+- Keep up with the literature, and send me interesting papers that I may have missed!
 
 For postdocs, I also expect you to actively look out for grants that you may to apply for; to help shape lab culture; and to mentor students in the lab.
 
