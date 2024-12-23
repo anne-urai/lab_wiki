@@ -4,7 +4,7 @@ title: Project ideas
 rank: 4
 ---
 
-Some ideas for project topics and research questions.
+Ideas for projects are listed and tracked [here](https://github.com/orgs/cocosys-lab/projects/2)
 
 ### Publicly available data sets
 My motto: if you can answer a question with existing data, why collect it anew?
