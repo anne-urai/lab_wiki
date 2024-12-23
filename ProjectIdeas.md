@@ -4,19 +4,13 @@ title: Project ideas
 rank: 4
 ---
 
-Ideas for projects are listed and tracked [here](https://github.com/orgs/cocosys-lab/projects/2)
+Ideas for projects are listed and tracked [here](https://github.com/orgs/cocosys-lab/projects/2). Note that older ideas are still listed below, and have not (yet) all been moved to GitHub.
 
 ### Publicly available data sets
 My motto: if you can answer a question with existing data, why collect it anew?
 - [Here](https://nivlab.github.io/opendata/) is a link to a large database of behavioral datasets.
 - [Here](https://www.nature.com/articles/s41562-019-0813-1) is a paper describing a [database](https://osf.io/s46pr/) of >145 confidence datasets.
 - [This paper](https://www.sciencedirect.com/science/article/pii/S0006322318300295#sec1) describes a perceptual decision making task with psychopathology questionnaires, dataset [here](https://github.com/metacoglab/RouaultSeowGillanFleming).
-
-### Ongoing
-- How much are human perceptual decisions affected by distinct states/epochs in behavior? Apply GLM-HMM method from [Ashwood et al](https://www.nature.com/articles/s41593-021-01007-z) (code [here](https://github.com/int-brain-lab/GLM-HMM/tree/main)) to open data from [the confidence database](https://www.nature.com/articles/s41562-019-0813-1) or [this longitudinal dataset](https://github.com/roeysc/dynamic_computational_phenotyping) with many different tasks. By: Lorenzo van Hoorde
-   Can we detect cognitive strategies using constrained RNNs? Fit new models (e.g. [here](https://www.biorxiv.org/content/10.1101/2023.04.12.536629v2), [here](https://www.biorxiv.org/content/10.1101/2023.05.17.541226v1), [here](https://www.biorxiv.org/content/10.1101/2023.06.23.546250v1), [tutorial](https://github.com/kstach01/CogModelingRNNsTutorial)) to perceptual decision-making data. By: Isabelle Hoxha
-- With Steven Miletic: why do some find that history biases the starting point of evidence accumulation, and others the drift? By: Greta Sandow.
-- How do decision-making strategies differ across mammalian species? Build and run a human version of the [IBL decision task](https://elifesciences.org/articles/63711), online and/or in the lab with EEG. By: Camilla Enwereuzor
  
 ### Decision-making: data analysis
 _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples on getting started with existing IBL data_.
