@@ -46,6 +46,10 @@ I strongly encourage students and postdocs to attend at least one summer school.
 ### Laptop
 Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
 
+## Funding - general
+
+You can find Leiden University's funding portal [here](https://leidenuniv1.sharepoint.com/sites/internalkb-luris/Lists/Funding%20Database/AllItems.aspx), and the research support portal [here](https://www.researchsupport.universiteitleiden.nl/en?cf=social-and-behavioural-sciences&cd=psychology).
+
 ### Funding - PhD
 These are some funding opportunities to check out for coming to Leiden:
 - [CAPES](https://www.iie.org/Programs/CAPES), PhD funding for students from Brazil
