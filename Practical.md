@@ -91,3 +91,4 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [Travelling fellowships](https://www.biologists.com/travelling-fellowships/), Company of Biologists
 - [LNVH Distinguished Women Scientist Fund](https://www.lnvh.nl/dws-fund) travel funding for women postdocs in NL less than 3 years from PhD
 - [EMBO Scientific Exchange grant](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/) for research visits 1 week - 3 months in another European country
+- [Stichting Formation](https://stichtingformation.nl/) for women scientists wanting to visit The Netherlands
