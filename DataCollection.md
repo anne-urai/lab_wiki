@@ -18,8 +18,8 @@ SOLO is the main source of support at the university. Here are their main channe
 - Login to the [ethics application portal](https://researchsupport-fsw.universiteitleiden.nl/) to help edit (if applicable).
 - Get access to the Sylvius labs via SOLO (Maureen Meekel). This includes access to the room booking system.
 - Get access to the project J-drive (ask Anne) - see below for accessing with Cyberduck.
-- Make a [SONA](https://ul.sona-systems.com/all_exp.aspx?personal=1) account for participant recruitment.
-- See [here](https://docs.google.com/document/d/1C6Kt_tYg0wLJQ1GE0N0mQVeitvk-i0vjs0vuYjYIJsQ/edit) for a guide to collecting behavioral data, written by Annika Frach and Camilla Enwereuzor.
+- Make a [SONA](https://ul.sona-systems.com/all_exp.aspx?personal=1) account for participant recruitment. Add a slide [here](https://leidenuniv1.sharepoint.com/:p:/r/sites/SSHLabresearch/_layouts/15/Doc.aspx?sourcedoc=%7BA885A6F7-2855-46F7-8335-ACCD3190636B%7D&file=Research_Advertisments.pptx&action=edit&mobileredirect=true) for your advertisement to be shown in screens in the Sylvius building.
+- See [here](https://docs.google.com/document/d/1C6Kt_tYg0wLJQ1GE0N0mQVeitvk-i0vjs0vuYjYIJsQ/edit) for a guide to collecting behavioral data in a visual decision task, written by Annika Frach and Camilla Enwereuzor. See [here]([https://docs.google.com/document/d/1V](https://docs.google.com/document/d/1VZZZ1K3NHQlPGUveSB9ozum1Ab8ZEbqJ-56SzgmNSIE/edit?tab=t.0)) for instructions on running a group decision-making study, written by Alisa Wirtnik and Eveline de Bie.
 
 ### Storing and loading internal data
 * Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. 
