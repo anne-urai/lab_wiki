@@ -43,6 +43,8 @@ To stay sane and grounded, remember you're [a whole person](https://blogs.scient
 
 If you struggle with mental health, know that you're not alone, and that resources are available. Leiden University has [counsellors](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/confidential-counsellors/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) and [student psychologist services](https://www.student.universiteitleiden.nl/en/study--studying/guidance--advice/study-guidance-and-advisors/student-psychologist/social-and-behavioural-sciences/psychology-bsc?cf=social-and-behavioural-sciences&cd=psychology-bsc) that you can use freely and confidentially. [Frisse gedachten](https://www.frissegedachtes.nl/) provides low-threshold chats and buddy-systems in Dutch. You can always talk to me about any professional or personal circumstances, for advice, or to point out ways in which I should improve/change my ways.
 
+See [here](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences/current-phd-candidates/phd-support) for an overview page with all resources available to Leiden University PhD students.
+
 #### Beyond the lab
 I value a broad look at the field, at academia, our scientific community and society. I write and act on topics such as [climate action](https://anneurai.net/green-neuroscience/), gender equality and the functioning of our university. I am always happy to talk about these, and I encourage you to explore such topics beyond your immediate project.
 
