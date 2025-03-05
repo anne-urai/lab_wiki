@@ -43,6 +43,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
 For postdocs, I also expect you to actively look out for grants that you may to apply for; to help shape lab culture; and to mentor students in the lab.
 
 ### Expectations for MSc and BSc students:
+- Clarify with me whether we are doing strictly confirmatory or exploratory/pilot work (most MSc projects fall into the latter category). Don't be afraid to look at your data and visualize it in multiple ways! See page 48-53 [here](https://osf.io/5fzuy) for examples. Of course, you should never formulate your hypotheses and then test on the same data, but this does not mean it's a good idea to apply a statistical test without having taken a look to see if your data make sense ('positive controls'). See also [here](https://bsky.app/profile/willjharrison.bsky.social/post/3lin4wjsq322a).
 - Be aware of the guidelines around your thesis/internship (see BrightSpace), and keep track of the timing of the project and your plan. I see my role primarily as your scientific advisor, and the more you prepare the administrative parts of the project, the more we can talk science together.
 - Email/message me for on-demand meetings, clarifications, etc. Basically, keep me in the loop so we can resolve issues quickly when they arise.
 - Make a clear timeplan for when you'll send me drafts/materials for feedback, and stick to it; that way, I can block time in my calendar and get back to you quickly.
