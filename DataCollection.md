@@ -25,7 +25,8 @@ SOLO is the main source of support at the university. Here are their main channe
 * Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. 
 
 #### Accessing the J-drive on your own computer:
-- download the [Cyberduck](https://cyberduck.io/download/) software (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) and [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive) for more setup instructions.
+a) Cyberduck
+- Download the [Cyberduck](https://cyberduck.io/download/) software (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) and [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive) for more setup instructions.
 * After you have downloaded Cyberduck, start a new connection:
   * choose **sFTP**
   * Server: sftpgw.leidenuniv.nl
@@ -36,5 +37,12 @@ SOLO is the main source of support at the university. Here are their main channe
   * Transfer files: Default
   * Encoding: UTF-8
 * Note: if you'd like to avoid copying these data to your local drive for analysis, you can download the MountainDuck software and mount the J-drive as if it were a regular network drive. This should give you a direct path to the data (see [here](https://github.com/anne-urai/human_ibl_snapshots/blob/main/snapshot_all.py#L33) for an example, ask Anne or Philippa for more info). 
- 
+
+ b) EduVPN
+ * Download [EduVPN] (https://www.eduvpn.org/client-apps/) software
+ * After you have downloaded the software, log into your Leiden University account
+ * If student: use your student number (s_______) and your password
+ * When logged in, the EduVPN window will pop up, it needs to be turned on (green light) to work
+ * The J-drive will appear under "This PC"
+ * Note: This only works for Windows users.
  
