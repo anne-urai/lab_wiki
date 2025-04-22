@@ -63,7 +63,7 @@ a) Sources for improving programming skills
 
 b) Read literature
 * Check the literature above
-* If not informative, look for review articles on the topic
+* If it is not enough, look for review articles on the topic
 
 c) Communicate with your fellow lab members
 * Especially if stuck with code
