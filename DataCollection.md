@@ -39,7 +39,7 @@ a) Cyberduck
 * Note: if you'd like to avoid copying these data to your local drive for analysis, you can download the MountainDuck software and mount the J-drive as if it were a regular network drive. This should give you a direct path to the data (see [here](https://github.com/anne-urai/human_ibl_snapshots/blob/main/snapshot_all.py#L33) for an example, ask Anne or Philippa for more info). 
 
  b) EduVPN
- * Download [EduVPN] (https://www.eduvpn.org/client-apps/) software
+ * Download [EduVPN](https://www.eduvpn.org/client-apps/) software
  * After you have downloaded the software, log into your Leiden University account
  * If student: use your student number (s_______) and your password
  * When logged in, the EduVPN window will pop up, it needs to be turned on (green light) to work
