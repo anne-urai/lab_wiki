@@ -60,9 +60,12 @@ As a scientists you'll develop many other skills. Via [Mark Humphries](https://w
 a) Sources for improving programming skills
 * [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
 * [Neuromatch Computational Neuroscience Course](https://compneuro.neuromatch.io/tutorials/intro.html#)
+
 b) Read literature
 * Check the literature above
 * If not informative, look for review articles on the topic
+
 c) Communicate with your fellow lab members
 * Especially if stuck with code
+
 d) Track your progress
