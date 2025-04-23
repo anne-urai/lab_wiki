@@ -48,3 +48,24 @@ As a scientists you'll develop many other skills. Via [Mark Humphries](https://w
 - [Giving a talk](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view)
 - [Clean code](https://drive.google.com/file/d/1TraVwRkbkCbHq-s_-NS69ZEbRNwH8XNh/view)
 - [Peer review](https://drive.google.com/file/d/1g7VSbUkF9wBszcjHCeZlGHoHqUqYfDC0/view)
+
+
+
+## A guide for (research) master's students
+#### Start collaboration
+* If you want to learn more about current work at the lab, look into the recent projects [here](https://anneurai.net/research-interests/) or [here](https://anneurai.net/publications/)
+* Reach out to the lab [here](https://anneurai.net/getting-started/) with a project idea
+* Communicate your expectations and goals
+#### You have an idea, but what then?
+a) Sources for improving programming skills
+* [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
+* [Neuromatch Computational Neuroscience Course](https://compneuro.neuromatch.io/tutorials/intro.html#)
+
+b) Read literature
+* Check the literature above
+* If it is not enough, look for review articles on the topic
+
+c) Communicate with your fellow lab members
+* Especially if stuck with code
+
+d) Track your progress
