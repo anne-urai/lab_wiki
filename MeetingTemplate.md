@@ -70,6 +70,9 @@ For instance:
 - What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
 - Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
+- Did you take sufficient vacation days?
+
+Also, please bring a (tentative) authorship contribution table for all projects/papers you are working on (see guidelines on the wiki). This way, we can discuss and make sure everyone on the project is on the same page.
 
 Feedback for me:
 - What is one thing I'm doing that I could do better? One thing I'm doing that's getting in my own way?
