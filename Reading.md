@@ -5,6 +5,7 @@ rank: 5
 ---
 
 Read widely, deeply and regularly. Read weird things. Keep track of what you read, and make notes; I strongly recommend Zotero with the Zotfile plugin for managing both pdfs and references.
+[This](https://fraserlab.com/philosophy/rss_how_to/) is a useful framework for using RSS feeds to collect journal feeds and custom keyword feeds. I use a similar approach, with a combination of journals, blogs and keywords going to my Feedly (this keeps my email inbox relatively free of endless newsletters).
 [Here](https://www.cameronbrick.com/literature-search) is a useful overview by Cameron Brick on how to stay on top of the literature.
  
  Some of my favorite papers and books:
