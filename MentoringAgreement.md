@@ -15,9 +15,6 @@ The purpose of this agreement is to assist in documenting mutually agreed upon g
 2. **Steps to achieving goals as stated above** _(e.g., meeting regularly, manuscripts/grants, collaborating on research projects, steps to achieving independence). What assistance (specific/general) do you need with this?_
 3. **What expectations does the mentee have of the mentor?**
 4. **What expectations does the mentor have of the mentee?** See [Vision](https://anne-urai.github.io/lab_wiki/Vision.html) and [Working with me](https://anne-urai.github.io/lab_wiki/Working_with_me.html).
-5. **Meeting frequency** _(frequency, duration, and location of meetings) and communication plan (emails, slack, etc.)_
+5. **Meeting plans** _(frequency, duration, and location of meetings) and communication plan (emails, slack, etc.); plan for evaluating mentoring effectiveness and feedback._
 6. **Any concerns the mentee wants discussed and resolved?**
-7. **Any concerns the mentors want discussed and resolved?**
-8. **How will you know when the mentoring relationship has served its purpose and needs to be re-evaluated, completed or teminated?**
-9. **Plan for evaluating relationship effectiveness.** _(e.g., bi-annual review of mentorship meeting minutes, goals, and outcomes/accomplishments)_
-10. **Any additional areas/issues you want to discuss?** _Any sensitive issues that we discuss will be held in the strictest of confidence. Issues that are off limits for discussion?_
+7. **Any concerns the mentor want discussed and resolved?**
