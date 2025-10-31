@@ -28,7 +28,7 @@ Learn how to make your figures look good straight out of Python/Matlab/Julia/R, 
 
 **[Here](https://docs.google.com/presentation/d/10fEmdswbj4zGy01kwoDrOmCLhbA0MqdFu4oynzw473Y/edit#slide=id.p)** are slides of a _figure workshop_ we did in lab meeting on 26 February 2024. Watch back the [recording](https://video.leidenuniv.nl/media/t/1_j5544njq) when you're starting to make your own figures!
 
-Ideally, follow this [IBL styleguide](https://github.com/int-brain-lab/ibl-style) for consistent and good-looking figures. This [starting guide to Illustrator by Arjun Raj](https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit?tab=t.0) is super helpful, especially on keeping images linked until you are ready to submit.
+Ideally, follow this [IBL styleguide](https://github.com/int-brain-lab/ibl-style) for consistent and good-looking figures. This [starting guide to Illustrator by Arjun Raj](https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit?tab=t.0) is super helpful, especially on keeping images linked until you are ready to submit. I recommend following [this procedure](https://bsky.app/profile/guidomeijer.com/post/3m3cdjoedfk2l).
 
 Some other resources:
 - Learn to use colors to your advantage: Borland D, Taylor II RM (2007) Rainbow color map (still) considered harmful. IEEE computer graphics and applications 27:14–17.
