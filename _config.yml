@@ -11,3 +11,4 @@ include:
   - Supervision.md
   - Writing.md
 theme: jekyll-theme-minimal
+markdown: kramdown
