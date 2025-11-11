@@ -6,12 +6,13 @@ rank: 10
 
 <details>
   <summary>In the lab</summary>
+  
+  ### Templates and documents
+  - [Weekly meeting notes](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html)
+  - [Mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html)
+  - [Collaboration agreement](https://anne-urai.github.io/lab_wiki/CollaborationAgreement.html)
 
-
-### Templates and documents
-- [Weekly meeting notes](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html)
-- [Mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html)
-- [Collaboration agreement](https://anne-urai.github.io/lab_wiki/CollaborationAgreement.html)
+</details>
 
 ### Meetings
 - Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
@@ -24,7 +25,6 @@ rank: 10
 - nice workshop space: [Lorentz Center](https://www.lorentzcenter.nl/calendar.html). When there are no workshops, Leiden Uni staff can make use of the space.
 - common room in PdlC building: in Outlook web calendar, simply create an event and select 'Psychology Common Room' as the location. 
 - Olthoff room (CogPsy) for up to 8 ppl: there is a paper calendar at the secretariat.
-</details>
 
 ### Conferences
 Feel free to explore meetings and conferences, and discuss where you'd like to go! 
