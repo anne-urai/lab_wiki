@@ -47,3 +47,8 @@ It is unfortunate that [we don't talk about authorship](https://medium.com/@ashl
 - If you feel unsure about authorship, _bring it up asap_:  I much prefer to have an early discussion and avoid later misunderstandings or frustration. 
 - Whatever authorship scheme we settle on, I encourage using the [Credit scheme](https://credit.niso.org/) with additional detail to keep track of everybody's contributions. Ideally, we add this statement to the preprint/paper together with a clear [tabular visualization](https://github.com/int-brain-lab/paper-behavior/blob/master/authorship/IBL%20behavior%20platform%20paper%20-%20contribution%20statement.ipynb).
 - Apart from traditional authorship order, we will indicate each person's contributions to the project in a tabular form (inspired by [Nick Steinmetz](https://t.co/R5hQiSYvKt?amp=1), further develop in [IBL](https://iiif.elifesciences.org/lax:63711%2Felife-63711-fig6-v2.tif/full/1500,/0/default.jpg)).
+
+# Journals
+My goal is to preprint all work (on e.g. bioRxiv or PsyArxiv) before sending it out to publication. Good scientific practice, as well as funding mandates, mean that we will favour Open Access publishing.
+- this [journal browser](https://library.wur.nl/WebQuery/ulbrowser?title=*) can help you find a way through all the potential publishing options.
+- this [journal checker tool](https://journalcheckertool.org/) easily lets you check OA compliance.

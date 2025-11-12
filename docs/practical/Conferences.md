@@ -12,7 +12,9 @@ Each postdoc and PhD student has a standard budget (see CogPsy wiki) per year to
 Master's or BSc students are also encouraged to attend conferences if they have work to present - please discuss plans with me in advance.
 
 # Conferences
-I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending [FENS](https://fensforum.org/), [SfN](https://www.sfn.org/), [ECVP](https://ecvp.eu/), [ASSC](https://theassc.org/), CCN, [Cosyne](https://www.cosyne.org/), [CogSci](https://cognitivesciencesociety.org/).
+I normally go to the Dutch [NVP](https://www.societyforbrainandcognition.nl/) (more cognitive) or [DNM](https://dnm22.azuleon.org/) (more neuro) meetings in person, and to the virtual NeuroMatch conferences. Depending on your career stage and interests, you can consider attending [FENS](https://fensforum.org/), [SfN](https://www.sfn.org/), [ECVP](https://ecvp.eu/), [ASSC](https://theassc.org/), [CCN](https://2025.ccneuro.org/), [Cosyne](https://www.cosyne.org/), [CogSci](https://cognitivesciencesociety.org/).
+
+For meetings that we don't attend in person, and where livestreams/recordings are available, it's great to host local **watch parties** where we book a nice room, and watch a selection of talks together.
 
 [The Transmitter](https://www.thetransmitter.org/events/) keeps a great overview of neuroscience meetings.
 

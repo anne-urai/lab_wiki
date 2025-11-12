@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meeting template
-parent: Getting started
+parent: Working time & meetings
 ---
 
 # Weekly / regular meetings
@@ -77,4 +77,4 @@ Also, please bring a (tentative) authorship contribution table for all projects/
 Feedback for me:
 - What is one thing I'm doing that I could do better? One thing I'm doing that's getting in my own way?
 
-During these meetings, we will update and revise our [mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html). 
+During these meetings, we will update and revise our mentoring agreement.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mentoring agreement
-parent: Getting started
+parent: Working time & meetings
 ---
 
 # Mentoring agreement template
