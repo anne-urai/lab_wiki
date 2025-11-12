@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Writing & Figures
-rank: 8
+title: Writing, figures, authorship
+parent: In the lab
+nav_order: 3
 ---
 
-### How to write scientific papers
+# How to write scientific papers
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 - [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
@@ -13,7 +14,7 @@ See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by 
 
 Practice version control; I like Google Docs to avoid conflicts and unclarity about versioning, and it works well with Zotero. Make sure to name important versions of the manuscript like 'preprint_v1'. However, if you prefer another system, I'm happy to be convinced.
 
-### Before submitting a preprint/paper with me
+## Before submitting a preprint/paper with me
 Send all co-authors an email with the following:
 - Final paper draft that has been approved by all co-authors
 - Journal & preprint server this will be submitted to
@@ -23,7 +24,7 @@ Send all co-authors an email with the following:
 
 Note: **I must be able to _reproduce all figures_ from your public data and code before submission.**
 
-### I'm a sucker for *nice-looking figures* (and fonts). 
+# I'm a sucker for *nice-looking figures* (and fonts). 
 Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
 
 **[Here](https://docs.google.com/presentation/d/10fEmdswbj4zGy01kwoDrOmCLhbA0MqdFu4oynzw473Y/edit#slide=id.p)** are slides of a _figure workshop_ we did in lab meeting on 26 February 2024. Watch back the [recording](https://video.leidenuniv.nl/media/t/1_j5544njq) when you're starting to make your own figures!
@@ -36,7 +37,7 @@ Some other resources:
 - Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biology 13:e1002128.
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
-### Authorship
+# Authorship
 It is unfortunate that [we don't talk about authorship](https://medium.com/@ashleyjthinks/no-one-wants-to-talk-about-authorship-d0156307aa50) [(early) enough](https://www.degruyter.com/document/doi/10.7312/juav19088-015/html).  While I have [some opinions](https://tobiasdonner.net/our-labs-take-on-authorship/), we should discuss authorship for each project. The [Leiden University psychology](https://www.universiteitleiden.nl/binaries/content/assets/sociale-wetenschappen/psychologie/organisatiegids/ib-ip-fsw-16-12-2019-leiden-university-institute-of-psychology-authorship-guidelines.pdf) guidelines should be leading for any authorship list we settle on, but it still leaves a lot open. Ultimately, I may want to settle on a policy [like this](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf).
 - Scientific autorship is a tricky business (see [here](https://tobiasdonner.net/our-labs-take-on-authorship/) for discussion in my PhD lab). I aim to discuss authorship early on, clarify expectations, and give regular updates when a project changes. If you are unsure about authorship, please let me know asap.
 - I aim to have an honest authorship discussion at the moment a project looks like it might become a paper (this is not necessarily always the case when we work together, for instance when you do a short student internship). 

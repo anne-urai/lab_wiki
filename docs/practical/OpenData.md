@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Project ideas
+title: Open data
+parent: Data analysis
 nav_order: 2
 ---
 
@@ -12,5 +13,3 @@ My motto: if you can answer a question with existing data, why collect it anew?
 - [This paper](https://www.sciencedirect.com/science/article/pii/S0006322318300295#sec1) describes a perceptual decision making task with psychopathology questionnaires, dataset [here](https://github.com/metacoglab/RouaultSeowGillanFleming).
 - _See [here](https://anne-urai.github.io/lab_wiki/IBLdata.html) for some examples on getting started with existing IBL data_.
 
-### Project ideas
-Ideas for projects are listed and tracked [here](https://github.com/orgs/cocosys-lab/projects/2). 

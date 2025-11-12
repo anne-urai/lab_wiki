@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contributing to the wiki
+parent: Home
 ---
 
 I'm always looking to improve these instructions. Please help me, and let me know which ones are unclear, if links don't work, or if you've found better resources/additional information that can help students in the future.
@@ -19,3 +20,8 @@ rank: 1
 4. Add, commit and push to your fork
 5. Create a PR: go to Pull Requests / New / Compare across forks and select your fork. Explain what you've added, and
  I'll incorporate your edits in the wiki.
+
+ ### Have a question?
+![Decision tree](https://github.com/anne-urai/lab_wiki/docs/practical/main/lab_decision_tree.png?raw=true)
+_Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
+

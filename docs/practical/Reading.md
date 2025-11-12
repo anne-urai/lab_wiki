@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Reading & learning
-rank: 5
+parent: In the lab
+nav_order: 2
 ---
+
 
 Read widely, deeply and regularly. Read weird things. Keep track of what you read, and make notes; I strongly recommend Zotero with the Zotfile plugin for managing both pdfs and references.
 [This](https://fraserlab.com/philosophy/rss_how_to/) is a useful framework for using RSS feeds to collect journal feeds and custom keyword feeds. I use a similar approach, with a combination of journals, blogs and keywords going to my Feedly (this keeps my email inbox relatively free of endless newsletters).
@@ -15,6 +17,8 @@ Read widely, deeply and regularly. Read weird things. Keep track of what you rea
 - Newport C (2016) Deep Work: Rules for Focused Success in a Distracted World. New York. _Read the first half with a grain of salt, but see how you can implement the second half's practices in your own life._
 - Gawande A (2010) The checklist manifesto: how to get things right, 1st ed. New York: Metropolitan Books. _Must-read for running experiments._
 - Schwartz MA (2008) The importance of stupidity in scientific research. Journal of Cell Science 121:1771–1771.
+### Choosing a scientific project
+Read [Alon (2009)](http://linkinghub.elsevier.com/retrieve/pii/S1097276509006418) and consider taking 3 months to scope the project, before starting!
 
 
 #### Perceptual decision-making
@@ -57,6 +61,7 @@ As a scientists you'll develop many other skills. Via [Mark Humphries](https://w
 * If you want to learn more about current work at the lab, look into the recent projects [here](https://anneurai.net/research-interests/) or [here](https://anneurai.net/publications/)
 * Reach out to the lab [here](https://anneurai.net/getting-started/) with a project idea
 * Communicate your expectations and goals
+
 #### You have an idea, but what then?
 a) Sources for improving programming skills
 * [Neural Data Science in Python](https://neuraldatascience.io/intro.html)

@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Mentoring agreement
-
+parent: Lab culture
 ---
 
-This mentoring agreement has been adapted from [Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit). 
-
-## Mentoring agreement template
+# Mentoring agreement template
 
 The purpose of this agreement is to assist in documenting mutually agreed upon goals and parameters that will serve as the foundation for our mentoring relationship. This agreement is expected to be a living document that is altered as needed throughout your time in the lab. 
 
@@ -18,3 +16,6 @@ The purpose of this agreement is to assist in documenting mutually agreed upon g
 5. **Meeting plans** _(frequency, duration, and location of meetings) and communication plan (emails, slack, etc.); plan for evaluating mentoring effectiveness and feedback._
 6. **Any concerns the mentee wants discussed and resolved?**
 7. **Any concerns the mentor want discussed and resolved?**
+
+
+> This mentoring agreement has been adapted from [Yael Niv](https://docs.google.com/document/d/1_RfH4f23_5n2cKxqoItRJBE8PrGkHfuO7w-6P701gr8/edit). 

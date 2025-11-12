@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Code, analysis and computing
-rank: 6
+title: Data analysis
+parent: In the lab
+nav_order: 5
 ---
 
 ### Step-by-step instructions to getting started
