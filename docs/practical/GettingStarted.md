@@ -12,11 +12,13 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 ### University-level
 - When your contract starts, you will get a LU account (email address, card for printing/library etc) through Eva Potters.
 - See [these resources](https://www.staff.universiteitleiden.nl/research/phds/support-and-community/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology) for connecting with other PhD students and postdocs in the university.
+
 ### Unit (aka department)-level
 - Ask secretary [Eva Potters](https://www.universiteitleiden.nl/en/staffmembers/eva-potters#tab-1) to be added to the _FSW - Cogpsy_ mailing list. 
 - The _Working in Cognitive Psychology_ Teams channel is important to connect with the department, and has a good [wiki](https://leidenuniv1.sharepoint.com/:w:/r/sites/WorkingatCognitivePsychology/_layouts/15/Doc.aspx?sourcedoc=%7BC4830FD4-6B03-4DE6-A3BE-26EE87D5F27D%7D&file=WIKI%20Cognitive%20Psychology.docx&action=default&mobileredirect=true) with a lot of department-related information, including a **manual for newcomers** and information on who is who.
 - Eva can also help you with desks, keys, [computer hardware](https://www.staff.universiteitleiden.nl/ict/ict-workplace/hardware/desktops-and-laptops/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology), etc.
     - __Note__: Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
+    
 ### Lab-level
 - Anne will add you to the Google lab calendar (where you can see lab events, talks etc).
 - Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms.

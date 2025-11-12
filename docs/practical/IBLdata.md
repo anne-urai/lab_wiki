@@ -27,7 +27,7 @@ The IBL's neural recordings will be fully released once completed. Until then, y
 
 # Accessing data on ALICE
 {: .warning }
-> Currently, the ALICE IBL data (described below) has not been maintained - instead, lab members analyzing internal IBL data should ideally follow the IBL onboarding procedure to get access to data that has not been publicly released.
+Currently, the ALICE IBL data (described below) has not been maintained - instead, lab members analyzing internal IBL data should ideally follow the IBL onboarding procedure to get access to data that has not been publicly released.
 
 In our lab's shared ALICE project space (`data_pi-uraiae`) live IBL data which are not available through the `openalyx` public dataset. You can point ONE to use this local cache using the snippet below: 
 

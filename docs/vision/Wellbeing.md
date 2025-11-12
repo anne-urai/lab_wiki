@@ -15,8 +15,7 @@ If you struggle with mental health, know that you're not alone, and that resourc
 
 See [here](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences/current-phd-candidates/phd-support) for an overview page with all resources available to Leiden University PhD students.
 
-<img src="enjoythejourney.png" width=50%>
-
+<img src="enjoythejourney.png">
 > Shared on BlueSky by Nicole Rust
 
 # Reporting misconduct 
