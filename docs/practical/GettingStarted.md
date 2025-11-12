@@ -23,6 +23,7 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 - Anne will add you to the Google lab calendar (where you can see lab events, talks etc).
 - Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms.
 - We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
+- Geting organised: my setup is Zotero for papers, Obsidian for notes/planning, GitHub projects for project tracking, MS Teams for quick communication.
 - Familiarize yourself with the contents of this wiki, and tell me how it can be improved!
 
 ## Useful mailing lists, groups etc
@@ -36,14 +37,12 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. The institutional language at Leiden University and in the Cognitive Psychology Unit is English; nonetheless, many administrative exchanges and Dutch bureaucracy are still in Dutch. 
 
 # Project logs and management
-
 As [SAFE labs](https://safelabs.info/home/safe-labs-handbook/) astutely notes:
 > Commonly reported frustrations of the 1-on-1 meeting process in labs are:
 > 1. Lab members feel that their group leader forgets the content of their previous meeting and so appears disengaged, or time is wasted rehashing the previous meeting.
 > 2. Group leaders feel that a previously agreed course of action has not been followed (or even attempted) and the lab member has instead pursued an unrelated tangent.
 
 My solution is to always aim for clear communication, and to impose some organisation. 
-My setup is Zotero for papers, Obsidian for notes/planning, MS Teams for quick communication.
  
 In general, every lab member/project will keep track in two ways:
 1. Inspired by the [Voytek lab](https://voyteklab.com/management/git/publications/lab-management/), make a core GitHub repository (pick a useful, descriptive name) for your project and add `anne-urai` as a collaborator (feel free to keep it private). Then, add a [GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) where we can start to list all ideas and plans as issues. At each meeting, we'll review the project status and make plans. This really helps me keep the overview of all ongoing projects, and to avoid repeating myself. It is also a great too to help prioritize items and to be on the same page about planned next steps.

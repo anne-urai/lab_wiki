@@ -29,7 +29,7 @@ Send all co-authors an email with the following:
 
 Note: **I must be able to _reproduce all figures_ from your public data and code before submission.**
 
-# I'm a sucker for *nice-looking figures* (and fonts). 
+# I'm a sucker for *nice-looking figures* (and fonts)
 Learn how to make your figures look good straight out of Python/Matlab/Julia/R, and minimize the time spent changing things in Illustrator/InkScape. This will not only save a lot of time in the long run, it also makes your analyses more reproducible. 
 
 **[Here](https://docs.google.com/presentation/d/10fEmdswbj4zGy01kwoDrOmCLhbA0MqdFu4oynzw473Y/edit#slide=id.p)** are slides of a _figure workshop_ we did in lab meeting on 26 February 2024. Watch back the [recording](https://video.leidenuniv.nl/media/t/1_j5544njq) when you're starting to make your own figures!
