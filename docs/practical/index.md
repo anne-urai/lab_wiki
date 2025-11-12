@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Practical things
+title: In the lab
 nav_order: 3
 ---
 
