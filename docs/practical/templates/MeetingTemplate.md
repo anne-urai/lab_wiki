@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meeting template
-
+parent: Getting started
 ---
 
 # Weekly / regular meetings

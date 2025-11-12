@@ -5,13 +5,13 @@ parent: Vision & values
 ---
 
 
-## Lab culture, mentorship and supervision
+# Lab culture, mentorship and supervision
 
 I generally aim for each PhD student and postdoc in the lab to have their own project that fits within the lab's broad research interest, with the goal of avoiding a sense of competition. That said, I always encourage (and will sometimes suggest) connections between projects if I think collaborating is to everyone's benefit. Students (MSc, BSc, RA) will be linked to one of the main ongoing projects.
 
 I aspire to have each person in the lab working on the most exciting thing they can think of, subject to constraints of feasibility and uniqueness (from Josh McDermott).
 
-### I expect all lab members to:
+## I expect all lab members to
 - Communicate openly and honestly.
 - Treat your colleagues, participants and lab equipment with respect. 
 - Be a team player and good academic citizen: help others, collaborate and share ideas.  
@@ -28,7 +28,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
     - _Must-read_: Allen D (2001) Getting Things Done: The Art of Stress-Free Productivity. Penguin.
     - Stick to a consistent and clear organisation scheme for your data (e.g. [this one](https://int-brain-lab.github.io/iblenv/one_docs/one_reference.html)); keep your code version controlled on GitHub; comment your analysis workflows; organize code reviews; learn about best practices in software development. Your future self will thank you.
 
-### Expectations for PhD students
+## Expectations for PhD students
 - Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
     - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; [email is an asynchronous medium](https://www.rachelbedder.com/phdtips), so set your own boundaries.
     - Inform me about longer absences (sickness, vacation, working remotely, conferences, etc).
@@ -40,13 +40,13 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
 - Keep up with the literature, and send me interesting papers that I may have missed!
 
-### Expectations for postdocs
+## Expectations for postdocs
 - all of the above, and:
 - I also expect you to actively look out for grants that you may to apply for
 - To help shape lab culture
 - And to mentor students in the lab.
 
-### Expectations for MSc and BSc students
+## Expectations for MSc and BSc students
 - Clarify with me whether we are doing strictly confirmatory or exploratory/pilot work (most MSc projects fall into the latter category). Don't be afraid to look at your data and visualize it in multiple ways! See page 48-53 [here](https://osf.io/5fzuy) for examples. Of course, you should never formulate your hypotheses and then test on the same data, but this does not mean it's a good idea to apply a statistical test without having taken a look to see if your data make sense ('positive controls'). See also [here](https://bsky.app/profile/willjharrison.bsky.social/post/3lin4wjsq322a).
 - Be aware of the guidelines around your thesis/internship (see BrightSpace), and keep track of the timing of the project and your plan. I see my role primarily as your scientific advisor, and the more you prepare the administrative parts of the project, the more we can talk science together.
 - Email/message me for on-demand meetings, clarifications, etc. Basically, keep me in the loop so we can resolve issues quickly when they arise.
@@ -54,15 +54,16 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Enjoy the learning experience!
     - I'm here to guide and advise you, _not_ to be your teacher. In a course, your goal may be to get a good grade for an assignment and mine is to assess your work; a research project is a different game where we're both learning and I'm happy to be shown wrong.
 
----
 
-### I aspire and promise to
+
+# I aspire and promise to
 - **Support you in your research and career**.
 - I will continually assess my own practices as a mentor and supervisor, and improve my own practices to help you flourish as a scientist and person.
     - You can make use of the Cognitive Psychology Unit's mentoring scheme (ask Sander Nieuwenhuis).
     - The university encourages a yearly 'functioneringsgesprek' (see [this form](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/po/suggestielijst-rogesprek-mei-2019-eng.pdf)). See below for my own _mentoring agreement_ form. I aim to have a big-picture 'review meeting' with postdocs and PhD students twice a year.
 - Respond to questions and give **feedback in a timely manner**.
     - I aim to respond to emails in a few days, or at most a week. If something is urgent (e.g. a problem with data collection, a sudden deadline for a grant application) I will usually respond more quickly. For _really urgent_ or out-of-hours matters, call me.
+    - Check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).
     - If you want feedback on your work, a letter of reference, or other input from me, please give me a heads-up a few weeks in advance (e.g. as soon as you know that you're applying for something, or when you start writing a draft). I can then block off time to go over your work and give feedback quickly. Note that if you then can't meet this deadline, it may go to the bottom of my priority list and I may be less inclined to prioritize this in the future. So plan ahead, and allow yourself (and me) some buffers.
 - Create a **fun and supportive learning environment**.
     - Peer review can be tough and unpredictable, so we will celebrate papers when they are submitted and posted as a preprint.
@@ -72,13 +73,6 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - [Handout from Niv & Murray's mentoring course](https://docs.google.com/document/d/19lL7N_7svzsUmA8_wQul_CQ1d3Jk7G676HXy8yK0GMY/edit)
 - Hour-long _Growing Up in Science_ session about mentoring up ([link](https://www.cns.nyu.edu/events/growingupinscience/), search for 'mentoring up').
 
-## Meetings
-Please join the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and weekly lab meeting (ask Anne for access to lab calendar), and feel free to suggest topics/papers.
-
-For Bachelor/Master student projects, I normally start with **meetings on demand**: when you either get stuck or have something to show me (one of these should happen every few weeks), book a meeting through Calendly and send me a short description beforehand. 
-For longer projects (PhD/postdoc), we'll start with regular meetings (e.g. once a week, once every two weeks). Talk to me and find out what works for you.
-
-Before our weekly supervision meetings, fill out this [template](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html) to help us structure our discussion. Afterwards, email the action points we agreed on. Most meetings shouldn't be longer than 45 minutes to an hour; but of course if we need more time/relaxed atmosphere, let me know. 
 
 #### Mentoring agreement
 

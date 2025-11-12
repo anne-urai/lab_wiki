@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Home
-rank: 1
+nav_order: 1
+
 ---
 
 ### Welcome!
@@ -17,8 +18,3 @@ If you're interested in doing a project with us, great! Check out the following 
 
 Once you've gone through those and have tried the exercises, let me know how things went (and where/if you got stuck) and what research questions you'd like to pursue.
 
-### Have a question?
-![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
-_Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
-
-Also, check out this excellent advice on [how to send effective emails](https://threadreaderapp.com/thread/1411866547631521792.html).

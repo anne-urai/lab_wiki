@@ -4,16 +4,6 @@ title: Practical things
 nav_order: 3
 ---
 
-<details>
-  <summary>In the lab</summary>
-  
-  ### Templates and documents
-  - [Weekly meeting notes](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html)
-  - [Mentoring agreement](https://anne-urai.github.io/lab_wiki/MentoringAgreement.html)
-  - [Collaboration agreement](https://anne-urai.github.io/lab_wiki/CollaborationAgreement.html)
-
-</details>
-
 ### Meetings
 - Cognitive Psychology colloquia are held at 16.00 on Thursdays. Email [Julia Folz](https://www.universiteitleiden.nl/medewerkers/julia-folz#tab-1) if you're interested in receiving weekly invitations.
 - We meet once a month with a smaller group interested in computational modelling. Email [Selin Topel](https://www.universiteitleiden.nl/en/staffmembers/selin-topel#tab-1) to get on the mailing list.
