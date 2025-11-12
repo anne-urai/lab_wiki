@@ -27,7 +27,7 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 - Many Teams channels have useful information. I regularly check the _Open Science Community Leiden_, _Sustainability network_, and _Psychology Living Room_ MS teams groups. 
 - Community email lists:
     - CCN-NL for cogneuro
-    - Brick-lab for environmental psychology
+    - Brick-lab for environmental psychology (see [further envpsych mailing lists](https://www.cameronbrick.com/should-i-get-a-phd) on Cameron's website)
 - IBL Slack for internal IBL things (ask Anne about onboarding if you'll work with internal IBL data).
 
 ## Language

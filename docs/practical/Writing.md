@@ -8,6 +8,9 @@ nav_order: 3
 My publishing philosophy is that lab members generally have one main high-quality project. For postdocs, this will usually mean one main paper, with potential smaller co-authored papers or side projects. For a PhD thesis, it is common to include 3 empirical chapters (of which ideally one or two are submitted/accepted) by graduation.
 
 # How to write scientific papers
+
+For your first version and submission, do not bother with citation formats, word counts and layout of specific journals: write what you want to say ('your paper, your way'). We will deal with journal specifics later in the process.
+
 See this useful [writing guide](https://doi.org/10.1523/ENEURO.0497-22.2022) by Matteo Carandini. 
 - [Tips on writing good paper titles](https://threadreaderapp.com/thread/1530688927790661632.html).
 - [The shortest ever guide to academic writing](http://neuroanatody.com/2023/07/the-shortest-ever-guide-to-academic-writing/).
@@ -38,6 +41,7 @@ Some other resources:
 - Tufte ER (2001) The Visual Display of Quantitative Information. Graphics Press.
 - Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biology 13:e1002128.
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- another great [overview of figure setup](https://bsky.app/profile/guidomeijer.com/post/3m3cdjoedfk2l) by Guido Meijer
 
 # Authorship
 It is unfortunate that [we don't talk about authorship](https://medium.com/@ashleyjthinks/no-one-wants-to-talk-about-authorship-d0156307aa50) [(early) enough](https://www.degruyter.com/document/doi/10.7312/juav19088-015/html).  While I have [some opinions](https://tobiasdonner.net/our-labs-take-on-authorship/), we should discuss authorship for each project. The [Leiden University psychology](https://www.universiteitleiden.nl/binaries/content/assets/sociale-wetenschappen/psychologie/organisatiegids/ib-ip-fsw-16-12-2019-leiden-university-institute-of-psychology-authorship-guidelines.pdf) guidelines should be leading for any authorship list we settle on, but it still leaves a lot open. Ultimately, I may want to settle on a policy [like this](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf).
@@ -49,6 +53,8 @@ It is unfortunate that [we don't talk about authorship](https://medium.com/@ashl
 - Apart from traditional authorship order, we will indicate each person's contributions to the project in a tabular form (inspired by [Nick Steinmetz](https://t.co/R5hQiSYvKt?amp=1), further develop in [IBL](https://iiif.elifesciences.org/lax:63711%2Felife-63711-fig6-v2.tif/full/1500,/0/default.jpg)).
 
 # Journals
-My goal is to preprint all work (on e.g. bioRxiv or PsyArxiv) before sending it out to publication. Good scientific practice, as well as funding mandates, mean that we will favour Open Access publishing.
+My goal is to preprint all work (on e.g. bioRxiv or PsyArxiv) before sending it out to publication. Good scientific practice, as well as funding mandates, mean that we will favour Open Access publishing. I find it difficult to formulate standard rules about journal choice, and I will aim to discuss with the project team when we are starting to write the paper.
+
+Helpful links:
 - this [journal browser](https://library.wur.nl/WebQuery/ulbrowser?title=*) can help you find a way through all the potential publishing options.
 - this [journal checker tool](https://journalcheckertool.org/) easily lets you check OA compliance.
