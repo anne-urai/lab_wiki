@@ -2,7 +2,7 @@
 layout: default
 title: Project ideas
 parent: Join us
-nav_order: 1
+nav_order: 2
 ---
 
 # Project ideas

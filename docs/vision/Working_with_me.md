@@ -2,6 +2,7 @@
 layout: default
 title: Lab culture
 parent: Vision & values
+nav_order: 1
 ---
 
 
@@ -35,6 +36,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Participate in lab/institute/department events to benefit from the social and scientific interactions (basically, most events I put in the lab calendar). I strongly encourage you to join social events organized at work when you can, irrespective of whether I'm there.
 - Get into the habit of asking questions. A good strategy may be to start by _asking at least one question_ in our own lab meeting, then in larger meetings (e.g. with external speakers). Asking good questions is a valuable skill to craft, it signals a culture of shared learning, and interactivity is much more fun and interesting for the presenter.
 - Meet with me approximately weekly to discuss your project and progress. During our first months of working together, we will establish a workflow for these (see below for a template); the more easily we can check off previous plans, and the more you can show me figures and results, the more we can discuss interesting science. Of course, I'm happy to discuss confusing/exciting results anytime in between these. Send me an overview of what we agreed on _afterwards_, so we are both on the same page on what to do.
+    - Before our weekly supervision meetings, fill out this [template](https://anne-urai.github.io/lab_wiki/MeetingTemplate.html) to help us structure our discussion. Afterwards, email the action points we agreed on. Most meetings shouldn't be longer than 45 minutes to an hour; but of course if we need more time/relaxed atmosphere, let me know. 
 - Help each other, and help students/RAs with their projects. I aim to ensure that it's always clear which students work on what project, and what I expect of you in terms of supervision.
 - Finish what you started: as your project matures, you will increasingly be in charge of your own goals and the steps necessary to meet them. Find a project-management tool that works for you, so that I do not have to chase loose ends that we previously discussed.
 - Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
@@ -54,7 +56,9 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Enjoy the learning experience!
     - I'm here to guide and advise you, _not_ to be your teacher. In a course, your goal may be to get a good grade for an assignment and mine is to assess your work; a research project is a different game where we're both learning and I'm happy to be shown wrong.
 
+For Bachelor/Master student projects, I normally start with **meetings on demand**: when you either get stuck or have something to show me (one of these should happen every few weeks), book a meeting through Calendly and send me a short description beforehand. 
 
+---
 
 # I aspire and promise to
 - **Support you in your research and career**.
