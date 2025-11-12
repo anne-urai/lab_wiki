@@ -15,6 +15,9 @@ If you struggle with mental health, know that you're not alone, and that resourc
 
 See [here](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences/current-phd-candidates/phd-support) for an overview page with all resources available to Leiden University PhD students.
 
+![Enjoy the journey](enjoythejourney.png)
+> Shared on BlueSky by Nicole Rust
+
 # Reporting misconduct 
 Bullying, harassment and misconduct are [unacceptable](https://www.staff.universiteitleiden.nl/vr/social-and-behavioural-sciences/teacher-platform-fsw/teaching--supporting-the-learning-process/diversity-and-inclusion/fsw-code-of-conduct?cf=social-and-behavioural-sciences&cd=psychology). If you witness or are subjected to anything that may fit their description, then tell [someone who can do something](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology).
 
