@@ -16,6 +16,7 @@ See also the [European Code of Conduct for Research Integrity](https://allea.org
 > - Honesty in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way.
 > - Respect for colleagues, research, participants, research subjects, society, ecosystems, cultural heritage, and the environment.
 > - Accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.
+>
 > From: [ALLEA](https://allea.org/code-of-conduct/)
 
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work. Collaborate, don't compete. 
@@ -36,6 +37,9 @@ Since I've started my career, best practices have changed immensely - and I'm no
 As colleagues and members of academic communities (in our research field, university and department), everyone deserves to be treated fairly and respectfully. Unfortunately, science is not immune to [sexism](https://anneurai.net/2018/12/09/gender-diversity-in-academia/), [racism](https://anneurai.net/2020/06/11/shutdownstem-fighting-racism-in-academia/), harassment and general bigotry.
 
 We strive a welcoming and inclusive atmosphere and encourage open and honest intellectual debate, which allows everyone in our local and international communities to do their best work and be respected. Call out misconduct when you see it; you can always approach me, or other faculty members in the department. 
+
+### Diversity statement
+We believe that promoting diversity in those who do science (e.g., race, gender, class, sexuality, ability) is a necessary step towards achieving the [rigorous and creative science](https://www.pnas.org/content/117/17/9284) of the mind that we want.
 
 ## Well-being
 Take care of yourself: research can be exhausting ([and a lot like learning how to surf](https://threadreaderapp.com/thread/1451547079076106250.html)). As [Weiji Ma](https://www.cns.nyu.edu/events/growingupinscience/index.html) has said: we're professional doubters, so doubting ourselves is a real occupational hazard. A certain amount of [impostor syndrome](https://medium.com/the-spike/why-scientists-feel-dumb-2ed0ac869b1f) is normal, and you will almost certainly find yourself in [the valley of shit](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) at some point.

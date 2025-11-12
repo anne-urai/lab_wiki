@@ -22,3 +22,13 @@ If you're a student at Leiden University, or want to visit as an exchange studen
 1. your CV, including information about your study program and your experience in programming and data analysis, 
 2. when and how long you'd like to do a project, 
 3. letter of motivation: what topics interest you, and what project would you be interested in (see here for inspiration).
+
+
+### Interested in joining?
+
+If you're interested in doing a project with us, great! Check out the following before you begin:
+- [our values](https://anne-urai.github.io/lab_wiki/Vision.html), including some expectation management.
+- [project ideas](https://anne-urai.github.io/lab_wiki/ProjectIdeas.html).
+
+Once you've gone through those and have tried the exercises, let me know how things went (and where/if you got stuck) and what research questions you'd like to pursue.
+

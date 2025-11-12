@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project ideas
-parent: In the lab
+parent: Join us
 nav_order: 1
 ---
 
