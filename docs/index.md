@@ -8,7 +8,7 @@ nav_order: 1
 ### Welcome!
 This is the lab wiki. For more info about our team, research, blog and publications see [anneurai.net](https://anneurai.net).
 
-[![SAFE labs](https://safelabs.info/wp-content/uploads/2024/02/Spec-version_LM_noLabs.png)](https://safelabs.info/home/safe-labs-handbook/)
+<img src="https://safelabs.info/wp-content/uploads/2024/02/Spec-version_LM_noLabs.png" width=50%>
 
 Several sections of this wiki have been inspired by the [SAFE labs handbook](https://safelabs.info/home/safe-labs-handbook/).
 
