@@ -1,1 +1,0 @@
-See https://anne-urai.github.io/lab_wiki/ for the GitHub Pages wiki.

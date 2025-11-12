@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Working with me
-rank: 3
+title: Lab culture
+parent: Vision & values
 ---
 
 
@@ -28,7 +28,7 @@ I aspire to have each person in the lab working on the most exciting thing they 
     - _Must-read_: Allen D (2001) Getting Things Done: The Art of Stress-Free Productivity. Penguin.
     - Stick to a consistent and clear organisation scheme for your data (e.g. [this one](https://int-brain-lab.github.io/iblenv/one_docs/one_reference.html)); keep your code version controlled on GitHub; comment your analysis workflows; organize code reviews; learn about best practices in software development. Your future self will thank you.
 
-### Expectations for PhD students and postdocs:
+### Expectations for PhD students
 - Be present in the lab during regular hours, at least a few days a week. I generally encourage you to work during regular office hours. However, apart from times of e.g. data collection or deadlines, the flexibility of science is one of its main perks: take advantage of this, and find out what schedule works best for you.
     - If I occasionally email you at unusual times, do not feel obliged to read or respond immediately; [email is an asynchronous medium](https://www.rachelbedder.com/phdtips), so set your own boundaries.
     - Inform me about longer absences (sickness, vacation, working remotely, conferences, etc).
@@ -40,9 +40,13 @@ I aspire to have each person in the lab working on the most exciting thing they 
 - Implement **good open science practices**: see e.g. [these guidelines by Sam Gershman](https://gershmanlab.com/docs/Sharing.pdf).
 - Keep up with the literature, and send me interesting papers that I may have missed!
 
-For postdocs, I also expect you to actively look out for grants that you may to apply for; to help shape lab culture; and to mentor students in the lab.
+### Expectations for postdocs
+- all of the above, and:
+- I also expect you to actively look out for grants that you may to apply for
+- To help shape lab culture
+- And to mentor students in the lab.
 
-### Expectations for MSc and BSc students:
+### Expectations for MSc and BSc students
 - Clarify with me whether we are doing strictly confirmatory or exploratory/pilot work (most MSc projects fall into the latter category). Don't be afraid to look at your data and visualize it in multiple ways! See page 48-53 [here](https://osf.io/5fzuy) for examples. Of course, you should never formulate your hypotheses and then test on the same data, but this does not mean it's a good idea to apply a statistical test without having taken a look to see if your data make sense ('positive controls'). See also [here](https://bsky.app/profile/willjharrison.bsky.social/post/3lin4wjsq322a).
 - Be aware of the guidelines around your thesis/internship (see BrightSpace), and keep track of the timing of the project and your plan. I see my role primarily as your scientific advisor, and the more you prepare the administrative parts of the project, the more we can talk science together.
 - Email/message me for on-demand meetings, clarifications, etc. Basically, keep me in the loop so we can resolve issues quickly when they arise.
@@ -52,7 +56,7 @@ For postdocs, I also expect you to actively look out for grants that you may to 
 
 ---
 
-### I aspire and promise to:
+### I aspire and promise to
 - **Support you in your research and career**.
 - I will continually assess my own practices as a mentor and supervisor, and improve my own practices to help you flourish as a scientist and person.
     - You can make use of the Cognitive Psychology Unit's mentoring scheme (ask Sander Nieuwenhuis).

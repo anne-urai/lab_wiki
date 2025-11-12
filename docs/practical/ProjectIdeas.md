@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project ideas
-rank: 4
+nav_order: 2
 ---
 
 

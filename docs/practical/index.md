@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practical things
-rank: 10
+nav_order: 3
 ---
 
 <details>
