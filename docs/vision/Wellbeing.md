@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
+title: Wellbeing
 parent: Vision & values
 nav_order: 2
 ---
@@ -22,4 +22,4 @@ The following four routes can be taken if someone experiences bullying and haras
 1. Talk to your PI and/or lab members: for less severe cases or if one wants to first have an informal chat about incidences, please bring up issues and questions with the lab. Often, an open and honest conversation early on can clarify much more than waiting until things get worse.
 2. If you'd rather talk with someone outside the lab, contact the Unit chair (Guido Band) or the unit's PhD/postdoc representative (listed in the [CogPsy wiki](https://leidenuniv1.sharepoint.com/:w:/r/sites/WorkingatCognitivePsychology/_layouts/15/Doc.aspx?sourcedoc=%7BC4830FD4-6B03-4DE6-A3BE-26EE87D5F27D%7D&file=WIKI%20Cognitive%20Psychology.docx&action=default&mobileredirect=true)).
 3. For PhD students, the [FSW graduate school](https://www.universiteitleiden.nl/en/social-behavioural-sciences/graduate-school-of-social-and-behavioural-sciences) has mentors and people you can connect with.
-4. At the level of the faculty and university, there are many [resources](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology): confidential counselors, ombuds officers,and procedures.
+4. At the level of the faculty and university, there are many [resources](https://www.staff.universiteitleiden.nl/human-resources/social-safety?cf=social-and-behavioural-sciences&cd=psychology): confidential counselors, ombuds officers, and formal procedures.

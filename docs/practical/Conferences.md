@@ -2,7 +2,7 @@
 layout: default
 title: Conferences
 parent: In the lab
-nav_order: 5
+nav_order: 6
 ---
 
 I encourage all lab members to seek and apply for training opportunities to develop new expertise. This is often at conferences, but can also be through research visits (e.g. with collaborators) or by giving invited talks.

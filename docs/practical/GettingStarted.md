@@ -20,6 +20,7 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 - **Lab-level**
     - Anne will add you to the Google lab calendar (where you can see lab events, talks etc).
     - Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms.
+    - We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
     - Familiarize yourself with the contents of this wiki, and tell me how it can be improved!
 
 ## Useful mailing lists, groups etc

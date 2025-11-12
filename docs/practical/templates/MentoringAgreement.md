@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mentoring agreement
-parent: Lab culture
+parent: Getting started
 ---
 
 # Mentoring agreement template

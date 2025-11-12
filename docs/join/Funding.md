@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Funding - general
-
 You can find Leiden University's funding portal [here](https://leidenuniv1.sharepoint.com/sites/internalkb-luris/Lists/Funding%20Database/AllItems.aspx), and the research support portal [here](https://www.researchsupport.universiteitleiden.nl/en?cf=social-and-behavioural-sciences&cd=psychology).
 
 ## Funding - PhD
