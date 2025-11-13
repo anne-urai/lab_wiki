@@ -26,8 +26,8 @@ The IBL's neural recordings will be fully released once completed. Until then, y
 - See [here](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course) for a online course on Neuropixels (recording [here](https://www.youtube.com/playlist?list=PLfhWmWntvjl7SYCcrM5Qy1RFIiIIO6MK-)).
 
 # Accessing data on ALICE
-{: .warning }
-Currently, the ALICE IBL data (described below) has not been maintained - instead, lab members analyzing internal IBL data should ideally follow the IBL onboarding procedure to get access to data that has not been publicly released.
+> {: .warning }
+> Currently, the ALICE IBL data (described below) has not been maintained - instead, lab members analyzing internal IBL data should ideally follow the IBL onboarding procedure to get access to data that has not been publicly released.
 
 In our lab's shared ALICE project space (`data_pi-uraiae`) live IBL data which are not available through the `openalyx` public dataset. You can point ONE to use this local cache using the snippet below: 
 

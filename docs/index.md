@@ -15,7 +15,7 @@ This is the lab wiki. For more info about our team, research, blog and publicati
 >
 > Several sections of this wiki have been inspired by the [SAFE labs handbook](https://safelabs.info/home/safe-labs-handbook/).
 >
-> <img src="https://safelabs.info/wp-content/uploads/2025/01/cropped-SquareSAFELogo.png">
+> <img src="https://safelabs.info/wp-content/uploads/2025/01/cropped-SquareSAFELogo.png" width="50%" height="50%">
 >
 > The wiki is a continuous work in progress; please contribute and give me feedback.
 

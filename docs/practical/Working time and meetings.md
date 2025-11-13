@@ -16,7 +16,7 @@ Discussing scientific progress is essential for the success of our projects. I e
 1. On Monday or Tuesday (see Gcal for the lab), our own CoCoSys lab meeting
 2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and _CO-squared_ joint lab meeting.
 
-Every semester (2x/year), we also have two writing weeks (often in Leiden's Academy Building) and a lab social/outing.
+Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 
 # Meeting templates
 See the templates for mentoring agreement, weekly meetings, and evaluation meetings.
