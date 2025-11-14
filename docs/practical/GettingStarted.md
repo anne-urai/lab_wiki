@@ -49,8 +49,21 @@ In general, every lab member/project will keep track in two ways:
 2. A running 'meeting notes' document, or _project log_, in which we keep notes during our regular (weekly) meetings. See a template for suggested structure; you can send this to me by email, on Teams, or keep a running document.
 
 # Practicalities
-- poster printing
-- setup for hybrid lab meetings
+- Where / how to print posters
+    - [CopyCopyLeiden](https://www.copycopyleiden.nl/)
+	- the University [Graphic Centre](https://www.student.universiteitleiden.nl/en/facilities/quick-service-point/graphic-centre-willem-einthoven?cf=university&cd=guest). Send an email to [grafischcentrum@ufb.leidenuniv.nl](mailto:grafischcentrum@ufb.leidenuniv.nl). 
+- Setting up hybrid meetings in the Olthoff room
+    - Option 1: Borrow the OWL camera from SOLO
+        - Borrow the OWL device from SOLO.
+        - Connect the OWL to your laptop via USB.
+    - Option 2: Use the built-in camera system in the room
+        - Turn on the screen and select HDMI 2 as the input source.
+        - Connect your laptop using both the USB-C and HDMI cables.
+        - In Microsoft Teams → Settings → Devices:
+            - Select 'SONY TV' as the speaker.
+            - Select 'Huddly IQ' as the camera.
+            - Disable Noise suppression for the microphone.
+
 
 ### Booking a room at Leiden Uni
 - common room in PdlC building: in Outlook web calendar, simply create an event and select 'Psychology Common Room' as the location. 
