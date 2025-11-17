@@ -51,3 +51,5 @@ See [this older list](https://anneurai.net/2016/10/16/postdoctoral-fellowship-pr
 - [EMBO Scientific Exchange grant](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/) for research visits 1 week - 3 months in another European country
 - [Stichting Formation](https://stichtingformation.nl/) for women scientists wanting to visit The Netherlands
 
+## Other links
+- [climate action funding opportunities](https://docs.google.com/spreadsheets/d/1fQaIpY0ruBeMX6kah3RAybazKZ_Afua1hd4qDl2I10w/edit?gid=352049807#gid=352049807)

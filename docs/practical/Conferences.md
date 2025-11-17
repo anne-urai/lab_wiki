@@ -23,12 +23,19 @@ For meetings that we don't attend in person, and where livestreams/recordings ar
 - [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/bernstein-conference-2024/)
 
 ## Summer schools
-I strongly encourage students and postdocs to attend at least one summer school.  
+I strongly encourage students and postdocs to attend at least one summer school during your stay here. Keep your eyes open for ones that may fit your project and interests!
+
+#### Neuroscience
 - [overview of summer schools by Natalie Schaworonkow](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 - Rauischolzhausen, vision science
 - CSHL, vision science
-- Neuromatch Academy
-- Barcelona behavioral modelling
+- Neuromatch Academy, virtual
+- Barcelona behavioral modelling BMAB
 - Nencki School of Ideas, Poland
 - Mathematical Methods in Computational Neurosciences, Norway
 - [Cajal course in computational neuroscience](https://cajal-training.org/on-site/computational-neuroscience-2024/)
+
+#### Climate
+- [Amsterdam Complexity school in Climate Change](https://acscc.nl/)
+- [Environmental psychology Groningen](https://epgroningen.nl/summer-school/)
+- Long list of meetings and conferences from [Brick lab](https://docs.google.com/spreadsheets/d/1NeuUTDsr8FqJvQEBnMqIMymmyNuJPZCI1u9VlrLIH8g/edit?gid=102946787#gid=102946787)
