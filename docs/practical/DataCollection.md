@@ -5,7 +5,9 @@ parent: In the lab
 nav_order: 4
 ---
 
+
 If you are going to collect data, either in person or online, there are lots of resources at Leiden University to help you.
+- All research support at Leiden University starts [here](https://www.researchsupport.universiteitleiden.nl/).
 - Get a [shared Outlook mailbox](https://www.staff.universiteitleiden.nl/ict/ict-workplace/software-and-collaboration-tools/shared-mailbox/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology) for any communications (e.g. with participants) about the study.
 - [Ethical approval](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/commissie-ethiek?_ga=2.35655075.2008115849.1611051865-572952841.1580558528){:target="_blank"}
 - [Data management](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/wetenschapscommissie?_ga=2.39830048.2008115849.1611051865-572952841.1580558528){:target="_blank"}
