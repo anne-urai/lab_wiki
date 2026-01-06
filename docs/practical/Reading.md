@@ -65,6 +65,11 @@ See essential readings in Anne's [climate psychology](https://anneurai.net/clima
 ### Human connections with the living world
 - Kimmerer R (2013) Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants. Milkweed Editions.
 
+### Why to work on climate
+- Aron AR (2019) The Climate Crisis Needs Attention from Cognitive Scientists. Trends in Cognitive Sciences 23:903–906.
+- Blogpost by Grace Lindsay https://gracewlindsay.com/2023/08/04/so-youre-an-academic-who-wants-to-help-with-the-climate-crisis/
+
+
 ---
 
 ## Neuroscience
