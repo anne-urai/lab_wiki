@@ -12,6 +12,7 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 ### University-level
 - When your contract starts, you will get a LU account (email address, card for printing/library etc) through Eva Potters.
 - See [these resources](https://www.staff.universiteitleiden.nl/research/phds/support-and-community/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology) for connecting with other PhD students and postdocs in the university.
+- Talk to Anne about adding your project to the University's overview pages, see [here](https://www.staff.universiteitleiden.nl/communications--marketing/guidelines-and-support/website-and-web-editorial-team/changes-to-the-website/social-and-behavioural-sciences/psychology?cf=administration-and-central-services#set-up-a-new-project-page-via-form) for instructions.
 
 ### Unit (aka department)-level
 - Ask secretary [Eva Potters](https://www.universiteitleiden.nl/en/staffmembers/eva-potters#tab-1) to be added to the _FSW - Cogpsy_ mailing list. 
