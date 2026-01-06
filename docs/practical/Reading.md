@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading & learning
+title: Reading
 parent: In the lab
 nav_order: 2
 ---
