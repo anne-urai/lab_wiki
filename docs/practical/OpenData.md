@@ -5,8 +5,7 @@ parent: Data analysis
 nav_order: 1
 ---
 
-
-### Publicly available data sets
+## Publicly available data sets
 My motto: if you can answer a question with existing data, why collect it anew?
 - [Here](https://nivlab.github.io/opendata/) is a link to a large database of behavioral datasets.
 - [Here](https://www.nature.com/articles/s41562-019-0813-1) is a paper describing a [database](https://osf.io/s46pr/) of >145 confidence datasets.
