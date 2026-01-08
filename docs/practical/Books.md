@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Books that changed how I see the world
 
-The ones in **bold** are my absolute must-recommend.
+The ones in **bold** are my absolute must-recommend. Fabian Dablander keeps a very extensive [list of climate books, movies and podcasts](https://fabiandablander.com/menu/climate.html).
 
 ### On being mortal
 - **Four thousand weeks**, by Oliver Burkeman
@@ -19,7 +19,6 @@ The ones in **bold** are my absolute must-recommend.
 - **Thinking in systems**, by Donella Meadows (and basically anything else [she's written](https://donellameadows.org/donella-meadows-legacy/); more about [her life and work](https://tippingpoint-podcast.com/))
 - Doughnut economics, by Kate Raworth
 - The ultimate hidden truth of the world, by David Graeber (eclectic intro to his many books and ideas)
-
 
 ### On living amongst other creatures
 - **Braiding sweetgrass**, by Robin Wall Kimmerer
