@@ -18,6 +18,9 @@ If you’d like to work with me, please send me
 
 If it is a good fit, I will collaborate on your research plan and write a letter of support.
 
+## Visiting students
+For shorter visits, the focus of your project should be closely aligned with that of a current lab member who can serve as your daily supervisor. Check out the current list of lab members, and feel free to contact them, to see if there is a good match.
+
 # MSc / BSc / BA students
 I normally accept students through the ACP MSc and the Psychology RM at Leiden University.
 
