@@ -48,6 +48,8 @@ See essential readings in Anne's [climate psychology](https://anneurai.net/clima
 
 - Gurtner LM, Moser S (2024) The where, how, and who of mitigating climate change: A targeted research agenda for psychology. Journal of Environmental Psychology 94:102250.
 - Creutzig F et al. (2023) Demand, services and social aspects of mitigation (Chapter 5). In: IPCC 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, https://www.ipcc.ch/report/ar6/wg3/.
+- Chater N, Loewenstein G (2023) The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences 46:e147.
+
 
 ### Systems thinking and complexity
 - Meadows DH (2008) Thinking in Systems: A Primer. Chelsea Green Publishing.
