@@ -12,3 +12,5 @@ My motto: if you can answer a question with existing data, why collect it anew?
 - Brick, C. (2019). Directory of free, open psychological datasets. PsyArXiv. doi.org/10.17605/osf.io/th8ew
 - [This paper](https://www.sciencedirect.com/science/article/pii/S0006322318300295#sec1) describes a perceptual decision making task with psychopathology questionnaires, dataset [here](https://github.com/metacoglab/RouaultSeowGillanFleming).
 
+## Other large platforms
+- https://odissei-data.nl/
