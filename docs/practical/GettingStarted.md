@@ -19,6 +19,8 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 - The _Working in Cognitive Psychology_ Teams channel is important to connect with the department, and has a good [wiki](https://leidenuniv1.sharepoint.com/:w:/r/sites/WorkingatCognitivePsychology/_layouts/15/Doc.aspx?sourcedoc=%7BC4830FD4-6B03-4DE6-A3BE-26EE87D5F27D%7D&file=WIKI%20Cognitive%20Psychology.docx&action=default&mobileredirect=true) with a lot of department-related information, including a **manual for newcomers** and information on who is who.
 - Eva can also help you with desks, keys, [computer hardware](https://www.staff.universiteitleiden.nl/ict/ict-workplace/hardware/desktops-and-laptops/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology), etc.
     - __Note__: Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
+- Anne will introduce you to the Unit during one of our Thursday meetings!
+- Remember to add your project to the [university website](https://www.staff.universiteitleiden.nl/communications--marketing/guidelines-and-support/website-and-web-editorial-team/changes-to-the-website/social-and-behavioural-sciences/psychology?cf=administration-and-central-services#).
     
 ### Lab-level
 - Anne will add you to the Google lab calendar (where you can see lab events, talks etc).
