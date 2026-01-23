@@ -50,7 +50,6 @@ See essential readings in Anne's [climate psychology](https://anneurai.net/clima
 - Creutzig F et al. (2023) Demand, services and social aspects of mitigation (Chapter 5). In: IPCC 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, https://www.ipcc.ch/report/ar6/wg3/.
 - Chater N, Loewenstein G (2023) The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences 46:e147.
 
-
 ### Systems thinking and complexity
 - Meadows DH (2008) Thinking in Systems: A Primer. Chelsea Green Publishing.
 - Anderson PW (1972) More Is Different. Science 177:393–396.
@@ -60,6 +59,9 @@ See essential readings in Anne's [climate psychology](https://anneurai.net/clima
 - Pizziol V, Tavoni A (2024) From niches to norms: the promise of social tipping interventions to scale climate action. npj Clim Action 3:1–8.
 - Lenton TM et al. (2025) A method to identify positive tipping points to accelerate low-carbon transitions and actions to trigger them. Sustain Sci.
 - Hansson A, Anshelm J, Haikola S (2025) A race to the tip—revisiting societal tipping points in the public climate debate. Dialogues on Climate Change Available.
+
+### Formal models of social dynamics
+- Models of Social Dynamics, by Paul Smaldino. https://learn.culturalevolutionsociety.org/social_dynamics_module/
 
 ### Human perceptions of change
 - Liu G, Snell JC, Griffiths TL, Dubey R (2025) Binary climate data visuals amplify perceived impact of climate change. Nat Hum Behav:1–10.
