@@ -58,3 +58,9 @@ My goal is to preprint all work (on e.g. bioRxiv or PsyArxiv) before sending it 
 Helpful links:
 - this [journal browser](https://library.wur.nl/WebQuery/ulbrowser?title=*) can help you find a way through all the potential publishing options.
 - this [journal checker tool](https://journalcheckertool.org/) easily lets you check OA compliance.
+
+# Revisions
+General wisdom about paper revisions: https://ahappyphd.org/posts/revising/
+
+- Follow [Stefano Palminteri's guidelines](https://doi.org/10.31234/osf.io/kyfus) for preparing your rebuttal letter.
+- See [this rebuttal](https://static-content.springer.com/esm/art%3A10.1038%2Fncomms14637/MediaObjects/41467_2017_BFncomms14637_MOESM2317_ESM.pdfhttps://static-content.springer.com/esm/art%3A10.1038%2Fncomms14637/MediaObjects/41467_2017_BFncomms14637_MOESM2317_ESM.pdf) to my first paper for a format to follow. 
