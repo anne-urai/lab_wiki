@@ -7,14 +7,14 @@ layout: minimal
 ---
 
 # Psychology of social change workshop
-Organisers: [Anne Urai](https://anneurai.net/) (Leiden University), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino) (Stanford University), Fabian Dablander (University of Amsterdam), Jan Willem Bolderdijk (University of Amsterdam), Vitor Vasconcelos (University of Amsterdam)
+Organisers: [Anne Urai](https://anneurai.net/) (Leiden University), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino) (Stanford University), [Fabian Dablander](https://fabiandablander.com/) (University of Amsterdam), [Jan Willem Bolderdijk](https://www.uva.nl/en/profile/b/o/j.w.bolderdijk/j.w.bolderdijk.html) (University of Amsterdam), [Vitor Vasconcelos](https://www.vvvasconcelos.net/) (University of Amsterdam)
 
-### Practicalities
+## Practicalities
 - **Date & time**: Monday 15 June 2026, 09:00 - 17:00.
 - **Location**: Sweelinck room, [Institute of Advanced Studies](https://ias.uva.nl/about-the-ias/contact/contact.html), Amsterdam.
 - **Lunch** included, default vegetarian.
 
-### Description
+## Description
 {: .highlight-title }
 > Developing (formal) psychological and cognitive theories to understand and characterize the mechanisms underlying social change, e.g. social tipping dynamics. Using this information to help inform the design of interventions aimed at creating broad social change, for instance applied to sustainability and climate action.
 
@@ -31,10 +31,7 @@ This meeting will bring together researchers from these fields, which at the mom
 -	cognitive (neuro)science, focusing on detailed models of humans beliefs and behavior (but rarely studying real-world decisions relevant for pro-environmental choice beyond the lab);
 -	social simulation and behavioral science, excelling in large-scale simulations of behavior in complex environments (but mostly lacking realistic models of human beliefs and behavior).
 
-### Participants
-Limited to 24 in-person participants.
-
-### Preliminary program
+## Preliminary program
 -	9:30 - 10:00, walk-in with coffee
 -	10:00 - 10:15, welcome and getting to know each other
 -	10:15 - 11:00, keynote
@@ -47,10 +44,14 @@ Limited to 24 in-person participants.
 -	16:30 - 17:00, drinks
 -	18:00 - 21:00, dinner
 
+## Participants
+Limited to 24 in-person participants.
 
-#### Confirmed
+
+### Confirmed
 - Anne Urai, Leiden University
 - Sara Constantino, Stanford University
 - Magdalena Sabat, Leiden & Amsterdam University
 - Vitor Vasconcelos, University of Amsterdam
 - Jan Willem Bolderdijk, University of Amsterdam
+
