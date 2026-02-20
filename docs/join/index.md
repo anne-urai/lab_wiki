@@ -6,6 +6,9 @@ nav_order: 4
 
 If you interested in the lab's research, please check out recent publications and think about a project that fits with the lab's scientific focus. Make sure to read the pages about my vision on supervision and academic values (and the rest of the lab wiki). I invite you to speak to current or past lab members about life in the lab, and my mentorship style.
 
+> Note: please do **not** write a generic letter using GenAI that vaguely repeats the keywords on my website. See [other tips for writing a good motivation letter](https://www.linkedin.com/posts/emilia-hannula-b46b25326_phdlife-lookingforaphd-academicchatter-activity-7429191692370485248-XYPe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIx-2UBScIk5Aa6d9OexVTW59vwmueGbk4).
+
+
 # PhD / postdoc
 Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, read [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) first.
 
@@ -25,9 +28,9 @@ For shorter visits, the focus of your project should be closely aligned with tha
 I normally accept students through the ACP MSc and the Psychology RM at Leiden University.
 
 If you're a student at Leiden University, or want to visit as an exchange student, please send me 
-1. your CV, including information about your study program and your experience in programming and data analysis, 
+1. your CV, including information about your study program and your experience in programming (e.g. Python/R) and data analysis, 
 2. when and how long you'd like to do a project, 
-3. letter of motivation: what topics interest you, and what project would you be interested in.
+3. letter of motivation: what topics interest you, and what project would you be interested in. 
 
 See a specific section on expectations for students in _Lab culture_.
 
