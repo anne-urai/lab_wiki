@@ -65,12 +65,13 @@ Once or twice a year, we'll zoom out together to see what's been done, what lies
 
 For instance:
 - Are you happy with the way things are going - scientifically, personally (work-life harmony), in the department and in the lab?
+- Did you take sufficient vacation days?
 - What have you accomplished? Does this match your original plans?
 - What did you struggle with?
 - What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
 - Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
-- Did you take sufficient vacation days?
+- What milestones (when? steps to achieving those?) do we have coming up in the next (half) year?
 
 Also, please bring a (tentative) authorship contribution table for all projects/papers you are working on (see guidelines on the wiki). This way, we can discuss and make sure everyone on the project is on the same page.
 
