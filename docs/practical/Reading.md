@@ -49,6 +49,8 @@ See essential readings in Anne's [climate psychology](https://anneurai.net/clima
 - Gurtner LM, Moser S (2024) The where, how, and who of mitigating climate change: A targeted research agenda for psychology. Journal of Environmental Psychology 94:102250.
 - Creutzig F et al. (2023) Demand, services and social aspects of mitigation (Chapter 5). In: IPCC 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, https://www.ipcc.ch/report/ar6/wg3/.
 - Chater N, Loewenstein G (2023) The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences 46:e147.
+- Kause A, Majer J, Brick C. Four Validities as Pathways to Scientific and Societal Impact in Environmental Psychology. Environmental Psychology Open. Published online March 17, 2026:29-29. doi:10.69805/epo.v30.a29
+
 
 ### Systems thinking and complexity
 - Meadows DH (2008) Thinking in Systems: A Primer. Chelsea Green Publishing.
