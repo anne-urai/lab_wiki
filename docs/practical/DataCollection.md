@@ -9,7 +9,8 @@ nav_order: 4
 If you are going to collect data, either in person or online, there are lots of resources at Leiden University to help you.
 - All research support at Leiden University starts [here](https://www.researchsupport.universiteitleiden.nl/).
 - Get a [shared Outlook mailbox](https://www.staff.universiteitleiden.nl/ict/ict-workplace/software-and-collaboration-tools/shared-mailbox/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology) for any communications (e.g. with participants) about the study.
-- [Ethical approval](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/commissie-ethiek?_ga=2.35655075.2008115849.1611051865-572952841.1580558528){:target="_blank"}
+- [Ethical approval](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/commissie-ethiek?_ga=2.35655075.2008115849.1611051865-572952841.1580558528){:target="_blank"}; [Ethics portal](https://researchsupport-fsw.universiteitleiden.nl/)
+- Privacy template [here](https://solo.cloud.xwiki.com/xwiki/wiki/rdmwiki/view/PUB%20Overview%20page/Template%20Library/), send the privacy quick scan to privacy@bb.leidenuniv.nl
 - [Data management](https://www.organisatiegids.universiteitleiden.nl/faculteiten-en-instituten/sociale-wetenschappen/instituten/psychologie/wetenschapscommissie?_ga=2.39830048.2008115849.1611051865-572952841.1580558528){:target="_blank"}
 - [Data archiving](https://www.organisatiegids.universiteitleiden.nl/binaries/content/assets/sociale-wetenschappen/psychologie/organisatiegids/guidelines-for-the-archiving-of-academic-research-for-faculties-of-bss-n.._.pdf){:target="_blank"}
 
@@ -24,6 +25,15 @@ SOLO is the main source of support at the university. Here are their main channe
 - Get access to the project J-drive (ask Anne) - see below for accessing with Cyberduck.
 - Make a [SONA](https://ul.sona-systems.com/all_exp.aspx?personal=1) account for participant recruitment. Add a slide [here](https://leidenuniv1.sharepoint.com/:p:/r/sites/SSHLabresearch/_layouts/15/Doc.aspx?sourcedoc=%7BA885A6F7-2855-46F7-8335-ACCD3190636B%7D&file=Research_Advertisments.pptx&action=edit&mobileredirect=true) for your advertisement to be shown in screens in the Sylvius building.
 - See [here](https://docs.google.com/document/d/1C6Kt_tYg0wLJQ1GE0N0mQVeitvk-i0vjs0vuYjYIJsQ/edit) for a guide to collecting behavioral data in a visual decision task, written by Annika Frach and Camilla Enwereuzor. See [here]([https://docs.google.com/document/d/1V](https://docs.google.com/document/d/1VZZZ1K3NHQlPGUveSB9ozum1Ab8ZEbqJ-56SzgmNSIE/edit?tab=t.0)) for instructions on running a group decision-making study, written by Alisa Wirtnik and Eveline de Bie.
+
+## Checklist for data collection
+- ethics approval
+- privacy approval
+- data management plan (test pipeline for getting data onto J-drive for storage)
+- code piloted and tested
+- code archived (J-drive and/or GitHub)
+- data collection checklist/instructions and logbook in place
+- participant recruitment strategy (ask Anne for info on payments)
 
 ## Storing and loading internal data
 * Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. 
