@@ -70,6 +70,7 @@ For instance:
 - What did you struggle with?
 - What works well, and what can we improve, in our mentoring relationship and in our lab culture? 
 - Do you have/need a constellation of different mentors to advise you on different goals/aspects of your life and career?
+- What projects are you working on, and in which stage are they?
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
 - What milestones (when? steps to achieving those?) do we have coming up in the next (half) year?
 
