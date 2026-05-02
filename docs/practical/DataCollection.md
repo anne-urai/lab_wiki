@@ -63,7 +63,7 @@ a) Cyberduck
 
  c) terminal mount on MacOS
  This is an option for moe advanced terminal users, proceed with caution. _FOR THIS YOU NNEED TO ALLOW FILE SYSTEMS EXTENSIONS!_
- * install MACfuse and ssfhs from https://macfuse.github.io
+ * install MACfuse and ssfhs from https://macfuse.github.io and follow instructions on how to setup
  * create the folder you want to mount to, i.e. make the folder you want to mount to /data-sources/j-drive/<project-folder>
  * open the terminal and paste  
  ```
