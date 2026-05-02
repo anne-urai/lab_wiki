@@ -10,6 +10,8 @@ I am committed to creating a healthy work environment for all lab members. I enc
 
 I aim to schedule all meetings within regular work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
 
+The _Faculty of Social and Behavioural Sciences (FSW)_ building is open from 7AM until 8 PM (exept Tuesday until 10PM). It is closed on the weekends. 
+
 I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
 
 Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings: 
