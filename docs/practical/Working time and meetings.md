@@ -18,7 +18,7 @@ Discussing scientific progress is essential for the success of our projects. I e
 
 #### Additional meetings
 - For climate psychology: Cameron Brick's lab meeting is often on Zoom, as well as the NYU climate psychology working group (sign up for their mailing lists, email Danielle Goldwert).
-- For social psychology: the [Social, Economic and Organisational Psychology unit is useful for some climate-related topics. Ask [Tycho](https://www.universiteitleiden.nl/en/staffmembers/tycho-van-tartwijk#tab-1) to be added.
+- For social psychology: the Social, Economic and Organisational Psychology unit is useful for some climate-related topics. Ask [Tycho](https://www.universiteitleiden.nl/en/staffmembers/tycho-van-tartwijk#tab-1) to be added.
 
 Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 

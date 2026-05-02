@@ -37,7 +37,7 @@ SOLO is the main source of support at the university. Here are their main channe
 - participant recruitment strategy (ask Anne for info on payments)
 
 ## Storing and loading internal data
-* Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. 
+* Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. ALICE setup needs to happen before j-drive (the password to ALICE is the password you need to mount jdrive).
 
 ## Accessing the J-drive on your own computer
 a) Cyberduck
