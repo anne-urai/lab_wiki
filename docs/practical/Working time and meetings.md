@@ -10,6 +10,8 @@ I am committed to creating a healthy work environment for all lab members. I enc
 
 I aim to schedule all meetings within regular work hours, and will refrain from sending, or answering, non-urgent emails/messages outside of work hours.
 
+The _Faculty of Social and Behavioural Sciences (FSW)_ building is open from 7AM until 8 PM (exept Tuesday until 10PM). It is closed on the weekends. 
+
 I expect all lab members to be in the office at least 3 days a week (often Mon/Tues/Thurs), during regular office hours (~10:00-17:00). If you are away or working remotely, please inform me and note this in the lab calendar. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant - please discuss with me, and make sure we document expectations (e.g. in a mentoring agreement).
 
 Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings: 
@@ -18,7 +20,7 @@ Discussing scientific progress is essential for the success of our projects. I e
 
 #### Additional meetings
 - For climate psychology: Cameron Brick's lab meeting is often on Zoom, as well as the NYU climate psychology working group (sign up for their mailing lists, email Danielle Goldwert).
-- For social psychology: the [Social, Economic and Organisational Psychology unit is useful for some climate-related topics. Ask [Tycho](https://www.universiteitleiden.nl/en/staffmembers/tycho-van-tartwijk#tab-1) to be added.
+- For social psychology: the Social, Economic and Organisational Psychology unit is useful for some climate-related topics. Ask [Tycho](https://www.universiteitleiden.nl/en/staffmembers/tycho-van-tartwijk#tab-1) to be added.
 
 Every semester (2x/year), we also aim to have a writing week (often in Leiden's Academy Building) and a lab social/outing.
 
