@@ -60,4 +60,19 @@ a) Cyberduck
  * When logged in, the EduVPN window will pop up, it needs to be turned on (green light) to work
  * The J-drive will appear under "This PC"
  * Note: This only works for Windows users.
+
+ c) terminal mount on MacOS
+ This is an option for moe advanced terminal users, proceed with caution. _FOR THIS YOU NNEED TO ALLOW FILE SYSTEMS EXTENSIONS!_
+ * install MACfuse and ssfhs from https://macfuse.github.io
+ * create the folder you want to mount to, i.e. make the folder you want to mount to /data-sources/j-drive/<project-folder>
+ * open the terminal and paste  
+ ```
+ sshfs <your-login>>@sftpgw.leidenuniv.nl:/winshare/Public/Workgroups/FSW/<project-folder> <full-mount-path(above step)> -o defer_permissions,reconnect ServerAliveInterval=15
+  ```
+  _you will be prompted to type in your password_
+  
+  * If you loose connection you might have to unmount the drive manualy:
+  ```
+   umount <your-login>@sftpgw.leidenuniv.nl:/winshare/Public/Workgroups/FSW/<project-folder>
+  ```
  
