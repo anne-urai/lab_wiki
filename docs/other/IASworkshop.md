@@ -11,7 +11,7 @@ layout: minimal
 
 ## Practicalities
 - **Date & time**: Monday 15 June 2026, 09:00 - 17:00.
-- **Location**: Sweelinck room, [Institute of Advanced Studies](https://ias.uva.nl/about-the-ias/contact/contact.html), Amsterdam.
+- **Location**: Sweelinck room, [Institute of Advanced Studies](https://ias.uva.nl/about-the-ias/contact/contact.html), Amsterdam. Organized in collaboration with [Marketing Insights for Societal Transitions](https://abs.uva.nl/content/sections/marketing/marketing-insights-for-societal-transitions-mist/marketing-insights-for-societal-transitions-mist.html), UvA.
 - **Lunch** included, default vegetarian.
 
 ## Description
@@ -48,7 +48,7 @@ This meeting will bring together researchers from these fields, which at the mom
 ## Participants
 Limited to 24 in-person participants.
 
-Organisers: [Anne Urai](https://anneurai.net/) (Leiden University), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino) (Stanford University), [Fabian Dablander](https://fabiandablander.com/) (University of Amsterdam), [Jan Willem Bolderdijk](https://www.uva.nl/en/profile/b/o/j.w.bolderdijk/j.w.bolderdijk.html) (University of Amsterdam), [Vitor Vasconcelos](https://www.vvvasconcelos.net/) (University of Amsterdam)
+Organisers: [Anne Urai](https://anneurai.net/) (Leiden University), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino) (Stanford University), [Fabian Dablander](https://fabiandablander.com/) (University of Amsterdam), [Jan Willem Bolderdijk](https://www.uva.nl/en/profile/b/o/j.w.bolderdijk/j.w.bolderdijk.html) (MIST, University of Amsterdam), [Vitor Vasconcelos](https://www.vvvasconcelos.net/) (University of Amsterdam)
 
 ### Confirmed
 - Anne Urai, Leiden University
