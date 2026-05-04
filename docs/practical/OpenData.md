@@ -16,8 +16,13 @@ My motto: if you can answer a question with existing data, why collect it anew?
 - [Here](https://www.nature.com/articles/s41562-019-0813-1) is a paper describing a [database](https://osf.io/s46pr/) of >145 confidence datasets.
 - [This paper](https://www.sciencedirect.com/science/article/pii/S0006322318300295#sec1) describes a perceptual decision making task with psychopathology questionnaires, dataset [here](https://github.com/metacoglab/RouaultSeowGillanFleming).
 
+<<<<<<< Updated upstream
 ### Surveys
 - European Social Survey, including Make it Green: https://share-eric.eu/news-events/news-details/sogreen-questionnaire-module
+=======
+### For environmental psychology
+- [European datasets on climate perception](https://infra4nextgen.com/events/workshop-make-it-green-insights-on-climate-action-and-public-perception/)
+>>>>>>> Stashed changes
 
 ## Other large platforms
 - https://odissei-data.nl/
