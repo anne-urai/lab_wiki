@@ -16,7 +16,7 @@ I expect all lab members to be in the office at least 3 days a week (often Mon/T
 
 Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings: 
 1. On Monday or Tuesday (see Gcal for the lab), our own CoCoSys lab meeting
-2. On Thursday, the [weekly CogPsy meeting](https://anne-urai.github.io/lab_wiki/Practical.html) and _CO-squared_ joint lab meeting.
+2. On Thursday, the weekly CogPsy meeting and _CO-squared_ joint lab meeting.
 
 #### Additional meetings
 - For climate psychology: Cameron Brick's lab meeting is often on Zoom, as well as the NYU climate psychology working group (sign up for their mailing lists, email Danielle Goldwert).

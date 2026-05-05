@@ -63,4 +63,4 @@ Helpful links:
 General wisdom about paper revisions: https://ahappyphd.org/posts/revising/
 
 - Follow [Stefano Palminteri's guidelines](https://doi.org/10.31234/osf.io/kyfus) for preparing your rebuttal letter.
-- See [this rebuttal](https://static-content.springer.com/esm/art%3A10.1038%2Fncomms14637/MediaObjects/41467_2017_BFncomms14637_MOESM2317_ESM.pdfhttps://static-content.springer.com/esm/art%3A10.1038%2Fncomms14637/MediaObjects/41467_2017_BFncomms14637_MOESM2317_ESM.pdf) to my first paper for a format to follow. 
+- See [this rebuttal](https://www.nature.com/articles/ncomms14637#Sec23) to my first paper for a format to follow. 

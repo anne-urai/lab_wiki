@@ -16,7 +16,7 @@ Might there be a dataset or a tool out there that does what you need? Check out 
 ### General resources and instructions to getting started
 1. [Download and install Anaconda](https://www.anaconda.com/products/individual)
 2. [Download and install git](https://git-scm.com/downloads). See [here](https://missing.csail.mit.edu/2020/version-control/) for an excellent instroduction.
-3. [Download and install VSCode](https://code.visualstudio.com/), including the AutoPilot and [VSCode Remote Mode] (https://code.visualstudio.com/docs/remote/ssh) extensions (the latter for working on the ALICE cluster)
+3. [Download and install VSCode](https://code.visualstudio.com/), including the [VSCode Remote Mode] (https://code.visualstudio.com/docs/remote/ssh) extension for working on the ALICE cluster
 4. [Continue](https://anne-urai.github.io/lab_wiki/IBLdata.html) to setup your environment for analyzing IBL data (and select `iblenv` as your interpreter in VSCode)
 
 ## Python and data analysis references
