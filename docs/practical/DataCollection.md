@@ -52,6 +52,8 @@ SOLO is the main source of support at the university. Here are their main channe
  - First, connect with EduVPN
  - In Mac Finder, 'go to server' and use `smb://USERNAME@vuw.leidenuniv.nl/public/Workgroups/FSW/PROJECT-NAME`
 
+ OR, [request sFTP access](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=6c4637cd605b4ff3b474da13458d67fe) and then use (c) or (d) below.
+
  c) terminal mount on MacOS (more tricky, potentially unsupported)
  This is an option for moe advanced terminal users, proceed with caution. _FOR THIS YOU NNEED TO ALLOW FILE SYSTEMS EXTENSIONS!_
  * install MACfuse and ssfhs from https://macfuse.github.io and follow instructions on how to setup
