@@ -40,20 +40,7 @@ SOLO is the main source of support at the university. Here are their main channe
 * Data from experiments run in the lab should be stored on the J-drive: `WORKGROUPS/FSW/PROJECT-NAME`. Anne will request access for you at the start of the project. The J-drive can be accessed from the lab computers: when you are logged in with your account, you should see the J-drive appear next to other network drives. ALICE setup needs to happen before j-drive (the password to ALICE is the password you need to mount jdrive).
 
 ## Accessing the J-drive on your own computer
-a) Cyberduck
-- Download the [Cyberduck](https://cyberduck.io/download/) software (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) and [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive) for more setup instructions.
-* After you have downloaded Cyberduck, start a new connection:
-  * choose **sFTP**
-  * Server: sftpgw.leidenuniv.nl
-  * Username: your Leiden username
-  * Password: your Leiden password
-  * SSH Private Key: None
-  * Path: /winshare/Public/Workgroups/FSW/PROJECT-NAME
-  * Transfer files: Default
-  * Encoding: UTF-8
-* Note: if you'd like to avoid copying these data to your local drive for analysis, you can download the MountainDuck software and mount the J-drive as if it were a regular network drive. This should give you a direct path to the data (see [here](https://github.com/anne-urai/human_ibl_snapshots/blob/main/snapshot_all.py#L33) for an example, ask Anne or Philippa for more info). 
-
- b) EduVPN
+ a) EduVPN
  * Download [EduVPN](https://www.eduvpn.org/client-apps/) software
  * After you have downloaded the software, log into your Leiden University account
  * If student: use your student number (s_______) and your password
@@ -61,7 +48,11 @@ a) Cyberduck
  * The J-drive will appear under "This PC"
  * Note: This only works for Windows users.
 
- c) terminal mount on MacOS
+ b) Mac mount
+ - First, connect with EduVPN
+ - In Mac Finder, 'go to server' and use `smb://USERNAME@vuw.leidenuniv.nl/public/Workgroups/FSW/PROJECT-NAME`
+
+ c) terminal mount on MacOS (more tricky, potentially unsupported)
  This is an option for moe advanced terminal users, proceed with caution. _FOR THIS YOU NNEED TO ALLOW FILE SYSTEMS EXTENSIONS!_
  * install MACfuse and ssfhs from https://macfuse.github.io and follow instructions on how to setup
  * create the folder you want to mount to, i.e. make the folder you want to mount to /data-sources/j-drive/<project-folder>
@@ -76,3 +67,15 @@ a) Cyberduck
    umount <your-login>@sftpgw.leidenuniv.nl:/winshare/Public/Workgroups/FSW/<project-folder>
   ```
  
+d) Cyberduck (note: no longer seems to work as of June 2026, use option (b) above)
+- Download the [Cyberduck](https://cyberduck.io/download/) software (see [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Clusters/ALICE%20Cluster/#HDataTransfer) and [here](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Facilities/LIBC%20MRI%20Scanner/#HExportPACStoJ-Drive) for more setup instructions.
+* After you have downloaded Cyberduck, start a new connection:
+  * choose **sFTP**
+  * Server: sftpgw.leidenuniv.nl
+  * Username: your Leiden username
+  * Password: your Leiden password
+  * SSH Private Key: None
+  * Path: /winshare/Public/Workgroups/FSW/PROJECT-NAME
+  * Transfer files: Default
+  * Encoding: UTF-8
+* Note: if you'd like to avoid copying these data to your local drive for analysis, you can download the MountainDuck software and mount the J-drive as if it were a regular network drive. This should give you a direct path to the data (see [here](https://github.com/anne-urai/human_ibl_snapshots/blob/main/snapshot_all.py#L33) for an example, ask Anne or Philippa for more info). 
