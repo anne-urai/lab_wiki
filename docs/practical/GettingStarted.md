@@ -17,6 +17,7 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 ### Unit (aka department)-level
 - Ask secretary [Anna Forlani Potters](https://www.universiteitleiden.nl/en/staffmembers/anna-forlani#tab-1) to be added to the _FSW - Cogpsy_ mailing list. 
 - The _Working in Cognitive Psychology_ Teams channel is important to connect with the department, and has a good [wiki](https://leidenuniv1.sharepoint.com/:w:/r/sites/WorkingatCognitivePsychology/_layouts/15/Doc.aspx?sourcedoc=%7BC4830FD4-6B03-4DE6-A3BE-26EE87D5F27D%7D&file=WIKI%20Cognitive%20Psychology.docx&action=default&mobileredirect=true) with a lot of department-related information, including a **manual for newcomers** and information on who is who.
+- Ask Anne to add you to the CogPsy Signal group, for social stuff (e.g. going for lunch with the dept).
 - Anna Forlani can also help you with desks, keys, [computer hardware](https://www.staff.universiteitleiden.nl/ict/ict-workplace/hardware/desktops-and-laptops/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology), etc.
     - __Note__: Once you get a university laptop (talk to Anne before ordering it, to make sure we get you something useful) request it to switch to ['semi-managed'](https://helpdesk.universiteitleiden.nl/tas/public/ssp/content/serviceflow?unid=2c19d2f22cde4c509ff4958b173a2fba). Without doing this, you won't be able to install much software. Ask Anne how to best do this.
 - Anne will introduce you to the Unit during one of our Thursday meetings!
