@@ -64,3 +64,14 @@ General wisdom about paper revisions: https://ahappyphd.org/posts/revising/
 
 - Follow [Stefano Palminteri's guidelines](https://doi.org/10.31234/osf.io/kyfus) for preparing your rebuttal letter.
 - See [this rebuttal](https://www.nature.com/articles/ncomms14637#Sec23) to my first paper for a format to follow. 
+
+# Post-publication checklist
+Congratulations, your paper has been published! Before closing the project and moving on, make sure to check off the following items:
+
+- Release the data required to reproduce the paper.
+- Create a stable release of the code repository and archive it where appropriate (e.g., on Zenodo).
+- Fork the GitHub repository to the [CoCoSys Lab GitHub](https://github.com/cocosys-lab).
+- Prepare and submit the required [publication package](https://www.universiteitleiden.nl/sociale-wetenschappen/psychologie/good-practices/open-science#publication-packages).
+- Update the preprint with the final manuscript and check that the bioRxiv record is linked to the published article.
+- Disseminate the paper through the lab blog, Leiden Psychology news (news.psy@fsw.leidenuniv.nl), and social media posts.
+
