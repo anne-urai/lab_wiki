@@ -69,7 +69,7 @@ General wisdom about paper revisions: https://ahappyphd.org/posts/revising/
 Congratulations, your paper has been published! Before closing the project and moving on, make sure to check off the following items:
 
 - Release the data required to reproduce the paper.
-- Create a stable release of the code repository and archive it where appropriate (e.g., on Zenodo).
+- Create a stable release of the code repository and archive it where appropriate (e.g., on Zenodo, see [here](https://daniellakens.blogspot.com/2026/08/which-data-repository-should-you-use.html) for an overview).
 - Fork the GitHub repository to the [CoCoSys Lab GitHub](https://github.com/cocosys-lab).
 - Prepare and submit the required [publication package](https://www.universiteitleiden.nl/sociale-wetenschappen/psychologie/good-practices/open-science#publication-packages).
 - Update the preprint with the final manuscript and check that the bioRxiv record is linked to the published article.
