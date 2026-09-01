@@ -11,7 +11,7 @@ _Note: if you feel like skipping the meeting, that's totally fine. If it's for s
 ## Template to fill out _before_ meeting
 For our regular supervision meetings, we'll use the template below (feel free to adapt it to your needs, or give me feedback). It was adapted from [Tomas Knapen's lab wiki](https://github.com/tknapen/tknapen.github.io/wiki/Meeting-template), who in turn got it from Martin Hebart.
 
-Fill it in before our meeting, and send it to Anne by email (just in the body of the text) with title _'Weekly summary [date]'_. If you have a better idea for keeping track (a shared living document? Teams channel?), I'm happy to explore!
+Fill it in before our meeting, and send it to Anne by email/Teams (just in the body of the text) with title _'Weekly summary [date]'_. If you have a better idea for keeping track (a shared living document? Teams channel?), I'm happy to explore!
 
 ### Current state of wellbeing
 Motivation is pretty good / I'm demotivated because... / I have fun working on ... / Still trying to get over the paper rejection... / I'm struggling with ... / I'm bored / Insecure
@@ -54,9 +54,10 @@ How are you doing? What's going on?
 
 ### Action points 
 Can be with or without estimated (self-imposed) deadlines or ETA. Separate by priority. Clarify: idea or request?
+- When are we meeting next?
 - ...
 
-_Ideally, we'll both take notes during our meeting. Please send them to me (as a reply to your original email) afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
+_Please take notes during our meeting, and send them to me afterwards, so we're on the same page - and to fight any forgetfulness on my part!_
 
 ---
 
