@@ -11,9 +11,7 @@ If you interested in the lab's research, please check out recent publications an
 # Open positions / vacancies
 
 ## CSC scholarship
-{: .note-title }
-> CSC scholarship
->
+{: .important }
 > Our group open for Chinese students to apply for a CSC scholarship to pursue a PhD on social tipping dynamics, especially in the context of climate action. Candidates with a background in (computational) climate and/or social science are especially encouraged to apply. Projects can be related to o.a. social norm dynamics, climate action and perceptions of social change.
 >
 > **Learn more**
@@ -24,17 +22,13 @@ If you interested in the lab's research, please check out recent publications an
 > Curious? Email [cocosys@fsw.leidenuniv.nl](cocosys@fsw.leidenuniv.nl)
 
 ## Research assistant
-{: .note-title }
-> Research assistant
->
+{: .important }
 > The CoCoSys Lab at Leiden University is looking for a research assistant to help get new experimental projects on social tipping points and collective climate action off the ground.
 > 
 > See [the lab website](https://anneurai.net/2026/09/24/research-assistant-opportunity/) for more details about the position.
 
 ## PhD and Postdoc positions
-{: .note-title }
-> PhD / Postdoc
->
+{: .important }
 > We will soon open PhD and postdoc positions on a new [NWO Vidi project](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/). Watch this space!
 
 # PhD / postdoc
