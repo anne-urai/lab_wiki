@@ -10,9 +10,9 @@ If you interested in the lab's research, please check out recent publications an
 
 # Open positions / vacancies
 
-## CSC scholarship
-{: .important }
-> Our group open for Chinese students to apply for a CSC scholarship to pursue a PhD on social tipping dynamics, especially in the context of climate action. Candidates with a background in (computational) climate and/or social science are especially encouraged to apply. Projects can be related to o.a. social norm dynamics, climate action and perceptions of social change.
+### CSC scholarship
+{: .note }
+> Our group is open for Chinese students to apply for a CSC scholarship to pursue a PhD on social tipping dynamics, especially in the context of climate action. Candidates with a background in (computational) climate and/or social science are especially encouraged to apply. Projects can be related to o.a. social norm dynamics, climate action and perceptions of social change.
 >
 > **Learn more**
 > - See the [lab website](https://anneurai.net/) for general information about our current and future research, and [this post](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/) for more details about potential project directions.
@@ -21,17 +21,18 @@ If you interested in the lab's research, please check out recent publications an
 > 
 > Curious? Email [cocosys@fsw.leidenuniv.nl](cocosys@fsw.leidenuniv.nl)
 
-## Research assistant
-{: .important }
+### Research assistant
+{: .note }
 > The CoCoSys Lab at Leiden University is looking for a research assistant to help get new experimental projects on social tipping points and collective climate action off the ground.
 > 
 > See [the lab website](https://anneurai.net/2026/09/24/research-assistant-opportunity/) for more details about the position.
 
-## PhD and Postdoc positions
-{: .important }
+### PhD and Postdoc positions
+{: .note }
 > We will soon open PhD and postdoc positions on a new [NWO Vidi project](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/). Watch this space!
 
-# PhD / postdoc
+# General information
+## PhD / postdoc
 Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, read [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) first.
 
 I'm always interested in discussing project ideas for PhD or postdoc candidates. However, you need grant or fellowship funding: vacancies in the Netherlands occur mostly through projects, not through a PhD program or university scholarships. Exceptions are scholarships through external foundations that finance your PhD (which are categorized as external PhDs). 
@@ -43,10 +44,10 @@ If you’d like to work with me, please send me
 
 If it is a good fit, I will collaborate on your research plan and write a letter of support.
 
-## Visiting students
+### Visiting students
 For shorter visits, the focus of your project should be closely aligned with that of a current lab member who can serve as your daily supervisor. Check out the current list of lab members, and feel free to contact them, to see if there is a good match.
 
-# MSc / BSc / BA students
+## MSc / BSc / BA students
 I normally accept students through the ACP MSc and the Psychology RM at Leiden University.
 
 If you're a student at Leiden University, or want to visit as an exchange student, please send me 
