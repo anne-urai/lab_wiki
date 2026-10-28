@@ -12,8 +12,8 @@ If you interested in the lab's research, please check out recent publications an
 > Open positions
 > 
 > The lab is open for the current applications:
-> - CSC scholarship application to pursue a PhD, see https://anneurai.net/2026/10/28/opening-for-csc-scholarship-application/.
-> - Research assistant position https://anneurai.net/2026/09/24/research-assistant-opportunity/.
+> - CSC scholarship application to pursue a PhD, see [https://anneurai.net/2026/10/28/opening-for-csc-scholarship-application/](https://anneurai.net/2026/10/28/opening-for-csc-scholarship-application/).
+> - Research assistant position, see [https://anneurai.net/2026/09/24/research-assistant-opportunity/](https://anneurai.net/2026/09/24/research-assistant-opportunity/).
 > - We will soon open PhD and postdoc positions on a new [NWO Vidi project](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/). Watch this space!
 
 # General information
