@@ -8,6 +8,17 @@ If you interested in the lab's research, please check out recent publications an
 
 > Note: please do **not** write a generic letter using GenAI that vaguely repeats the keywords on my website. See [other tips for writing a good motivation letter](https://www.linkedin.com/posts/emilia-hannula-b46b25326_phdlife-lookingforaphd-academicchatter-activity-7429191692370485248-XYPe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIx-2UBScIk5Aa6d9OexVTW59vwmueGbk4).
 
+{: .note-title }
+> Opening for CSC applicant
+>
+> Our group open for Chinese students to apply for a CSC scholarship to pursue a PhD on social tipping dynamics, especially in the context of climate action. Candidates with a background in (computational) climate and/or social science are especially encouraged to apply. Projects can be related to o.a. social norm dynamics, climate action and perceptions of social change.
+>
+> ### Learn more!
+> - See the lab website https://anneurai.net/ for general information about our current and future research, and and https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/ for more details about potential project directions.
+> - The lab wiki https://anne-urai.github.io/lab_wiki/ has more information about the lab's approach to research and way of working.
+> - Check out https://www.staff.universiteitleiden.nl/scholarships/saz/csc-scholarship?cf=social-and-behavioural-sciences&cd=psychology#csc-general-channel for practical information about the CSC fellowship.
+> 
+> Curious? Email cocosys@fsw.leidenuniv.nl
 
 # PhD / postdoc
 Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, read [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) first.
