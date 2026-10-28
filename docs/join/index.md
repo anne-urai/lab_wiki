@@ -12,9 +12,11 @@ If you interested in the lab's research, please check out recent publications an
 
 ## CSC scholarship
 {: .note-title }
+> CSC scholarship
+>
 > Our group open for Chinese students to apply for a CSC scholarship to pursue a PhD on social tipping dynamics, especially in the context of climate action. Candidates with a background in (computational) climate and/or social science are especially encouraged to apply. Projects can be related to o.a. social norm dynamics, climate action and perceptions of social change.
 >
-> ** Learn more**
+> **Learn more**
 > - See the [lab website](https://anneurai.net/) for general information about our current and future research, and [this post](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/) for more details about potential project directions.
 > - The [lab wiki](https://anne-urai.github.io/lab_wiki/) has more information about the lab's approach to research and way of working.
 > - Check out [this practical information](https://www.staff.universiteitleiden.nl/scholarships/saz/csc-scholarship?cf=social-and-behavioural-sciences&cd=psychology#csc-general-channel) about the CSC fellowship.
@@ -23,9 +25,17 @@ If you interested in the lab's research, please check out recent publications an
 
 ## Research assistant
 {: .note-title }
+> Research assistant
+>
 > The CoCoSys Lab at Leiden University is looking for a research assistant to help get new experimental projects on social tipping points and collective climate action off the ground.
 > 
 > See [the lab website](https://anneurai.net/2026/09/24/research-assistant-opportunity/) for more details about the position.
+
+## PhD and Postdoc positions
+{: .note-title }
+> PhD / Postdoc
+>
+> We will soon open PhD and postdoc positions on a new [NWO Vidi project](https://anneurai.net/2026/10/22/vidi-grant-on-social-tipping-points-awarded/). Watch this space!
 
 # PhD / postdoc
 Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, read [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) first.
