@@ -18,7 +18,7 @@ If you interested in the lab's research, please check out recent publications an
 
 # General information
 ## PhD / postdoc
-Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, read [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) first.
+Doing a PhD has many [benefits](https://doi.org/10.7554/eLife.81075) but can also be [tough love](https://neurochambers.blogspot.com/2012/05/tough-love-insensitive-guide-to.html). If you are considering a PhD, start by reading [these guidelines](https://www.cameronbrick.com/should-i-get-a-phd) carefully.
 
 I'm always interested in discussing project ideas for PhD or postdoc candidates. However, you need grant or fellowship funding: vacancies in the Netherlands occur mostly through projects, not through a PhD program or university scholarships. Exceptions are scholarships through external foundations that finance your PhD (which are categorized as external PhDs). 
 
