@@ -61,10 +61,17 @@ _Please take notes during our meeting, and send them to me afterwards, so we're 
 
 ---
 
-# Evaluation meetings
+# Evaluation/review meetings
 Once or twice a year, we'll zoom out together to see what's been done, what lies ahead, what works well and what doesn't: accomplishments and challenges in the past 6 months, plans for the next 6 months, personal goals and training needs, feedback on lab culture, mentorship, supervision and conduct.
 
-For instance:
+#### Before the meeting:
+- Please review the [golden rules of supervision](https://www.universiteitleiden.nl/binaries/content/assets/sociale-wetenschappen/graduate-school-fsw/supervisors/golden-rules-in-phd-supervision.pdf) as a starting point for our discussion.
+- Bring our mentoring agreement, and see if it needs to be updated.
+- Review last review meetings' documents, and your current T&S plan.
+- If applicable, bring a (tentative) authorship contribution table for all projects/papers you are working on (see guidelines on the wiki). This way, we can discuss and make sure everyone on the project is on the same page.
+- Reflect on the questions below, and write down some answers and talking points. 
+
+#### Questions to reflect on
 - Are you happy with the way things are going - scientifically, personally (work-life harmony), in the department and in the lab?
 - Did you take sufficient vacation days?
 - What have you accomplished? Does this match your original plans?
@@ -75,9 +82,11 @@ For instance:
 - What are your goals for the next few months or year? Where do you see yourself in a few years?
 - What milestones (when? steps to achieving those?) do we have coming up in the next (half) year?
 
-Also, please bring a (tentative) authorship contribution table for all projects/papers you are working on (see guidelines on the wiki). This way, we can discuss and make sure everyone on the project is on the same page.
+Feedback for me
+- What is one thing I'm doing that I could do better? What am doing that's getting in my own way, or your way?
 
-Feedback for me:
-- What is one thing I'm doing that I could do better? One thing I'm doing that's getting in my own way?
-
-During these meetings, we will update and revise our mentoring agreement.
+### During the review meeting,
+We will 
+- reflect together, celebrate successes, give feedback and openly share about challenges (see the Golden Rules);
+- update and revise our mentoring agreement and T&S plan;
+- plan the next review meeting.
