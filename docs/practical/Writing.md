@@ -73,5 +73,5 @@ Congratulations, your paper has been published! Before closing the project and m
 - Fork the GitHub repository to the [CoCoSys Lab GitHub](https://github.com/cocosys-lab).
 - Prepare and submit the required [publication package](https://www.universiteitleiden.nl/sociale-wetenschappen/psychologie/good-practices/open-science#publication-packages).
 - Update the preprint with the final manuscript and check that the bioRxiv record is linked to the published article.
-- Disseminate the paper through the lab blog, Leiden Psychology news (news.psy@fsw.leidenuniv.nl), and social media posts.
+- Disseminate the paper through the lab blog, Leiden Psychology news (news.psy@fsw.leidenuniv.nl), and social media posts. See [here](https://www.staff.universiteitleiden.nl/communications--marketing/communications/science-communication/research-in-the-media/social-and-behavioural-sciences/psychology?cf=social-and-behavioural-sciences&cd=psychology#dissemination,dialogue) for lots of good advice from the institute.
 
