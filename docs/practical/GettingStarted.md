@@ -24,8 +24,8 @@ See [this](https://www.staff.universiteitleiden.nl/human-resources/new-staff?cf=
 - Remember to add your project to the [university website](https://www.staff.universiteitleiden.nl/communications--marketing/guidelines-and-support/website-and-web-editorial-team/changes-to-the-website/social-and-behavioural-sciences/psychology?cf=administration-and-central-services#).
     
 ### Lab-level
-- Anne will add you to the Google lab calendar (where you can see lab events, talks etc).
 - Anne will add you to the _CoCoSys lab teams_. This is the main communication channel for the lab, where we also store shared files: posters, templates, forms.
+- Anne will add you to the lab calendar (where you can see lab events, talks etc). In Outlook, it should appear under 'My calendars', where you can make it visible. See [this message](https://teams.microsoft.com/l/message/19:a8af709ab8be42e9a806343151da6341@thread.tacv2/1794324441379?tenantId=ca2a7f76-dbd7-4ec0-9108-6b3d524fb7c8&groupId=6b5150d7-29f6-40da-9e5c-b398b757e449&parentMessageId=1787310694661&teamName=CoCoSys%20lab%20chat&channelName=General%20CoCoSys&createdTime=1794324441379) for adding the lab calendar to your own calendar overview outside of Outlook.
 - We will schedule an onboarding session, specifically to together write our _Mentoring agreement together_, ideally in the first weeks of you joining the lab.
 - Geting organised: my setup is Zotero for papers, Obsidian for notes/planning, GitHub projects for project tracking, MS Teams for quick communication.
 - Familiarize yourself with the contents of this wiki, and tell me how it can be improved!
